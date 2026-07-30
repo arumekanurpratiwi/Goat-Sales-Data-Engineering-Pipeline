@@ -1,0 +1,1251 @@
+id,nama,jenis_transaksi,Metode Pembayaran,Data Transaksi,Status Transaksi
+1,Pia Ramadan,debit,BCA,8426156836.0,lunas
+2,Wasis Sirait,kredit,OVO,62812345679.0,belum lunas
+3,"Cakrabirawa Thamrin, S.H.",cash,tunai,,lunas
+4,Karimah Farida,cash,tunai,,lunas
+5,Lalita Rajata,cash,tunai,,lunas
+6,Dipa Yulianti,cash,tunai,,lunas
+7,Kasiyah Najmudin,kredit,BTN,9383270497.0,belum lunas
+8,"Dt. Luhung Putra, S.Farm",debit,Shopepay,62812345680.0,lunas
+9,"Asmianto Rajasa, M.Kom.",kredit,BNI,7974760267.0,belum lunas
+10,Natalia Halim,debit,Shopepay,62812345681.0,lunas
+11,Darsirah Sudiati,kredit,Seabank,3498318918.0,belum lunas
+12,"Puti Fathonah Zulaika, S.H.",debit,OVO,62812345682.0,lunas
+13,"dr. Wage Santoso, M.TI.",debit,OVO,62812345683.0,lunas
+14,"R.M. Marsito Sudiati, S.E.I",kredit,BCA,6342451517.0,belum lunas
+15,Ganep Uwais,debit,BNI,6065089045.0,lunas
+16,Karna Sitompul,kredit,BTN,6747065047.0,belum lunas
+17,Oman Samosir,debit,Mandiri,5206982825.0,lunas
+18,Elma Suryatmi,debit,Dana,62812345684.0,lunas
+19,Sabrina Sinaga,cash,tunai,,lunas
+20,Harja Firgantoro,kredit,BRI,6333495061.0,belum lunas
+21,Iriana Wulandari,kredit,OVO,62812345685.0,belum lunas
+22,Balijan Mansur,kredit,Seabank,8216236666.0,belum lunas
+23,"Radit Aryani, M.Pd",debit,Gopay,62812345686.0,lunas
+24,Faizah Napitupulu,debit,BTN,1069513776.0,lunas
+25,drg. Zaenab Puspita,cash,tunai,,lunas
+26,"Vino Thamrin, S.Gz",debit,BNI,6732195388.0,lunas
+27,Fitriani Sitompul,kredit,BCA,8399169867.0,belum lunas
+28,Nabila Agustina,kredit,Mandiri,5856401581.0,belum lunas
+29,Zaenab Sinaga,debit,Gopay,62812345687.0,lunas
+30,Victoria Suwarno,debit,OVO,62812345688.0,lunas
+31,"Novi Santoso, M.Ak",debit,BNI,2673388215.0,lunas
+32,R.A. Kiandra Tampubolon,cash,tunai,,lunas
+33,Danang Rahimah,kredit,Gopay,62812345689.0,belum lunas
+34,Dalimin Sitorus,cash,tunai,,lunas
+35,Cinthia Setiawan,cash,tunai,,lunas
+36,Setya Narpati,debit,BRI,4124892124.0,lunas
+37,Ikhsan Wahyudin,cash,tunai,,lunas
+38,"Cut Michelle Laksita, S.E.",cash,tunai,,lunas
+39,Eka Mandala,debit,BRI,3099694593.0,lunas
+40,"Rachel Hutagalung, S.T.",debit,LinkAja,62812345690.0,lunas
+41,"Ina Uwais, M.Ak",debit,Seabank,3788225868.0,lunas
+42,Ida Mayasari,debit,Seabank,4161672496.0,lunas
+43,Ivan Prasetya,kredit,OVO,62812345691.0,belum lunas
+44,"R. Jayeng Hutapea, M.Ak",cash,tunai,,lunas
+45,Dian Puspasari,kredit,BTN,9467070005.0,belum lunas
+46,Rangga Rahmawati,kredit,BCA,1583229861.0,belum lunas
+47,Rendy Haryanti,debit,Shopepay,62812345692.0,lunas
+48,Ella Rajata,debit,Flip,4421060627.0,lunas
+49,Hasan Hutagalung,cash,tunai,,lunas
+50,Bahuwirya Sitorus,kredit,LinkAja,62812345693.0,belum lunas
+51,Ir. Galak Rahimah,debit,Mandiri,3315850607.0,lunas
+52,Aris Handayani,debit,OVO,62812345694.0,lunas
+53,"H. Gangsa Yulianti, S.Psi",debit,Shopepay,62812345695.0,lunas
+54,Faizah Nainggolan,cash,tunai,,lunas
+55,"Drs. Galih Napitupulu, S.Farm",cash,tunai,,lunas
+56,Nadia Wacana,cash,tunai,,lunas
+57,"Jelita Nasyiah, S.Pd",cash,tunai,,lunas
+58,drg. Raisa Sitorus,kredit,Shopepay,62812345696.0,belum lunas
+59,Dt. Taufik Firgantoro,debit,Dana,62812345697.0,lunas
+60,Yosef Nurdiyanti,cash,tunai,,lunas
+61,Elma Maulana,cash,tunai,,lunas
+62,Kamila Agustina,cash,tunai,,lunas
+63,Puti Mutia Susanti,debit,BNI,5983433480.0,lunas
+64,Lukman Siregar,cash,tunai,,lunas
+65,Vanya Tarihoran,kredit,Seabank,1508818043.0,belum lunas
+66,"Kasim Tamba, M.Farm",kredit,Flip,6958787684.0,belum lunas
+67,"Soleh Marbun, S.E.",debit,BTN,4100371121.0,lunas
+68,Ghaliyati Rahimah,debit,Dana,62812345698.0,lunas
+69,Paiman Tarihoran,cash,tunai,,lunas
+70,Mulyanto Jailani,kredit,BNI,7637419065.0,belum lunas
+71,"Sutan Ganda Habibi, M.Ak",kredit,BRI,5280848788.0,belum lunas
+72,Zahra Kuswandari,debit,BRI,4023272849.0,lunas
+73,"Tgk. Rini Wasita, S.E.",debit,BNI,2681875224.0,lunas
+74,Sutan Gangsa Mustofa,kredit,Flip,7573018489.0,belum lunas
+75,Arsipatra Manullang,debit,BRI,4004203790.0,lunas
+76,Yosef Zulkarnain,cash,tunai,,lunas
+77,R. Harjaya Irawan,cash,tunai,,lunas
+78,Damu Padmasari,cash,tunai,,lunas
+79,Rangga Damanik,kredit,BCA,4070860859.0,belum lunas
+80,Rosman Puspita,debit,BRI,7665521088.0,lunas
+81,Drs. Almira Haryanto,debit,BNI,8707347303.0,lunas
+82,R. Calista Narpati,debit,BCA,1159250096.0,lunas
+83,"Cut Cinthia Mahendra, S.I.Kom",cash,tunai,,lunas
+84,Reza Winarsih,debit,BRI,6515023462.0,lunas
+85,Gawati Hutasoit,debit,BRI,6949224435.0,lunas
+86,"Tami Wahyudin, M.TI.",debit,Dana,62812345699.0,lunas
+87,Amalia Sirait,debit,Flip,2503057572.0,lunas
+88,Genta Wijaya,debit,Seabank,2262170937.0,lunas
+89,Taufik Haryanti,debit,Shopepay,62812345700.0,lunas
+90,Lalita Kuswoyo,cash,tunai,,lunas
+91,Panji Zulkarnain,debit,Shopepay,62812345701.0,lunas
+92,R.A. Farah Novitasari,cash,tunai,,lunas
+93,Amalia Suryatmi,cash,tunai,,lunas
+94,Ida Hartati,debit,Mandiri,4107854820.0,lunas
+95,Gandi Hidayat,cash,tunai,,lunas
+96,"Luis Gunawan, S.Sos",kredit,OVO,62812345702.0,belum lunas
+97,Elvin Permadi,debit,Shopepay,62812345703.0,lunas
+98,Lembah Kuswandari,kredit,Dana,62812345704.0,belum lunas
+99,Winda Agustina,cash,tunai,,lunas
+100,Candrakanta Mayasari,kredit,Dana,62812345705.0,belum lunas
+101,"Winda Sudiati, S.T.",kredit,BRI,7970777127.0,belum lunas
+102,Banara Sihombing,debit,LinkAja,62812345706.0,lunas
+103,Indah Narpati,kredit,BNI,6080989550.0,belum lunas
+104,Kacung Dabukke,debit,BTN,2067049705.0,lunas
+105,Aswani Widodo,kredit,BTN,8793986917.0,belum lunas
+106,Aurora Nuraini,debit,BTN,4743145872.0,lunas
+107,Olivia Sirait,cash,tunai,,lunas
+108,Ajiono Mandasari,debit,BCA,1320506915.0,lunas
+109,Wakiman Pradana,kredit,Mandiri,6647574999.0,belum lunas
+110,"Ir. Tania Manullang, M.Ak",debit,Shopepay,62812345708.0,lunas
+111,Kasiran Nainggolan,kredit,LinkAja,62812345709.0,belum lunas
+112,Diana Habibi,debit,OVO,62812345710.0,lunas
+113,"Aswani Handayani, S.T.",cash,tunai,,lunas
+114,Betania Setiawan,debit,BRI,8206050395.0,lunas
+115,"R. Jamal Uyainah, S.Psi",kredit,Mandiri,2527242697.0,belum lunas
+116,Salsabila Damanik,debit,Seabank,8543414410.0,lunas
+117,Dt. Gada Irawan,cash,tunai,,lunas
+118,Padmi Purwanti,cash,tunai,,lunas
+119,Zamira Hasanah,kredit,Flip,1534647398.0,belum lunas
+120,"R.M. Eko Ardianto, M.TI.",cash,tunai,,lunas
+121,"T. Jumadi Nashiruddin, M.Pd",cash,tunai,,lunas
+122,Gilda Budiman,cash,tunai,,lunas
+123,Nrima Suryono,kredit,BNI,3953033210.0,belum lunas
+124,Hamima Tamba,cash,tunai,,lunas
+125,Aisyah Kuswandari,debit,BCA,3438598914.0,lunas
+126,dr. Gina Hartati,cash,tunai,,lunas
+127,Tgk. Makara Nasyiah,kredit,BTN,5806197597.0,belum lunas
+128,Limar Hardiansyah,debit,BNI,5780605336.0,lunas
+129,"Ilyas Hastuti, S.E.I",debit,LinkAja,62812345711.0,lunas
+130,Yunita Yuniar,debit,BCA,3898682396.0,lunas
+131,Oman Hutagalung,kredit,Dana,62812345712.0,belum lunas
+132,Kamila Saragih,cash,tunai,,lunas
+133,Zelda Utami,debit,Dana,62812345713.0,lunas
+134,Hartaka Pratiwi,debit,Dana,62812345714.0,lunas
+135,Gantar Oktaviani,debit,BRI,2668091044.0,lunas
+136,drg. Rahayu Dabukke,kredit,Dana,62812345715.0,belum lunas
+137,"Zahra Mayasari, S.Psi",cash,tunai,,lunas
+138,"Kalim Hardiansyah, S.Pd",kredit,Shopepay,62812345716.0,belum lunas
+139,Asmianto Rajasa,debit,BRI,3603469083.0,lunas
+140,R.A. Maimunah Zulkarnain,cash,tunai,,lunas
+141,drg. Puput Hassanah,cash,tunai,,lunas
+142,Puti Cindy Widodo,cash,tunai,,lunas
+143,Ana Agustina,kredit,BNI,3439098897.0,belum lunas
+144,"Gaduh Januar, M.Farm",kredit,BTN,5336970926.0,belum lunas
+145,Drs. Zalindra Mulyani,kredit,Gopay,62812345717.0,belum lunas
+146,"drg. Eli Winarno, S.Kom",cash,tunai,,lunas
+147,"Puti Ella Lazuardi, S.Pd",kredit,BCA,2191672064.0,belum lunas
+148,"R. Mahmud Budiman, S.Farm",kredit,BCA,2225663044.0,belum lunas
+149,Padmi Haryanto,kredit,LinkAja,62812345718.0,belum lunas
+150,"drg. Bella Simbolon, S.E.I",debit,Flip,8670277913.0,lunas
+151,Legawa Saefullah,cash,tunai,,lunas
+152,Daru Hidayanto,debit,BTN,9347938683.0,lunas
+153,Laila Halim,debit,Shopepay,62812345719.0,lunas
+154,Dinda Sihombing,kredit,Gopay,62812345720.0,belum lunas
+155,"Drs. Juli Prasasta, S.Gz",kredit,Flip,3330072754.0,belum lunas
+156,"Cut Zaenab Prabowo, S.Pt",cash,tunai,,lunas
+157,Ira Hutasoit,debit,BRI,6329876675.0,lunas
+158,Puji Yulianti,cash,tunai,,lunas
+159,Okto Rahayu,kredit,Seabank,5558022022.0,belum lunas
+160,Rahman Mardhiyah,kredit,Dana,62812345721.0,belum lunas
+161,"Leo Utami, M.Farm",debit,BRI,8026171963.0,lunas
+162,Dr. Alika Kusumo,debit,BNI,9951214919.0,lunas
+163,Nrima Prastuti,cash,tunai,,lunas
+164,"Ir. Widya Prasasta, S.T.",cash,tunai,,lunas
+165,"H. Pangeran Kurniawan, S.Sos",kredit,Shopepay,62812345722.0,belum lunas
+166,"R. Fitriani Purwanti, S.Psi",kredit,Gopay,62812345727.0,belum lunas
+167,Marsito Oktaviani,debit,Dana,62812345723.0,lunas
+168,Rika Halimah,cash,tunai,,lunas
+169,Virman Nasyidah,debit,Mandiri,1137571150.0,lunas
+170,Cawisadi Prayoga,debit,Dana,62812345731.0,lunas
+171,Rafi Widodo,cash,tunai,,lunas
+172,"Bajragin Natsir, S.Kom",kredit,LinkAja,62812345733.0,belum lunas
+173,dr. Raharja Hardiansyah,debit,BCA,8832669403.0,lunas
+174,Olga Hasanah,kredit,Gopay,62812345734.0,belum lunas
+175,Dewi Rahmawati,cash,tunai,,lunas
+176,Syahrini Samosir,cash,tunai,,lunas
+177,Dr. Jamalia Firgantoro,kredit,Gopay,62812345735.0,belum lunas
+178,Novi Thamrin,kredit,BCA,5831184097.0,belum lunas
+179,Indah Nashiruddin,kredit,BTN,3507910728.0,belum lunas
+180,Ade Pranowo,kredit,BCA,2088908790.0,belum lunas
+181,Ani Irawan,debit,Mandiri,2901113291.0,lunas
+182,Harto Saefullah,kredit,BRI,1809065151.0,belum lunas
+183,"Qori Mulyani, S.H.",debit,Mandiri,7435591838.0,lunas
+184,Marsudi Pudjiastuti,debit,Shopepay,62812345737.0,lunas
+185,Najam Saefullah,debit,BNI,8577174156.0,lunas
+186,"Nalar Adriansyah, M.Kom.",kredit,Shopepay,62812345739.0,belum lunas
+187,"Cornelia Wibowo, S.E.",cash,tunai,,lunas
+188,Nadine Pudjiastuti,debit,LinkAja,62812345741.0,lunas
+189,"Drs. Radit Hariyah, S.Farm",cash,tunai,,lunas
+190,"Dr. Ratna Mardhiyah, S.E.I",debit,OVO,62812345743.0,lunas
+191,Olivia Hutapea,debit,BCA,1962044105.0,lunas
+192,Wardaya Siregar,kredit,BTN,9753080925.0,belum lunas
+193,Olivia Prastuti,kredit,Shopepay,62812345745.0,belum lunas
+194,Harjasa Pudjiastuti,cash,tunai,,lunas
+195,"drg. Violet Suwarno, S.E.I",cash,tunai,,lunas
+196,drg. Taufan Farida,cash,tunai,,lunas
+197,"Nilam Halim, S.IP",cash,tunai,,lunas
+198,Cut Silvia Permadi,kredit,BTN,1212426245.0,belum lunas
+199,Ophelia Sihombing,debit,BCA,9248811330.0,lunas
+200,"Murti Pradana, S.Farm",debit,BTN,1438937135.0,lunas
+201,drg. Dian Utami,debit,Gopay,62812345747.0,lunas
+202,"T. Martaka Firgantoro, S.IP",cash,tunai,,lunas
+203,Widya Haryanti,cash,tunai,,lunas
+204,"Kamila Prastuti, S.H.",kredit,BCA,3321107176.0,belum lunas
+205,"Sutan Wakiman Anggraini, S.E.I",debit,Seabank,6410569980.0,lunas
+206,Ian Novitasari,cash,tunai,,lunas
+207,Vinsen Purwanti,cash,tunai,,lunas
+208,"Dr. Hani Situmorang, S.I.Kom",debit,Dana,62812345748.0,lunas
+209,Nova Mandala,kredit,BRI,8920316118.0,belum lunas
+210,"Hartana Kuswoyo, S.Sos",debit,OVO,62812345749.0,lunas
+211,Jabal Aryani,kredit,Shopepay,62812345751.0,belum lunas
+212,Ellis Prastuti,debit,Seabank,6350446588.0,lunas
+213,Salman Saputra,cash,tunai,,lunas
+214,"Zulfa Waluyo, S.Farm",cash,tunai,,lunas
+215,Dr. Liman Hastuti,cash,tunai,,lunas
+216,H. Jarwa Wijayanti,kredit,BTN,9263790199.0,belum lunas
+217,"Aurora Permata, M.Farm",kredit,Mandiri,1333450019.0,belum lunas
+218,"Dt. Eka Mahendra, S.Kom",kredit,Mandiri,7539644728.0,belum lunas
+219,Hj. Novi Suryatmi,cash,tunai,,lunas
+220,"Himawan Aryani, S.Gz",kredit,OVO,62812345753.0,belum lunas
+221,Ajiman Safitri,cash,tunai,,lunas
+222,Icha Irawan,cash,tunai,,lunas
+223,Rachel Lailasari,kredit,Mandiri,8850965295.0,belum lunas
+224,Edi Budiyanto,cash,tunai,,lunas
+225,Yessi Prakasa,debit,Dana,62812345755.0,lunas
+226,"Kardi Sudiati, S.E.I",cash,tunai,,lunas
+227,Salwa Rahimah,kredit,OVO,62812345757.0,belum lunas
+228,Ciaobella Mulyani,cash,tunai,,lunas
+229,Rafi Salahudin,cash,tunai,,lunas
+230,Wadi Hartati,debit,BNI,3472289839.0,lunas
+231,Radit Pertiwi,cash,tunai,,lunas
+232,"Ir. Farah Tampubolon, S.IP",kredit,BCA,3248279663.0,belum lunas
+233,KH. Vega Marbun,cash,tunai,,lunas
+234,Dr. Zelda Uyainah,cash,tunai,,lunas
+235,Lukman Putra,debit,Dana,62812345759.0,lunas
+236,Lidya Safitri,cash,tunai,,lunas
+237,"Erik Hutasoit, S.I.Kom",debit,Dana,62812345761.0,lunas
+238,Irsad Wibisono,debit,BNI,3895265391.0,lunas
+239,Lala Suryono,cash,tunai,,lunas
+240,"Karsana Prasetyo, M.Pd",kredit,Dana,62812345763.0,belum lunas
+241,Maya Lazuardi,kredit,BRI,3246558971.0,belum lunas
+242,"Betania Saptono, S.H.",cash,tunai,,lunas
+243,drg. Zulfa Pradipta,kredit,BCA,3090077467.0,belum lunas
+244,"Yono Siregar, M.Kom.",cash,tunai,,lunas
+245,Ida Handayani,kredit,BNI,1063341506.0,belum lunas
+246,Drs. Zulfa Saptono,kredit,Gopay,62812345765.0,belum lunas
+247,Martaka Hartati,debit,BNI,8187207032.0,lunas
+248,Amelia Andriani,cash,tunai,,lunas
+249,"Cahyadi Wijayanti, S.Ked",debit,LinkAja,62812345767.0,lunas
+250,Keisha Ardianto,cash,tunai,,lunas
+251,"Tgk. Anastasia Halimah, S.Pt",debit,LinkAja,62812345769.0,lunas
+252,"Ir. Anita Kusmawati, S.Sos",cash,tunai,,lunas
+253,Ganda Prayoga,kredit,Seabank,4478316559.0,belum lunas
+254,Bakianto Mandala,debit,Seabank,2530919940.0,lunas
+255,Jaswadi Rahayu,cash,tunai,,lunas
+256,Okto Nababan,kredit,Mandiri,1051281338.0,belum lunas
+257,"Dr. Septi Saptono, S.Farm",kredit,Shopepay,62812345771.0,belum lunas
+258,Maman Lazuardi,cash,tunai,,lunas
+259,"Citra Hutapea, S.Pt",debit,Gopay,7749778930.0,lunas
+260,"Gandewa Rajasa, M.Kom.",kredit,BNI,2812130239.0,belum lunas
+261,R.A. Tantri Habibi,debit,LinkAja,62812345773.0,lunas
+262,Mitra Permata,kredit,Shopepay,62812345775.0,belum lunas
+263,"Maida Dongoran, S.Pt",kredit,Mandiri,2795251110.0,belum lunas
+264,Estiawan Saragih,kredit,Dana,62812345777.0,belum lunas
+265,Dalima Mulyani,debit,BCA,2198592765.0,lunas
+266,Cengkal Siregar,kredit,Flip,7628604171.0,belum lunas
+267,"Ir. Shakila Sihombing, M.Farm",kredit,Dana,62812345779.0,belum lunas
+268,"R.A. Putri Nugroho, S.Kom",cash,tunai,,lunas
+269,Cut Salsabila Dabukke,cash,tunai,,lunas
+270,Citra Samosir,kredit,BTN,6521399660.0,belum lunas
+271,R.M. Ian Usamah,kredit,Mandiri,5037132469.0,belum lunas
+272,"Ade Wastuti, S.Gz",debit,Flip,6358125033.0,lunas
+273,Saka Iswahyudi,cash,tunai,,lunas
+274,"Rafi Hutagalung, M.Pd",debit,Seabank,2042610800.0,lunas
+275,Elvin Firgantoro,debit,BTN,4811276758.0,lunas
+276,Usman Sudiati,kredit,Gopay,62812345781.0,belum lunas
+277,Puti Paramita Kuswoyo,debit,Gopay,62812345783.0,lunas
+278,Caraka Saputra,cash,tunai,,lunas
+279,"Latika Yuliarti, S.E.I",cash,tunai,,lunas
+280,Ophelia Prabowo,cash,tunai,,lunas
+281,Wulan Purwanti,debit,LinkAja,62812345785.0,lunas
+282,Shakila Mardhiyah,kredit,Seabank,2212348447.0,belum lunas
+283,Maimunah Pertiwi,debit,Gopay,62812345787.0,lunas
+284,Taufan Pradana,kredit,BNI,3253805065.0,belum lunas
+285,"Puti Tari Thamrin, S.Psi",cash,tunai,,lunas
+286,"Gasti Mangunsong, S.Ked",cash,tunai,,lunas
+287,"Tira Hakim, S.Farm",kredit,BRI,7291791739.0,belum lunas
+288,Candra Sihombing,debit,Dana,62812345789.0,lunas
+289,"Uda Hardiansyah, S.Sos",cash,tunai,,lunas
+290,Mustika Maheswara,kredit,BNI,3264968485.0,belum lunas
+291,Ifa Hidayanto,kredit,BNI,5319950430.0,belum lunas
+292,Ilsa Ardianto,debit,Flip,6132233931.0,lunas
+293,Ir. Vanya Permata,debit,Flip,2981940061.0,lunas
+294,Pangeran Farida,cash,tunai,,lunas
+295,Bakti Halim,cash,tunai,,lunas
+296,"Ibrani Sihotang, S.Ked",debit,Dana,62812345788.0,lunas
+297,"Hardi Wasita, M.TI.",cash,tunai,,lunas
+298,"R. Cahya Pratiwi, M.Kom.",cash,tunai,,lunas
+299,Irfan Purwanti,cash,tunai,,lunas
+300,"Drs. Ana Padmasari, S.I.Kom",cash,tunai,,lunas
+301,T. Kariman Hariyah,kredit,Gopay,62812345791.0,belum lunas
+302,"Galak Usada, S.T.",kredit,OVO,62812345793.0,belum lunas
+303,Gadang Permadi,cash,tunai,,lunas
+304,Genta Hasanah,kredit,Flip,3379621676.0,belum lunas
+305,"KH. Sidiq Yuniar, M.M.",cash,tunai,,lunas
+306,"Dr. Jessica Hutapea, S.Psi",kredit,Dana,62812345795.0,belum lunas
+307,Tomi Suryatmi,debit,Dana,62812345797.0,lunas
+308,"Drs. Lala Megantara, S.Ked",cash,tunai,,lunas
+309,"Zamira Mandala, S.Pt",cash,tunai,,lunas
+310,"Widya Nainggolan, S.I.Kom",cash,tunai,,lunas
+311,Bala Zulkarnain,debit,LinkAja,62812345798.0,lunas
+312,Sadina Mahendra,cash,tunai,,lunas
+313,Ayu Haryanti,kredit,BRI,8030433950.0,belum lunas
+314,Tami Namaga,kredit,LinkAja,62812345799.0,belum lunas
+315,Shania Mardhiyah,cash,tunai,,lunas
+316,"H. Asman Widodo, S.T.",cash,tunai,,lunas
+317,"Hilda Haryanto, S.IP",debit,Flip,3715116159.0,lunas
+318,"KH. Harjaya Iswahyudi, S.Pd",debit,OVO,62812345801.0,lunas
+319,Mulyanto Puspasari,kredit,Gopay,62812345803.0,belum lunas
+320,Dt. Bakiono Uwais,cash,tunai,,lunas
+321,Daliono Simbolon,kredit,Gopay,62812345805.0,belum lunas
+322,H. Daryani Irawan,cash,tunai,,lunas
+323,Nurul Situmorang,debit,Seabank,1245847850.0,lunas
+324,Nadia Nasyiah,cash,tunai,,lunas
+325,Novi Hariyah,cash,tunai,,lunas
+326,Ilyas Budiyanto,cash,tunai,,lunas
+327,Yono Budiman,debit,Seabank,5295884554.0,lunas
+328,Candra Firgantoro,cash,tunai,,lunas
+329,dr. Silvia Nainggolan,debit,BTN,9195793389.0,lunas
+330,Laila Utami,cash,tunai,,lunas
+331,Jais Purnawati,cash,tunai,,lunas
+332,Vino Permata,debit,Flip,8218633760.0,lunas
+333,Garang Nababan,kredit,Dana,62812345807.0,belum lunas
+334,Sakti Purnawati,debit,BTN,4820383748.0,lunas
+335,Galuh Adriansyah,cash,tunai,,lunas
+336,Halima Januar,cash,tunai,,lunas
+337,Kasiran Puspita,kredit,BNI,6227617793.0,belum lunas
+338,KH. Dartono Permata,kredit,Gopay,62812345809.0,belum lunas
+339,"Daniswara Prastuti, S.Psi",kredit,Gopay,62812345811.0,belum lunas
+340,Hari Namaga,cash,tunai,,lunas
+341,Dr. Kartika Pradana,debit,Seabank,8126441693.0,lunas
+342,Hamima Wahyudin,kredit,Seabank,8182141512.0,belum lunas
+343,"Dartono Nainggolan, S.Ked",debit,Seabank,6273247223.0,lunas
+344,"Prima Januar, S.Gz",cash,tunai,,lunas
+345,Hasan Mayasari,cash,tunai,,lunas
+346,Iriana Sihombing,debit,Flip,3251340206.0,lunas
+347,Jabal Halim,cash,tunai,,lunas
+348,Drs. Jindra Wijaya,cash,tunai,,lunas
+349,Juli Melani,cash,tunai,,lunas
+350,Jelita Budiman,kredit,Gopay,62812345813.0,belum lunas
+351,Gatot Susanti,debit,BRI,5325625701.0,lunas
+352,Amelia Mahendra,debit,Dana,62812345815.0,lunas
+353,"Kajen Purnawati, S.T.",cash,tunai,,lunas
+354,"Lembah Mustofa, M.TI.",cash,tunai,,lunas
+355,Aris Ramadan,debit,Shopepay,7522940638.0,lunas
+356,Dewi Zulaika,cash,tunai,,lunas
+357,"Sutan Garda Winarno, S.E.I",cash,tunai,,lunas
+358,"Tasnim Permata, M.Ak",kredit,LinkAja,62812345817.0,belum lunas
+359,Novi Habibi,debit,BTN,1617588108.0,lunas
+360,T. Narji Prasasta,kredit,BRI,8636268848.0,belum lunas
+361,Hasan Prakasa,debit,OVO,62812345819.0,lunas
+362,R.A. Septi Usada,debit,Flip,9448636000.0,lunas
+363,Puti Mayasari,debit,Gopay,62812345821.0,lunas
+364,Padma Siregar,debit,Dana,62812345823.0,lunas
+365,Ganep Wacana,cash,tunai,,lunas
+366,"Dr. Zulfa Uyainah, S.Pt",debit,Flip,9329776887.0,lunas
+367,Digdaya Nababan,cash,tunai,,lunas
+368,Emin Haryanti,kredit,LinkAja,62812345823.0,belum lunas
+369,Ellis Wibowo,kredit,BRI,1253497964.0,belum lunas
+370,Syahrini Nababan,cash,tunai,,lunas
+371,Nilam Palastri,kredit,Mandiri,5704660766.0,belum lunas
+372,Kamaria Nuraini,debit,Flip,4426107404.0,lunas
+373,"Cut Queen Halim, S.Pt",debit,Mandiri,6200472316.0,lunas
+374,"Rika Winarsih, M.Kom.",debit,Gopay,62812345825.0,lunas
+375,Widya Megantara,debit,Dana,62812345827.0,lunas
+376,"Keisha Saputra, M.Ak",cash,tunai,,lunas
+377,"Dr. Silvia Latupono, S.E.I",kredit,LinkAja,62812345829.0,belum lunas
+378,"R.A. Ajeng Riyanti, S.E.",cash,tunai,,lunas
+379,Oskar Thamrin,cash,tunai,,lunas
+380,"Ir. Cahyadi Siregar, S.Pd",debit,BCA,7983586141.0,lunas
+381,Respati Haryanti,cash,tunai,,lunas
+382,"Nyoman Pratiwi, M.TI.",debit,Dana,62812345831.0,lunas
+383,"Dr. Tomi Prabowo, S.E.I",cash,tunai,,lunas
+384,Suci Rahimah,debit,Dana,62812345833.0,lunas
+385,Queen Hartati,debit,Gopay,62812345834.0,lunas
+386,"Yuni Wasita, M.Pd",cash,tunai,,lunas
+387,Wirda Zulaika,cash,tunai,,lunas
+388,drg. Edward Kurniawan,cash,tunai,,lunas
+389,Ir. Harsana Nurdiyanti,kredit,BCA,5671393761.0,belum lunas
+390,Candra Mulyani,kredit,BNI,7877756288.0,belum lunas
+391,Melinda Sirait,cash,tunai,,lunas
+392,Wawan Mangunsong,kredit,BNI,7949814225.0,belum lunas
+393,"Dt. Harto Zulaika, M.TI.",debit,BCA,6065086182.0,lunas
+394,Rini Pangestu,kredit,Gopay,62812345835.0,belum lunas
+395,Cinthia Halimah,debit,BCA,7184833522.0,lunas
+396,Ayu Hutagalung,kredit,OVO,62812345837.0,belum lunas
+397,Dr. Hafshah Mardhiyah,debit,Gopay,62812345839.0,lunas
+398,"R. Danang Suryatmi, S.Kom",cash,tunai,,lunas
+399,"Ani Widodo, S.T.",cash,tunai,,lunas
+400,Harja Wahyudin,kredit,BCA,2809211749.0,belum lunas
+401,Sarah Mandala,cash,tunai,,lunas
+402,"R.A. Alika Thamrin, M.Ak",cash,tunai,,lunas
+403,Puti Zalindra Pranowo,cash,tunai,,lunas
+404,Cecep Saptono,cash,tunai,,lunas
+405,Capa Aryani,debit,Dana,62812345841.0,lunas
+406,Ida Sihotang,kredit,LinkAja,62812345843.0,belum lunas
+407,Ami Melani,kredit,BNI,5165231725.0,belum lunas
+408,Tgk. Daruna Maryati,debit,BNI,5873269606.0,lunas
+409,Drs. Emong Gunawan,debit,BTN,6097606854.0,lunas
+410,Dr. Tari Hutasoit,debit,BNI,8583979975.0,lunas
+411,Putri Hidayanto,debit,Mandiri,4063281056.0,lunas
+412,dr. Emin Salahudin,cash,tunai,,lunas
+413,Nyoman Pudjiastuti,debit,BCA,6310895873.0,lunas
+414,Jumari Prayoga,debit,BCA,2663749226.0,lunas
+415,Diah Nurdiyanti,cash,tunai,,lunas
+416,"Adikara Narpati, S.Kom",debit,BRI,8585587140.0,lunas
+417,"T. Jefri Suryono, M.Kom.",cash,tunai,,lunas
+418,Jane Budiyanto,kredit,Flip,3332174886.0,belum lunas
+419,"Tgk. Margana Napitupulu, S.T.",kredit,Shopepay,62812345845.0,belum lunas
+420,Ella Latupono,debit,Flip,8902301429.0,lunas
+421,Ibun Prasetya,kredit,BCA,4078909568.0,belum lunas
+422,Hj. Malika Laksmiwati,kredit,Flip,8608683802.0,belum lunas
+423,"R.A. Humaira Sirait, S.E.I",cash,tunai,,lunas
+424,"Ina Napitupulu, S.Kom",kredit,OVO,62812345847.0,belum lunas
+425,"Mustofa Irawan, M.Kom.",kredit,BCA,8486402980.0,belum lunas
+426,dr. Limar Pranowo,cash,tunai,,lunas
+427,Gadang Usamah,cash,tunai,,lunas
+428,Paramita Anggraini,debit,BRI,3464260177.0,lunas
+429,"Drs. Najwa Pranowo, S.H.",cash,tunai,,lunas
+430,Lukita Lazuardi,cash,tunai,,lunas
+431,Umaya Maulana,cash,tunai,,lunas
+432,Martana Suartini,cash,tunai,,lunas
+433,"Drs. Purwadi Iswahyudi, S.Gz",debit,Mandiri,9228311014.0,lunas
+434,"Nasrullah Firmansyah, S.IP",kredit,Flip,3298329960.0,belum lunas
+435,Kania Sitorus,debit,LinkAja,62812345849.0,lunas
+436,"Irma Ardianto, M.Ak",cash,tunai,,lunas
+437,Baktiono Widodo,cash,tunai,,lunas
+438,Yani Wahyudin,debit,Flip,4510116007.0,lunas
+439,Cinta Melani,debit,Dana,62812345851.0,lunas
+440,Tami Andriani,cash,tunai,,lunas
+441,"Dt. Enteng Permata, M.Ak",kredit,BCA,4093900421.0,belum lunas
+442,"Bahuwarna Laksmiwati, S.Kom",kredit,BNI,8212383339.0,belum lunas
+443,"Puti Nabila Napitupulu, S.IP",cash,tunai,,lunas
+444,Tina Nashiruddin,kredit,LinkAja,62812345853.0,belum lunas
+445,Maria Putra,kredit,BTN,3284732450.0,belum lunas
+446,Drs. Kamila Salahudin,debit,BCA,2727061960.0,lunas
+447,Zahra Waskita,debit,Shopepay,62812345855.0,lunas
+448,R. Fitriani Maulana,cash,tunai,,lunas
+449,"Simon Rahayu, M.Farm",cash,tunai,,lunas
+450,"Dr. Kemba Prayoga, M.TI.",cash,tunai,,lunas
+451,"Sutan Marwata Prasetya, M.M.",debit,Shopepay,62812345857.0,lunas
+452,Dr. Galuh Saefullah,cash,tunai,,lunas
+453,Prasetya Mulyani,kredit,Dana,62812345859.0,belum lunas
+454,Karen Najmudin,debit,BRI,4255243947.0,lunas
+455,T. Raditya Firmansyah,cash,tunai,,lunas
+456,Raden Winarno,cash,tunai,,lunas
+457,"Rika Najmudin, S.I.Kom",kredit,Gopay,62812345861.0,belum lunas
+458,"Kartika Yuniar, M.Ak",kredit,OVO,62812345863.0,belum lunas
+459,"Daruna Haryanto, S.E.I",cash,tunai,,lunas
+460,Kamaria Wahyuni,cash,tunai,,lunas
+461,Kayla Sitompul,debit,Seabank,2583017569.0,lunas
+462,Tirta Permadi,kredit,Flip,9222235919.0,belum lunas
+463,Ozy Mandala,debit,Seabank,5062884521.0,lunas
+464,Himawan Farida,debit,LinkAja,62812345865.0,lunas
+465,Icha Fujiati,cash,tunai,,lunas
+466,Galih Latupono,cash,tunai,,lunas
+467,Maryanto Uwais,kredit,Mandiri,9278150264.0,belum lunas
+468,Rendy Maulana,debit,BNI,3502400881.0,lunas
+469,Hardi Dongoran,kredit,OVO,62812345867.0,belum lunas
+470,"Aisyah Hutasoit, S.IP",debit,Gopay,62812345869.0,lunas
+471,Alambana Farida,debit,LinkAja,62812345871.0,lunas
+472,"R. Vino Tarihoran, S.Psi",debit,Dana,62812345873.0,lunas
+473,Manah Halim,cash,tunai,,lunas
+474,Lukman Habibi,cash,tunai,,lunas
+475,Rahayu Widodo,debit,LinkAja,62812345875.0,lunas
+476,Endah Oktaviani,kredit,OVO,62812345877.0,belum lunas
+477,Clara Riyanti,kredit,Gopay,62812345879.0,belum lunas
+478,Harimurti Safitri,cash,tunai,,lunas
+479,Dt. Naradi Nashiruddin,kredit,BTN,1606492223.0,belum lunas
+480,Yulia Simanjuntak,debit,OVO,62812345881.0,lunas
+481,"Jessica Hidayat, S.Farm",cash,tunai,,lunas
+482,Puput Kurniawan,kredit,BRI,6188571967.0,belum lunas
+483,Ikhsan Suryatmi,cash,tunai,,lunas
+484,Kajen Rahimah,kredit,BTN,3725140004.0,belum lunas
+485,Lintang Nurdiyanti,debit,BCA,6723724009.0,lunas
+486,"Tgk. Hafshah Hariyah, S.I.Kom",kredit,BTN,5981276672.0,belum lunas
+487,Kemba Najmudin,debit,Flip,3254993564.0,lunas
+488,"Ophelia Zulaika, S.E.I",kredit,Seabank,8350668533.0,belum lunas
+489,"Ir. Agus Oktaviani, S.E.",debit,BTN,9043576127.0,lunas
+490,Jayeng Mulyani,kredit,Shopepay,62812345883.0,belum lunas
+491,KH. Ganep Marbun,kredit,OVO,62812345885.0,belum lunas
+492,Paulin Rajata,kredit,BRI,1371214029.0,belum lunas
+493,Ade Melani,debit,Dana,62812345887.0,lunas
+494,"Prima Wibowo, M.Farm",debit,Gopay,62812345889.0,lunas
+495,Mila Halimah,debit,LinkAja,62812345891.0,lunas
+496,Banawi Prasetyo,cash,tunai,,lunas
+497,Farah Mandala,kredit,Shopepay,62812345893.0,belum lunas
+498,Vivi Kurniawan,cash,tunai,,lunas
+499,Paramita Pradana,kredit,BNI,9764230932.0,belum lunas
+500,Bakti Andriani,cash,tunai,,lunas
+501,Natalia Gunarto,cash,tunai,,lunas
+502,Lurhur Mayasari,debit,BRI,1463719084.0,lunas
+503,Ani Firmansyah,debit,Flip,2810425280.0,lunas
+504,Samiah Hassanah,cash,tunai,,lunas
+505,Aisyah Nababan,debit,Shopepay,62812345895.0,lunas
+506,Cindy Thamrin,kredit,Dana,62812345897.0,belum lunas
+507,Darmanto Aryani,kredit,BNI,6428819374.0,belum lunas
+508,Daliono Gunarto,cash,tunai,,lunas
+509,Citra Laksita,cash,tunai,,lunas
+510,Karma Aryani,debit,BRI,3290735608.0,lunas
+511,Prayogo Gunarto,kredit,BRI,8511993865.0,belum lunas
+512,Ir. Edi Maulana,debit,Dana,62812345899.0,lunas
+513,Ega Maryadi,debit,OVO,62812345901.0,lunas
+514,Bagiya Prabowo,debit,LinkAja,62812345903.0,lunas
+515,"Dr. Naradi Wastuti, M.Ak",cash,tunai,,lunas
+516,Panji Tarihoran,debit,Mandiri,1559535363.0,lunas
+517,Darmanto Firgantoro,kredit,Mandiri,6599722771.0,belum lunas
+518,"Dt. Vero Najmudin, S.Kom",kredit,BTN,5906390968.0,belum lunas
+519,drg. Rika Habibi,cash,tunai,,lunas
+520,Eli Haryanto,cash,tunai,,lunas
+521,Talia Pratiwi,cash,tunai,,lunas
+522,Umi Rajasa,cash,tunai,,lunas
+523,"Alika Hassanah, S.Pd",debit,OVO,62812345905.0,lunas
+524,Olivia Budiyanto,debit,Shopepay,62812345907.0,lunas
+525,"R. Perkasa Putra, S.Gz",debit,BRI,2537050132.0,lunas
+526,Balamantri Kusumo,cash,tunai,,lunas
+527,Yessi Habibi,debit,Flip,9593321146.0,lunas
+528,Mustika Manullang,debit,BTN,3339719487.0,lunas
+529,Dina Pangestu,cash,tunai,,lunas
+530,Tgk. Wulan Maheswara,kredit,BTN,8668421273.0,belum lunas
+531,Cut Yuni Pratama,cash,tunai,,lunas
+532,Sadina Maulana,debit,Flip,4954774722.0,lunas
+533,"Dt. Harimurti Farida, S.E.",debit,BTN,9194603953.0,lunas
+534,drg. Olivia Mayasari,cash,tunai,,lunas
+535,Kunthara Gunawan,debit,BCA,9491452861.0,lunas
+536,"Caraka Nasyiah, M.M.",debit,Gopay,62812345909.0,lunas
+537,Olga Lailasari,kredit,OVO,62812345911.0,belum lunas
+538,Mahesa Maryati,kredit,BNI,5112614547.0,belum lunas
+539,Eka Nasyiah,kredit,OVO,62812345913.0,belum lunas
+540,Unjani Lestari,kredit,Seabank,9169562498.0,belum lunas
+541,Caraka Firmansyah,cash,tunai,,lunas
+542,"R.M. Mahesa Jailani, M.Ak",cash,tunai,,lunas
+543,Rahmi Saragih,debit,BNI,4993732318.0,lunas
+544,Diana Laksita,kredit,Seabank,7064985671.0,belum lunas
+545,Nardi Pranowo,kredit,BRI,7197503906.0,belum lunas
+546,"R. Garan Setiawan, M.Pd",cash,tunai,,lunas
+547,Jasmin Napitupulu,debit,Dana,62812345915.0,lunas
+548,Paramita Damanik,debit,LinkAja,62812345917.0,lunas
+549,Citra Lestari,debit,Flip,3044859108.0,lunas
+550,Kamaria Lailasari,kredit,BCA,9812990207.0,belum lunas
+551,Titin Wahyudin,debit,OVO,62812345919.0,lunas
+552,"Dr. Hani Mandasari, S.E.",kredit,LinkAja,62812345921.0,belum lunas
+553,R.A. Yessi Napitupulu,debit,Dana,62812345923.0,lunas
+554,"Dr. Reza Januar, M.Ak",kredit,BTN,6381094939.0,belum lunas
+555,Harjo Rahimah,cash,tunai,,lunas
+556,"Dr. Makara Nuraini, S.Ked",kredit,Gopay,62812345927.0,belum lunas
+557,"Dr. Jayeng Prasetya, S.E.",cash,tunai,,lunas
+558,"Sutan Langgeng Marbun, S.Ked",kredit,BCA,3604875100.0,belum lunas
+559,Dr. Malika Mandala,cash,tunai,,lunas
+560,"Agus Rajasa, S.Ked",kredit,OVO,62812345929.0,belum lunas
+561,Ellis Permadi,kredit,BCA,8631012611.0,belum lunas
+562,Salimah Iswahyudi,cash,tunai,,lunas
+563,Danang Sirait,cash,tunai,,lunas
+564,Kajen Pertiwi,cash,tunai,,lunas
+565,Makara Uyainah,cash,tunai,,lunas
+566,Dian Samosir,cash,tunai,,lunas
+567,"Salman Zulkarnain, S.Farm",cash,tunai,,lunas
+568,Ade Prayoga,debit,Mandiri,2151893247.0,lunas
+569,Ajiono Novitasari,debit,Shopepay,62812345931.0,lunas
+570,Titi Haryanto,kredit,BNI,3793891067.0,belum lunas
+571,Kayla Prayoga,cash,tunai,,lunas
+572,Kemal Nashiruddin,debit,Shopepay,62812345933.0,lunas
+573,Imam Kurniawan,kredit,OVO,62812345935.0,belum lunas
+574,Ir. Endah Pradipta,cash,tunai,,lunas
+575,Bakiono Hutasoit,cash,tunai,,lunas
+576,"Tina Setiawan, S.T.",kredit,Dana,62812345937.0,belum lunas
+577,Purwanto Novitasari,kredit,Gopay,62812345939.0,belum lunas
+578,Drs. Arsipatra Zulkarnain,debit,BTN,8846111339.0,lunas
+579,Ajimin Pranowo,debit,OVO,62812345941.0,lunas
+580,Dr. Carla Dongoran,debit,Gopay,62812345943.0,lunas
+581,Chelsea Handayani,kredit,BTN,4570802035.0,belum lunas
+582,"Sarah Pratama, M.Farm",cash,tunai,,lunas
+583,Mahmud Purnawati,cash,tunai,,lunas
+584,"Winda Winarsih, M.Kom.",cash,tunai,,lunas
+585,"KH. Cakrawala Nababan, S.Kom",kredit,Mandiri,8621434511.0,belum lunas
+586,Samiah Purwanti,kredit,BCA,6724795243.0,belum lunas
+587,"T. Laswi Nashiruddin, M.Farm",debit,LinkAja,62812345945.0,lunas
+588,Prakosa Usamah,cash,tunai,,lunas
+589,"Sadina Ramadan, M.M.",debit,Shopepay,62812345947.0,lunas
+590,Titi Susanti,cash,tunai,,lunas
+591,Vanesa Prayoga,cash,tunai,,lunas
+592,"R.A. Ayu Gunarto, S.Gz",cash,tunai,,lunas
+593,Shania Simbolon,cash,tunai,,lunas
+594,Gasti Anggriawan,debit,BTN,1729245889.0,lunas
+595,Jarwi Narpati,cash,tunai,,lunas
+596,"Raharja Permata, S.Pd",debit,BNI,7780848278.0,lunas
+597,Daniswara Anggraini,debit,Dana,62812345949.0,lunas
+598,"Drs. Fitriani Riyanti, M.Pd",debit,Seabank,9089748499.0,lunas
+599,"Ir. Karman Rajasa, S.Pd",kredit,Shopepay,62812345951.0,belum lunas
+600,Banawa Prabowo,kredit,Mandiri,9576059654.0,belum lunas
+601,"Iriana Namaga, S.Sos",debit,Dana,62812345953.0,lunas
+602,"Dt. Karsa Suartini, S.I.Kom",debit,OVO,62812345955.0,lunas
+603,drg. Ganda Pradipta,debit,BNI,8256800008.0,lunas
+604,Warta Kuswandari,debit,BCA,7387131653.0,lunas
+605,drg. Cengkal Riyanti,debit,Flip,7175088488.0,lunas
+606,"Waluyo Simbolon, S.E.I",kredit,Mandiri,1566849756.0,belum lunas
+607,Ilsa Santoso,cash,tunai,,lunas
+608,Oni Maryadi,cash,tunai,,lunas
+609,Elvina Nababan,cash,tunai,,lunas
+610,Asmuni Puspasari,kredit,Seabank,5598464128.0,belum lunas
+611,Aurora Dongoran,cash,tunai,,lunas
+612,"dr. Estiawan Wulandari, S.Pt",cash,tunai,,lunas
+613,"Balidin Pradana, S.Psi",debit,BRI,3739490729.0,lunas
+614,Hilda Pradana,kredit,BNI,8657540776.0,belum lunas
+615,"Dr. Sabri Widiastuti, S.Pd",cash,tunai,,lunas
+616,Ratih Halim,debit,OVO,62812345957.0,lunas
+617,Suci Suwarno,kredit,BNI,5915965847.0,belum lunas
+618,Harsaya Megantara,kredit,Mandiri,4501501892.0,belum lunas
+619,"Puti Silvia Hutasoit, S.IP",kredit,OVO,62812345959.0,belum lunas
+620,Sidiq Pudjiastuti,kredit,BNI,1908565980.0,belum lunas
+621,"dr. Karta Aryani, S.Kom",cash,tunai,,lunas
+622,"R.M. Kariman Halim, S.E.",kredit,Shopepay,62812345961.0,belum lunas
+623,Karman Kuswandari,debit,LinkAja,62812345963.0,lunas
+624,Lasmono Usamah,debit,OVO,62812345965.0,lunas
+625,Sutan Martani Simbolon,cash,tunai,,lunas
+626,"Novi Nurdiyanti, S.Pd",debit,BCA,7705951505.0,lunas
+627,drg. Utama Nasyidah,debit,Flip,4235287300.0,lunas
+628,"Cornelia Maulana, S.Sos",cash,tunai,,lunas
+629,Hafshah Saputra,debit,Flip,7413105243.0,lunas
+630,Drs. Yessi Mandasari,cash,tunai,,lunas
+631,Unggul Salahudin,kredit,LinkAja,62812345967.0,belum lunas
+632,Salsabila Firmansyah,kredit,BRI,9548206719.0,belum lunas
+633,"Puti Kasiyah Situmorang, M.Ak",debit,BCA,2659488288.0,lunas
+634,Dt. Kuncara Kusmawati,kredit,BTN,1632270789.0,belum lunas
+635,Jaga Handayani,kredit,Flip,2918297218.0,belum lunas
+636,Gara Thamrin,kredit,Flip,4994246390.0,belum lunas
+637,"Cut Kasiyah Mandasari, M.Ak",kredit,Shopepay,62812345969.0,belum lunas
+638,"Rafi Siregar, S.Ked",kredit,OVO,62812345971.0,belum lunas
+639,R. Queen Prabowo,kredit,Seabank,1371135752.0,belum lunas
+640,"T. Nasrullah Mustofa, M.Ak",debit,Gopay,62812345973.0,lunas
+641,Cinthia Pradipta,cash,tunai,,lunas
+642,"Hasna Maryadi, M.Pd",kredit,BNI,9295011002.0,belum lunas
+643,Raisa Dongoran,debit,OVO,62812345975.0,lunas
+644,"Ibun Utama, S.Kom",kredit,Mandiri,5098275265.0,belum lunas
+645,Tiara Prabowo,cash,tunai,,lunas
+646,R. Aisyah Sirait,cash,tunai,,lunas
+647,Ir. Uchita Siregar,debit,OVO,62812345977.0,lunas
+648,Hj. Anita Permata,debit,Dana,62812345979.0,lunas
+649,Ajeng Hastuti,kredit,BNI,7194317045.0,belum lunas
+650,Oskar Usamah,debit,BNI,7263284825.0,lunas
+651,Safina Nugroho,kredit,Flip,9069404152.0,belum lunas
+652,"Banara Hidayat, S.H.",cash,tunai,,lunas
+653,Caket Sudiati,cash,tunai,,lunas
+654,Ir. Nurul Lazuardi,debit,LinkAja,62812345981.0,lunas
+655,"T. Danang Rajata, M.TI.",kredit,BNI,7155746937.0,belum lunas
+656,"Amalia Kuswoyo, S.Gz",cash,tunai,,lunas
+657,Fitriani Mayasari,kredit,Flip,5594883976.0,belum lunas
+658,Kariman Najmudin,kredit,BTN,4706675384.0,belum lunas
+659,Ganjaran Suartini,kredit,BCA,7125167050.0,belum lunas
+660,Lanjar Tarihoran,kredit,BTN,6751221138.0,belum lunas
+661,Febi Pratiwi,cash,tunai,,lunas
+662,Jasmin Wulandari,kredit,LinkAja,62812345983.0,belum lunas
+663,Farhunnisa Dabukke,debit,Dana,62812345985.0,lunas
+664,Tgk. Lidya Novitasari,cash,tunai,,lunas
+665,Makara Pradipta,debit,Gopay,62812345987.0,lunas
+666,"R. Pia Suartini, S.H.",debit,Seabank,2248888599.0,lunas
+667,"Hj. Laras Prasetyo, S.Sos",debit,Dana,62812345989.0,lunas
+668,Nadine Santoso,kredit,Seabank,9077595146.0,belum lunas
+669,Gambira Latupono,debit,BNI,4583871856.0,lunas
+670,"T. Limar Utama, S.IP",debit,BNI,6854459164.0,lunas
+671,Anastasia Prasetyo,cash,tunai,,lunas
+672,Ulva Utami,debit,OVO,62812345991.0,lunas
+673,Lutfan Wijaya,debit,BTN,8599462084.0,lunas
+674,Maria Samosir,kredit,Mandiri,2985306514.0,belum lunas
+675,Samsul Handayani,debit,BRI,9099245934.0,lunas
+676,"dr. Puspa Rahayu, S.Psi",kredit,BCA,3026943253.0,belum lunas
+677,"Lidya Oktaviani, S.IP",cash,tunai,,lunas
+678,Zalindra Firgantoro,debit,BNI,6571763476.0,lunas
+679,Ani Maulana,cash,tunai,,lunas
+680,Zamira Wahyudin,debit,OVO,62812345993.0,lunas
+681,Queen Mansur,debit,Seabank,1378083066.0,lunas
+682,Jamil Laksmiwati,cash,tunai,,lunas
+683,"drg. Hani Manullang, S.Pt",debit,LinkAja,62812345995.0,lunas
+684,Titin Sudiati,cash,tunai,,lunas
+685,Hamima Wibowo,kredit,Dana,62812345997.0,belum lunas
+686,Anita Kusumo,cash,tunai,,lunas
+687,"Jelita Thamrin, S.Pd",debit,Gopay,62812345999.0,lunas
+688,R.M. Luhung Winarsih,cash,tunai,,lunas
+689,Saiful Siregar,cash,tunai,,lunas
+690,"dr. Unjani Nababan, S.Sos",cash,tunai,,lunas
+691,"R. Jail Uwais, M.M.",debit,BTN,7174800251.0,lunas
+692,Gadang Prakasa,debit,Flip,4441513591.0,lunas
+693,dr. Citra Hariyah,kredit,BNI,8972696697.0,belum lunas
+694,"dr. Restu Agustina, S.E.I",cash,tunai,,lunas
+695,Drs. Tami Sihotang,debit,BRI,4791290601.0,lunas
+696,"dr. Zulfa Wacana, S.T.",debit,Dana,62812346001.0,lunas
+697,Cecep Lailasari,cash,tunai,,lunas
+698,Caket Hutapea,debit,Shopepay,62812346003.0,lunas
+699,"R.M. Hasim Hutasoit, S.IP",kredit,Mandiri,7102578873.0,belum lunas
+700,"Drs. Agnes Yolanda, M.Kom.",kredit,Flip,3274505084.0,belum lunas
+701,R. Uli Yulianti,cash,tunai,,lunas
+702,Hafshah Wastuti,cash,tunai,,lunas
+703,Yani Simanjuntak,kredit,Shopepay,62812346005.0,belum lunas
+704,Drs. Nrima Sinaga,kredit,BCA,6440559008.0,belum lunas
+705,"Mitra Suartini, M.TI.",cash,tunai,,lunas
+706,Kariman Mangunsong,cash,tunai,,lunas
+707,Naradi Riyanti,debit,Shopepay,62812346007.0,lunas
+708,drg. Vanya Halimah,debit,BCA,5713623445.0,lunas
+709,Prayoga Safitri,kredit,BNI,1257936063.0,belum lunas
+710,"R.A. Kiandra Winarno, M.Kom.",debit,Flip,4947023529.0,lunas
+711,"R.M. Eka Suwarno, S.Farm",kredit,OVO,62812346009.0,belum lunas
+712,Daliman Widiastuti,cash,tunai,,lunas
+713,R.A. Zelda Thamrin,kredit,Mandiri,2189134953.0,belum lunas
+714,Wulan Hidayat,debit,Seabank,1208796821.0,lunas
+715,Warji Palastri,cash,tunai,,lunas
+716,Gangsar Simanjuntak,cash,tunai,,lunas
+717,"Pranawa Pranowo, S.Gz",kredit,OVO,62812346011.0,belum lunas
+718,drg. Zahra Irawan,cash,tunai,,lunas
+719,Mulyanto Rajata,kredit,Dana,62812346013.0,belum lunas
+720,Ajeng Mandasari,cash,tunai,,lunas
+721,"Najwa Astuti, M.Kom.",debit,Flip,7856901191.0,lunas
+722,Ir. Dono Manullang,kredit,BTN,9259943170.0,belum lunas
+723,Titi Irawan,cash,tunai,,lunas
+724,Banawa Pratama,kredit,Dana,62812346015.0,belum lunas
+725,Eli Sirait,kredit,OVO,62812346017.0,belum lunas
+726,Zulfa Lailasari,cash,tunai,,lunas
+727,drg. Halima Palastri,kredit,Dana,62812346019.0,belum lunas
+728,"Cut Ellis Hardiansyah, S.T.",debit,BTN,8756809071.0,lunas
+729,Drs. Yono Puspasari,kredit,Seabank,4781487437.0,belum lunas
+730,Putri Budiman,kredit,Mandiri,1080105166.0,belum lunas
+731,"Drs. Bambang Gunawan, S.H.",kredit,Gopay,62812346021.0,belum lunas
+732,dr. Elvina Mahendra,cash,tunai,,lunas
+733,Hj. Gawati Hariyah,kredit,BNI,1864699289.0,belum lunas
+734,"Hj. Kasiyah Pradipta, S.Gz",debit,BTN,4322347133.0,lunas
+735,"Kawaca Rajasa, S.E.",cash,tunai,,lunas
+736,Heru Novitasari,kredit,Seabank,4379352748.0,belum lunas
+737,Tirtayasa Setiawan,cash,tunai,,lunas
+738,"Bagiya Namaga, S.I.Kom",debit,Shopepay,62812346023.0,lunas
+739,Endah Prakasa,cash,tunai,,lunas
+740,Zelaya Zulkarnain,cash,tunai,,lunas
+741,"Wardaya Oktaviani, S.Sos",cash,tunai,,lunas
+742,Putri Simanjuntak,cash,tunai,,lunas
+743,"Gamanto Ramadan, S.Psi",cash,tunai,,lunas
+744,Yessi Nurdiyanti,kredit,Flip,4389585589.0,belum lunas
+745,Kezia Sihotang,cash,tunai,,lunas
+746,Maida Yolanda,debit,OVO,62812346025.0,lunas
+747,Hari Maheswara,debit,Seabank,8850181315.0,lunas
+748,Uchita Wijaya,cash,tunai,,lunas
+749,"Cut Almira Marbun, M.Kom.",cash,tunai,,lunas
+750,"H. Bakti Wasita, S.Kom",debit,Mandiri,7159795858.0,lunas
+751,Karimah Sihotang,kredit,BRI,9973125599.0,belum lunas
+752,Ian Sirait,kredit,Seabank,6709732749.0,belum lunas
+753,"Ir. Humaira Kusmawati, S.IP",debit,Gopay,62812346027.0,lunas
+754,Sutan Jail Wibisono,kredit,BTN,3344319325.0,belum lunas
+755,Adika Saragih,cash,tunai,,lunas
+756,Arta Usada,debit,OVO,62812346029.0,lunas
+757,Prayogo Namaga,cash,tunai,,lunas
+758,Hari Sirait,cash,tunai,,lunas
+759,Umar Aryani,kredit,BRI,9399435656.0,belum lunas
+760,Lega Kusumo,cash,tunai,,lunas
+761,Paulin Hardiansyah,kredit,Shopepay,62812346031.0,belum lunas
+762,Kusuma Mardhiyah,kredit,Dana,62812346033.0,belum lunas
+763,Emin Permata,debit,LinkAja,62812346035.0,lunas
+764,Kurnia Nugroho,kredit,Shopepay,62812346037.0,belum lunas
+765,Gada Ramadan,cash,tunai,,lunas
+766,Rendy Gunawan,kredit,OVO,62812346039.0,belum lunas
+767,KH. Daryani Firgantoro,kredit,Dana,62812346041.0,belum lunas
+768,Jessica Suartini,debit,BRI,3597050509.0,lunas
+769,"Aslijan Hariyah, S.Gz",kredit,Shopepay,62812346043.0,belum lunas
+770,"drg. Ikin Tamba, S.Sos",debit,BNI,1718777731.0,lunas
+771,"drg. Timbul Waluyo, S.H.",kredit,Dana,62812346045.0,belum lunas
+772,Lurhur Hartati,kredit,Seabank,6396742381.0,belum lunas
+773,Cemeti Yuliarti,kredit,Seabank,9926814506.0,belum lunas
+774,"Olivia Mangunsong, M.M.",kredit,BRI,7574659218.0,belum lunas
+775,dr. Asmadi Damanik,kredit,Flip,1216412521.0,belum lunas
+776,Alika Mangunsong,debit,BNI,9886091725.0,lunas
+777,Elvin Damanik,debit,Flip,9426259463.0,lunas
+778,R.M. Salman Haryanti,kredit,Seabank,5336199278.0,belum lunas
+779,Umay Samosir,kredit,Gopay,62812346047.0,belum lunas
+780,Tri Hassanah,cash,tunai,,lunas
+781,Ismail Sirait,cash,tunai,,lunas
+782,Dian Santoso,cash,tunai,,lunas
+783,Makuta Tampubolon,kredit,Gopay,62812346049.0,belum lunas
+784,Ulva Tampubolon,kredit,BCA,3087419892.0,belum lunas
+785,Kunthara Hariyah,cash,tunai,,lunas
+786,"Hj. Cinthia Saptono, S.E.",debit,Flip,6298305032.0,lunas
+787,Genta Kurniawan,cash,tunai,,lunas
+788,"Puti Dina Narpati, S.Pd",kredit,Mandiri,1274495574.0,belum lunas
+789,R.M. Pandu Nainggolan,debit,Flip,9815757227.0,lunas
+790,"Viman Sihotang, S.E.I",kredit,BTN,7330784069.0,belum lunas
+791,"Argono Maulana, S.Pt",cash,tunai,,lunas
+792,Paiman Purnawati,debit,Gopay,62812346051.0,lunas
+793,H. Kamidin Maheswara,kredit,Gopay,62812346053.0,belum lunas
+794,"Tgk. Rahmi Hartati, M.Kom.",debit,BCA,3552285131.0,lunas
+795,Surya Permata,debit,BRI,2811239068.0,lunas
+796,Jelita Mahendra,cash,tunai,,lunas
+797,Koko Putra,cash,tunai,,lunas
+798,Sari Usamah,debit,BCA,8485968037.0,lunas
+799,"drg. Luhung Januar, S.E.",debit,Mandiri,5957089762.0,lunas
+800,Ayu Rajasa,kredit,OVO,62812346055.0,belum lunas
+801,Bahuraksa Halimah,debit,Mandiri,9891316947.0,lunas
+802,"R.M. Raditya Najmudin, S.Farm",cash,tunai,,lunas
+803,Ilsa Saptono,cash,tunai,,lunas
+804,"Ajeng Hutapea, M.Ak",kredit,Shopepay,62812346057.0,belum lunas
+805,Reksa Yuliarti,debit,BNI,5530366805.0,lunas
+806,dr. Edi Nasyidah,debit,BCA,1848921526.0,lunas
+807,Asmadi Suryatmi,debit,Mandiri,6632829122.0,lunas
+808,Azalea Pratiwi,debit,LinkAja,62812346059.0,lunas
+809,Pangeran Padmasari,debit,Gopay,62812346061.0,lunas
+810,Ridwan Suryatmi,kredit,Shopepay,62812346063.0,belum lunas
+811,R. Yani Utami,cash,tunai,,lunas
+812,"Sutan Anggabaya Pangestu, S.IP",kredit,Mandiri,4619145847.0,belum lunas
+813,Bagas Gunawan,kredit,BTN,9217926755.0,belum lunas
+814,"Dt. Asirwada Sudiati, S.IP",cash,tunai,,lunas
+815,Olivia Prasasta,debit,LinkAja,62812346065.0,lunas
+816,Zaenab Hardiansyah,kredit,Gopay,62812346067.0,belum lunas
+817,"Cut Laila Mustofa, M.Pd",cash,tunai,,lunas
+818,"drg. Puti Saefullah, S.I.Kom",debit,Gopay,62812346069.0,lunas
+819,"Drs. Cornelia Waluyo, S.Ked",cash,tunai,,lunas
+820,Darsirah Hidayat,cash,tunai,,lunas
+821,Ratih Mangunsong,cash,tunai,,lunas
+822,Vicky Pratama,debit,Shopepay,62812346071.0,lunas
+823,Mitra Palastri,kredit,OVO,62812346073.0,belum lunas
+824,Jais Laksmiwati,kredit,BNI,8280951036.0,belum lunas
+825,Ir. Lala Widodo,debit,Seabank,1916706907.0,lunas
+826,H. Himawan Pudjiastuti,cash,tunai,,lunas
+827,Hari Handayani,kredit,BCA,3758557246.0,belum lunas
+828,dr. Imam Hidayanto,kredit,BNI,7493146962.0,belum lunas
+829,Putri Zulaika,kredit,Shopepay,62812346075.0,belum lunas
+830,"Maimunah Prasetya, M.Farm",cash,tunai,,lunas
+831,"Hj. Gawati Ardianto, S.T.",debit,OVO,62812346077.0,lunas
+832,Tgk. Alambana Hariyah,kredit,BRI,5997521916.0,belum lunas
+833,Olga Yolanda,kredit,Flip,6000850421.0,belum lunas
+834,Luthfi Jailani,cash,tunai,,lunas
+835,Raditya Narpati,debit,Mandiri,1620849167.0,lunas
+836,Hari Prasasta,cash,tunai,,lunas
+837,Gaiman Agustina,cash,tunai,,lunas
+838,"Puti Tari Pradana, S.Gz",cash,tunai,,lunas
+839,"Panca Purwanti, S.Pd",cash,tunai,,lunas
+840,Bakianto Dabukke,cash,tunai,,lunas
+841,Putri Manullang,kredit,BRI,9636299209.0,belum lunas
+842,"Eva Pratama, S.H.",cash,tunai,,lunas
+843,Padmi Prakasa,kredit,BRI,1579694931.0,belum lunas
+844,Drs. Zelda Ardianto,cash,tunai,,lunas
+845,"Tgk. Balamantri Nasyiah, S.Pt",kredit,Flip,2548909313.0,belum lunas
+846,"T. Marsudi Nainggolan, M.Pd",cash,tunai,,lunas
+847,Bakianto Tamba,debit,LinkAja,62812346079.0,lunas
+848,Rosman Rahimah,kredit,Seabank,6104932335.0,belum lunas
+849,Ani Jailani,kredit,BNI,3209704966.0,belum lunas
+850,Hani Mulyani,debit,BRI,2545945910.0,lunas
+851,Hari Pranowo,debit,Gopay,62812346081.0,lunas
+852,Eko Marpaung,kredit,BNI,6452623895.0,belum lunas
+853,Rina Budiyanto,kredit,Dana,62812346083.0,belum lunas
+854,Ian Zulaika,debit,Gopay,62812346085.0,lunas
+855,"Pandu Pudjiastuti, S.Pd",cash,tunai,,lunas
+856,"Tgk. Yuliana Rahmawati, S.Ked",kredit,Shopepay,62812346087.0,belum lunas
+857,"Shakila Waluyo, S.IP",kredit,LinkAja,62812346089.0,belum lunas
+858,Cut Elvina Astuti,kredit,Dana,62812346091.0,belum lunas
+859,Hani Winarno,cash,tunai,,lunas
+860,Rendy Aryani,debit,LinkAja,62812346093.0,lunas
+861,Naradi Hutasoit,debit,OVO,62812346095.0,lunas
+862,"Dewi Nuraini, M.Kom.",debit,OVO,62812346097.0,lunas
+863,dr. Irma Wulandari,kredit,Shopepay,62812346099.0,belum lunas
+864,"KH. Usman Pradipta, S.T.",debit,OVO,62812346101.0,lunas
+865,Diana Palastri,debit,Shopepay,62812346103.0,lunas
+866,Faizah Thamrin,debit,BNI,8599853502.0,lunas
+867,"R. Edison Kuswoyo, S.Pd",debit,LinkAja,62812346105.0,lunas
+868,Jaka Saragih,cash,tunai,,lunas
+869,Pia Dabukke,debit,Dana,62812346107.0,lunas
+870,Hafshah Dongoran,cash,tunai,,lunas
+871,Elvina Zulkarnain,kredit,Flip,8106505199.0,belum lunas
+872,Hendri Firmansyah,debit,BCA,1041064281.0,lunas
+873,Drs. Salsabila Padmasari,kredit,OVO,62812346109.0,belum lunas
+874,Anastasia Siregar,kredit,Shopepay,62812346111.0,belum lunas
+875,Ade Safitri,kredit,BRI,9238377730.0,belum lunas
+876,Drs. Legawa Halim,cash,tunai,,lunas
+877,Ega Pradana,cash,tunai,,lunas
+878,KH. Najib Budiyanto,kredit,Gopay,62812346113.0,belum lunas
+879,"Maya Damanik, S.T.",kredit,BTN,6463626682.0,belum lunas
+880,Drs. Tari Handayani,kredit,Dana,62812346115.0,belum lunas
+881,dr. Ganep Nugroho,debit,LinkAja,62812346117.0,lunas
+882,"Cut Ani Winarsih, S.Psi",debit,Flip,8940298974.0,lunas
+883,Rachel Mulyani,debit,BTN,8451136568.0,lunas
+884,Puti Juli Simbolon,kredit,LinkAja,62812346119.0,belum lunas
+885,"Nadia Pradipta, M.Pd",debit,Shopepay,62812346121.0,lunas
+886,Kayla Kuswandari,kredit,Mandiri,9611129784.0,belum lunas
+887,Indra Suryono,debit,Gopay,62812346123.0,lunas
+888,Sadina Wibisono,cash,tunai,,lunas
+889,"Kezia Aryani, S.Sos",cash,tunai,,lunas
+890,Ir. Nabila Farida,debit,BRI,3010824105.0,lunas
+891,"Julia Mansur, S.Farm",kredit,Gopay,62812346125.0,belum lunas
+892,Rizki Prasetya,cash,tunai,,lunas
+893,"R. Tasdik Prakasa, S.Pt",debit,BCA,5644827512.0,lunas
+894,Harsaya Kuswandari,debit,LinkAja,62812346127.0,lunas
+895,Janet Maryadi,cash,tunai,,lunas
+896,Keisha Nurdiyanti,debit,Flip,6518509034.0,lunas
+897,H. Malik Hutasoit,debit,OVO,62812346129.0,lunas
+898,Baktiono Sihombing,debit,Mandiri,5318626083.0,lunas
+899,Eka Usamah,kredit,LinkAja,62812346131.0,belum lunas
+900,"Lili Simbolon, S.Farm",debit,LinkAja,62812346133.0,lunas
+901,Irma Mahendra,debit,Gopay,62812346135.0,lunas
+902,"R. Kamidin Haryanto, M.Kom.",kredit,BRI,6252968401.0,belum lunas
+903,"Ade Thamrin, S.Farm",cash,tunai,,lunas
+904,"Dr. Elisa Namaga, M.TI.",kredit,LinkAja,62812346137.0,belum lunas
+905,"Vinsen Utami, S.T.",kredit,BCA,7834165933.0,belum lunas
+906,Indra Saputra,debit,Mandiri,5019828977.0,lunas
+907,Dimas Nuraini,cash,tunai,,lunas
+908,"Qori Manullang, M.Kom.",cash,tunai,,lunas
+909,"Puspa Megantara, M.TI.",debit,Gopay,62812346139.0,lunas
+910,Yosef Wasita,kredit,Shopepay,62812346141.0,belum lunas
+911,"R. Natalia Uyainah, S.I.Kom",cash,tunai,,lunas
+912,Utama Utama,cash,tunai,,lunas
+913,Azalea Wasita,cash,tunai,,lunas
+914,drg. Gilda Situmorang,kredit,BTN,8738616753.0,belum lunas
+915,Kenari Yuniar,kredit,Shopepay,62812346143.0,belum lunas
+916,Wani Wijaya,debit,BNI,7458895737.0,lunas
+917,Oliva Nashiruddin,debit,Gopay,62812346145.0,lunas
+918,"Tgk. Rendy Latupono, S.Ked",debit,Dana,62812346149.0,lunas
+919,Tgk. Gandewa Thamrin,debit,Dana,62812346147.0,lunas
+920,Digdaya Susanti,cash,tunai,,lunas
+921,Prayitna Najmudin,cash,tunai,,lunas
+922,"T. Cengkal Sudiati, S.Pd",kredit,Shopepay,62812346151.0,belum lunas
+923,Karya Permata,kredit,Seabank,6142868066.0,belum lunas
+924,Farah Pudjiastuti,kredit,BRI,3726367976.0,belum lunas
+925,"Ilsa Mayasari, S.E.",cash,tunai,,lunas
+926,Malika Mandasari,cash,tunai,,lunas
+927,"Laras Marpaung, M.Farm",kredit,BCA,8681157587.0,belum lunas
+928,R.A. Halima Kusmawati,kredit,Gopay,62812346153.0,belum lunas
+929,Alika Wasita,kredit,Mandiri,6967938908.0,belum lunas
+930,"Hasta Pangestu, S.Sos",debit,BRI,8204725349.0,lunas
+931,"Ilsa Dongoran, S.Gz",cash,tunai,,lunas
+932,"Ir. Hana Laksita, S.Ked",cash,tunai,,lunas
+933,"Kadir Hassanah, M.Ak",debit,Mandiri,8882697745.0,lunas
+934,"Raina Nasyiah, S.IP",kredit,Mandiri,7932732587.0,belum lunas
+935,KH. Soleh Waluyo,debit,Flip,9232502502.0,lunas
+936,Novi Mandala,kredit,Seabank,2829905763.0,belum lunas
+937,Limar Wacana,kredit,LinkAja,62812346155.0,belum lunas
+938,Garda Nasyiah,cash,tunai,,lunas
+939,Anastasia Usada,kredit,BRI,9722249646.0,belum lunas
+940,Luis Lazuardi,cash,tunai,,lunas
+941,Gading Najmudin,debit,Flip,8911712943.0,lunas
+942,"Dagel Suryatmi, S.IP",cash,tunai,,lunas
+943,Gamani Melani,debit,Shopepay,62812346157.0,lunas
+944,Hj. Nova Hakim,kredit,Flip,5791246714.0,belum lunas
+945,"dr. Damar Namaga, M.Kom.",cash,tunai,,lunas
+946,"Humaira Hutagalung, S.Gz",debit,BRI,5854207942.0,lunas
+947,dr. Darsirah Mayasari,debit,OVO,62812346159.0,lunas
+948,"Olivia Sinaga, S.T.",debit,BTN,8743504520.0,lunas
+949,Calista Yolanda,debit,Shopepay,62812346161.0,lunas
+950,Yulia Wulandari,cash,tunai,,lunas
+951,Rahman Wastuti,cash,tunai,,lunas
+952,Samiah Uwais,debit,Gopay,62812346163.0,lunas
+953,"Sabri Mandala, M.Ak",debit,OVO,62812346165.0,lunas
+954,Hj. Padma Rahmawati,cash,tunai,,lunas
+955,Mursita Riyanti,cash,tunai,,lunas
+956,Kambali Hartati,kredit,Seabank,2186311497.0,belum lunas
+957,"Ir. Melinda Manullang, S.Farm",debit,Dana,62812346167.0,lunas
+958,Viman Permata,cash,tunai,,lunas
+959,Rusman Haryanto,cash,tunai,,lunas
+960,"Ir. Nadine Melani, M.Farm",debit,BCA,4261319014.0,lunas
+961,Shania Prastuti,cash,tunai,,lunas
+962,Ratih Nasyiah,kredit,Mandiri,2210455258.0,belum lunas
+963,"Ir. Wani Saragih, M.Pd",cash,tunai,,lunas
+964,Jamil Prasasta,debit,Flip,2508205363.0,lunas
+965,"Jane Haryanti, S.I.Kom",debit,BRI,6056374849.0,lunas
+966,Ajimin Waskita,kredit,LinkAja,1117180411.0,belum lunas
+967,R.M. Labuh Nashiruddin,kredit,BTN,3148969582.0,belum lunas
+968,Nardi Mardhiyah,debit,Dana,62812346169.0,lunas
+969,Kairav Nainggolan,kredit,Gopay,62812346171.0,belum lunas
+970,Gandewa Permata,kredit,Gopay,62812346173.0,belum lunas
+971,"Ir. Yessi Simbolon, M.Farm",kredit,LinkAja,62812346175.0,belum lunas
+972,"Ciaobella Latupono, S.Sos",cash,tunai,,lunas
+973,"Maimunah Saputra, S.Ked",cash,tunai,,lunas
+974,Hana Nurdiyanti,debit,BNI,9779896082.0,lunas
+975,"dr. Widya Maryadi, S.T.",cash,tunai,,lunas
+976,Warsa Gunarto,kredit,LinkAja,62812346177.0,belum lunas
+977,Ulya Siregar,kredit,OVO,62812346179.0,belum lunas
+978,Ophelia Simanjuntak,kredit,BCA,8842514144.0,belum lunas
+979,Wakiman Haryanti,cash,tunai,,lunas
+980,Daliman Yuliarti,kredit,OVO,62812346181.0,belum lunas
+981,"Karen Lazuardi, S.E.",cash,tunai,,lunas
+982,"Catur Maulana, S.E.I",cash,tunai,,lunas
+983,Irma Gunarto,debit,Shopepay,62812346183.0,lunas
+984,Martaka Kusmawati,cash,tunai,,lunas
+985,Sakti Hardiansyah,debit,OVO,62812346185.0,lunas
+986,Lukita Gunarto,cash,tunai,,lunas
+987,"R. Lintang Maryati, M.Ak",debit,Flip,6780160696.0,lunas
+988,Kasiran Pangestu,debit,Flip,6310691705.0,lunas
+989,"Vanya Gunawan, S.I.Kom",kredit,Seabank,9674822037.0,belum lunas
+990,"Tgk. Zelda Yulianti, S.E.I",kredit,Shopepay,62812346187.0,belum lunas
+991,Hartana Hasanah,kredit,LinkAja,62812346189.0,belum lunas
+992,dr. Aris Waluyo,cash,tunai,,lunas
+993,Kurnia Hasanah,cash,tunai,,lunas
+994,Ayu Wibisono,cash,tunai,,lunas
+995,Lintang Zulkarnain,cash,tunai,,lunas
+996,Drs. Imam Nuraini,cash,tunai,,lunas
+997,Mujur Hariyah,cash,tunai,,lunas
+998,"Jati Rajata, M.Ak",kredit,BRI,9089532957.0,belum lunas
+999,Yuliana Mansur,debit,Gopay,62812346191.0,lunas
+1000,Jindra Pratiwi,debit,Dana,62812346193.0,lunas
+1001,"H. Galar Agustina, S.I.Kom",kredit,BCA,8149465115.0,belum lunas
+1002,Sutan Karja Salahudin,kredit,Seabank,3745877611.0,belum lunas
+1003,"Makuta Mandala, S.E.",kredit,OVO,62812346195.0,belum lunas
+1004,Kezia Ramadan,cash,tunai,,lunas
+1005,Faizah Januar,kredit,BNI,2578545737.0,belum lunas
+1006,Gina Saputra,cash,tunai,,lunas
+1007,Yuni Yuniar,kredit,Gopay,62812346197.0,belum lunas
+1008,"Drs. Zelda Tarihoran, S.Kom",debit,Seabank,3212220968.0,lunas
+1009,Endah Saragih,kredit,OVO,62812346199.0,belum lunas
+1010,"Devi Iswahyudi, M.Ak",cash,tunai,,lunas
+1011,drg. Unjani Nababan,debit,OVO,62812346201.0,lunas
+1012,Tasnim Riyanti,debit,Mandiri,9144809390.0,lunas
+1013,"Dr. Irma Yuniar, M.Kom.",debit,Seabank,4292710609.0,lunas
+1014,"Kambali Sitorus, S.I.Kom",cash,tunai,,lunas
+1015,Kamaria Mahendra,debit,Mandiri,7383674507.0,lunas
+1016,Hartaka Mardhiyah,kredit,Mandiri,9536389627.0,belum lunas
+1017,Lala Waskita,cash,tunai,,lunas
+1018,R.M. Nasab Suryatmi,debit,Flip,5096861346.0,lunas
+1019,Viman Hakim,cash,tunai,,lunas
+1020,Tugiman Dabukke,kredit,BNI,5462725530.0,belum lunas
+1021,Ira Wijaya,kredit,Flip,2993631137.0,belum lunas
+1022,Sutan Asirwada Prabowo,kredit,BNI,2533190058.0,belum lunas
+1023,"Bala Pradipta, S.E.I",debit,Mandiri,1129786899.0,lunas
+1024,Jabal Permata,debit,BTN,7600378385.0,lunas
+1025,Dalimin Wijaya,cash,tunai,,lunas
+1026,"Kacung Hutapea, S.I.Kom",cash,tunai,,lunas
+1027,Ayu Melani,debit,Gopay,62812346203.0,lunas
+1028,Karsana Prabowo,kredit,BNI,2550779423.0,belum lunas
+1029,Edward Kusumo,kredit,Mandiri,2538189071.0,belum lunas
+1030,Zaenab Oktaviani,kredit,Mandiri,2493107341.0,belum lunas
+1031,"KH. Yosef Hakim, S.I.Kom",cash,tunai,,lunas
+1032,dr. Winda Jailani,debit,Shopepay,62812346205.0,lunas
+1033,"R. Tirtayasa Manullang, S.Kom",kredit,Gopay,62812346207.0,belum lunas
+1034,"Dr. Gabriella Kusmawati, S.IP",kredit,Flip,2506339996.0,belum lunas
+1035,Drs. Ratna Usamah,debit,BNI,1493320227.0,lunas
+1036,Ella Hastuti,kredit,Mandiri,9335916674.0,belum lunas
+1037,"Ciaobella Marbun, S.Farm",kredit,Dana,62812346209.0,belum lunas
+1038,"Uchita Kusmawati, S.IP",kredit,Seabank,1054551984.0,belum lunas
+1039,"dr. Kani Suartini, M.M.",kredit,Flip,8642359880.0,belum lunas
+1040,Embuh Hutagalung,cash,tunai,,lunas
+1041,"Laila Palastri, S.Ked",debit,Shopepay,62812346211.0,lunas
+1042,"Asmianto Winarsih, S.E.",cash,tunai,,lunas
+1043,"Hadi Rahayu, S.Gz",debit,Shopepay,62812346213.0,lunas
+1044,Prakosa Yuliarti,kredit,LinkAja,62812346215.0,belum lunas
+1045,Mulya Novitasari,kredit,BNI,3793757743.0,belum lunas
+1046,"Radit Nababan, S.Pt",kredit,LinkAja,62812346217.0,belum lunas
+1047,Gara Hidayanto,cash,tunai,,lunas
+1048,Jamil Pudjiastuti,debit,BRI,9098624616.0,lunas
+1049,"Kenari Halim, S.Sos",debit,Shopepay,62812346219.0,lunas
+1050,Novi Waluyo,kredit,Seabank,3756583693.0,belum lunas
+1051,Salsabila Latupono,debit,BCA,9875308499.0,lunas
+1052,R.M. Gantar Kurniawan,debit,LinkAja,62812346221.0,lunas
+1053,Ajimin Pradipta,debit,BRI,6668258819.0,lunas
+1054,Raisa Sihotang,kredit,Flip,2375069820.0,belum lunas
+1055,Bajragin Anggraini,cash,tunai,,lunas
+1056,Jumadi Widodo,debit,OVO,62812346223.0,lunas
+1057,Tina Prasetyo,kredit,Gopay,62812346225.0,belum lunas
+1058,Cindy Wijaya,kredit,Flip,8533919040.0,belum lunas
+1059,Elvin Handayani,cash,tunai,,lunas
+1060,Maryanto Widodo,cash,tunai,,lunas
+1061,Hasna Hidayanto,debit,Mandiri,4659772661.0,lunas
+1062,Kezia Mansur,debit,Seabank,8240344519.0,lunas
+1063,Patricia Iswahyudi,debit,Flip,4960074742.0,lunas
+1064,Vicky Yuniar,kredit,Gopay,62812346227.0,belum lunas
+1065,"Yance Prayoga, M.M.",debit,BCA,7893363255.0,lunas
+1066,Faizah Purwanti,debit,Flip,9594793807.0,lunas
+1067,Karen Mahendra,cash,tunai,,lunas
+1068,Mitra Firmansyah,kredit,Flip,8031529428.0,belum lunas
+1069,Maimunah Puspasari,cash,tunai,,lunas
+1070,Jasmin Melani,kredit,Seabank,4479562787.0,belum lunas
+1071,Drs. Ami Purwanti,cash,tunai,,lunas
+1072,Tgk. Julia Setiawan,cash,tunai,,lunas
+1073,"R.M. Asirwanda Santoso, M.TI.",cash,tunai,,lunas
+1074,Jamalia Agustina,debit,Gopay,62812346229.0,lunas
+1075,Kartika Widiastuti,kredit,BTN,9227118953.0,belum lunas
+1076,Agnes Pratama,debit,Seabank,8438583346.0,lunas
+1077,"Ir. Cinta Suryono, S.T.",debit,Gopay,62812346231.0,lunas
+1078,"Tgk. Bakijan Sinaga, S.I.Kom",debit,Dana,62812346233.0,lunas
+1079,Dr. Nadine Pradipta,cash,tunai,,lunas
+1080,Mala Wibowo,debit,Seabank,3456344135.0,lunas
+1081,"Dalima Widodo, S.Farm",cash,tunai,,lunas
+1082,"Karman Kurniawan, S.IP",kredit,BTN,5513326521.0,belum lunas
+1083,"R. Ganjaran Handayani, S.Kom",debit,Mandiri,4750361480.0,lunas
+1084,Dalima Handayani,kredit,BTN,4363010195.0,belum lunas
+1085,"Belinda Wahyuni, S.Ked",kredit,LinkAja,2825216484.0,belum lunas
+1086,"Karsa Wulandari, S.Pd",cash,tunai,,lunas
+1087,Cakrabirawa Purwanti,debit,OVO,3959636875.0,lunas
+1088,Diana Maheswara,cash,tunai,,lunas
+1089,R.M. Prakosa Yolanda,kredit,LinkAja,62812346235.0,belum lunas
+1090,"Dr. Victoria Halim, S.E.",debit,OVO,62812346237.0,lunas
+1091,Jayeng Hutagalung,debit,BTN,5125795541.0,lunas
+1092,"Ihsan Tarihoran, S.Psi",kredit,Flip,7504893266.0,belum lunas
+1093,Hj. Salwa Situmorang,debit,BCA,3249911115.0,lunas
+1094,"Arta Lailasari, M.M.",kredit,Seabank,7241655093.0,belum lunas
+1095,"Dt. Dagel Tarihoran, S.Ked",kredit,BRI,2061856121.0,belum lunas
+1096,"Hj. Calista Sihotang, S.I.Kom",kredit,BNI,7491263569.0,belum lunas
+1097,Upik Melani,kredit,Dana,62812346239.0,belum lunas
+1098,Bella Melani,kredit,BRI,9942130701.0,belum lunas
+1099,Purwadi Utama,cash,tunai,,lunas
+1100,Raharja Latupono,kredit,Dana,62812346241.0,belum lunas
+1101,Saadat Nasyidah,cash,tunai,,lunas
+1102,Cindy Andriani,kredit,OVO,62812346243.0,belum lunas
+1103,Tgk. Viktor Saragih,cash,tunai,,lunas
+1104,Dr. Yunita Pradipta,cash,tunai,,lunas
+1105,Yunita Hidayat,debit,BTN,8634617104.0,lunas
+1106,Siti Handayani,debit,Shopepay,62812346245.0,lunas
+1107,"Ir. Tania Utama, M.M.",cash,tunai,,lunas
+1108,Tgk. Jefri Najmudin,debit,OVO,62812346247.0,lunas
+1109,H. Cemani Prastuti,cash,tunai,,lunas
+1110,Suci Padmasari,cash,tunai,,lunas
+1111,Estiono Salahudin,kredit,BCA,7212356858.0,belum lunas
+1112,"Ir. Cahyanto Samosir, S.E.I",kredit,BRI,5583650395.0,belum lunas
+1113,Drs. Farhunnisa Dabukke,kredit,Flip,2318109700.0,belum lunas
+1114,"Okta Permata, M.M.",cash,tunai,,lunas
+1115,Citra Suwarno,cash,tunai,,lunas
+1116,Gangsa Sinaga,debit,BRI,2889016570.0,lunas
+1117,Julia Laksita,debit,Gopay,62812346249.0,lunas
+1118,Hana Mayasari,debit,BTN,1033944044.0,lunas
+1119,"Cut Queen Santoso, S.Pd",debit,Gopay,62812346251.0,lunas
+1120,Puput Melani,cash,tunai,,lunas
+1121,"Vanya Nashiruddin, S.H.",debit,Dana,62812346253.0,lunas
+1122,Asmadi Santoso,cash,tunai,,lunas
+1123,Bahuwarna Dongoran,debit,BTN,5759157800.0,lunas
+1124,"R.A. Nilam Pratama, S.Ked",debit,Seabank,4123898238.0,lunas
+1125,Cornelia Usada,debit,Mandiri,1766646014.0,lunas
+1126,Ismail Uwais,kredit,Gopay,62812346255.0,belum lunas
+1127,Ulva Tarihoran,cash,tunai,,lunas
+1128,Dalima Firgantoro,kredit,Dana,62812346257.0,belum lunas
+1129,Siska Winarno,cash,tunai,,lunas
+1130,"Raditya Prayoga, S.Sos",kredit,Dana,62812346259.0,belum lunas
+1131,Hj. Queen Habibi,cash,tunai,,lunas
+1132,Elma Pudjiastuti,kredit,LinkAja,62812346261.0,belum lunas
+1133,Cager Widodo,debit,Seabank,5904789363.0,lunas
+1134,Balidin Lailasari,cash,tunai,,lunas
+1135,Michelle Sirait,debit,BCA,5049899674.0,lunas
+1136,Irsad Saputra,debit,OVO,62812346263.0,lunas
+1137,"Karja Pudjiastuti, M.Ak",kredit,LinkAja,62812346265.0,belum lunas
+1138,Ir. Eja Maulana,cash,tunai,,lunas
+1139,Hendri Anggraini,debit,Shopepay,62812346267.0,lunas
+1140,Nadia Gunarto,kredit,Mandiri,8338992516.0,belum lunas
+1141,"Edison Nasyidah, S.H.",kredit,BNI,8933172208.0,belum lunas
+1142,"Kiandra Kusumo, M.TI.",debit,BNI,4068142047.0,lunas
+1143,"Drs. Jane Nainggolan, M.Kom.",cash,tunai,,lunas
+1144,"Cager Farida, S.Pt",debit,BCA,2024412041.0,lunas
+1145,Putri Pratama,debit,BRI,7151701909.0,lunas
+1146,Tgk. Sidiq Widiastuti,debit,BNI,5129778800.0,lunas
+1147,Drs. Banawi Safitri,kredit,Mandiri,4459468657.0,belum lunas
+1148,Leo Padmasari,kredit,Gopay,62812346269.0,belum lunas
+1149,Kiandra Budiman,kredit,BCA,1234212969.0,belum lunas
+1150,Cici Jailani,kredit,Seabank,1795497422.0,belum lunas
+1151,Candrakanta Mangunsong,kredit,BTN,2368240964.0,belum lunas
+1152,Indra Lestari,cash,tunai,,lunas
+1153,R. Lintang Widiastuti,debit,Mandiri,6732949051.0,lunas
+1154,"Dt. Mumpuni Uwais, M.Ak",kredit,LinkAja,62812346271.0,belum lunas
+1155,H. Warta Laksita,cash,tunai,,lunas
+1156,Kambali Nugroho,debit,Flip,5901868102.0,lunas
+1157,"Ella Halimah, S.Pt",cash,tunai,,lunas
+1158,Rendy Sihotang,debit,Flip,6987089123.0,lunas
+1159,"R.M. Adikara Latupono, S.H.",kredit,Dana,62812346273.0,belum lunas
+1160,Safina Zulkarnain,kredit,Flip,9582979170.0,belum lunas
+1161,Ika Marpaung,debit,Gopay,62812346275.0,lunas
+1162,"Bella Sudiati, S.E.",debit,Shopepay,62812346277.0,lunas
+1163,"Amalia Astuti, S.Pd",debit,OVO,62812346279.0,lunas
+1164,Silvia Widodo,debit,Shopepay,62812346281.0,lunas
+1165,Sari Siregar,cash,tunai,,lunas
+1166,"Makuta Hutapea, S.Pt",cash,tunai,,lunas
+1167,"Citra Gunawan, S.E.I",cash,tunai,,lunas
+1168,Pranawa Rajata,cash,tunai,,lunas
+1169,"Cut Olivia Napitupulu, S.T.",kredit,Dana,62812346283.0,belum lunas
+1170,Sakti Ramadan,debit,Mandiri,1755728362.0,lunas
+1171,Yono Anggriawan,cash,tunai,,lunas
+1172,"R.A. Maimunah Pangestu, M.Ak",cash,tunai,,lunas
+1173,"Ir. Mulyanto Zulaika, S.Pt",kredit,Gopay,62812346285.0,belum lunas
+1174,Halima Fujiati,cash,tunai,,lunas
+1175,Zizi Anggraini,kredit,OVO,62812346287.0,belum lunas
+1176,Estiono Palastri,debit,Shopepay,62812346289.0,lunas
+1177,Anita Maulana,cash,tunai,,lunas
+1178,Septi Zulkarnain,cash,tunai,,lunas
+1179,Ir. Yoga Setiawan,cash,tunai,,lunas
+1180,"Luwar Dongoran, M.Pd",cash,tunai,,lunas
+1181,"Tgk. Laila Laksita, M.M.",kredit,BCA,4415985159.0,belum lunas
+1182,Vinsen Hartati,debit,Flip,8022065516.0,lunas
+1183,Martani Manullang,debit,Dana,62812346291.0,lunas
+1184,Alambana Prayoga,kredit,Mandiri,8914354177.0,belum lunas
+1185,"Ir. Fathonah Hidayanto, S.E.",debit,BRI,5561107031.0,lunas
+1186,"Lukman Sinaga, M.M.",debit,Mandiri,1524160214.0,lunas
+1187,dr. Makuta Utami,cash,tunai,,lunas
+1188,Jasmin Wahyuni,debit,LinkAja,62812346293.0,lunas
+1189,"drg. Dalima Mansur, S.Ked",kredit,Shopepay,62812346295.0,belum lunas
+1190,Laila Narpati,cash,tunai,,lunas
+1191,"KH. Latif Nainggolan, S.Farm",kredit,Flip,5921761372.0,belum lunas
+1192,"Drs. Hani Halim, M.M.",kredit,Shopepay,62812346297.0,belum lunas
+1193,Puput Firgantoro,cash,tunai,,lunas
+1194,Lalita Rahmawati,cash,tunai,,lunas
+1195,"Mahmud Kuswoyo, M.Kom.",cash,tunai,,lunas
+1196,"Raisa Prayoga, M.Kom.",cash,tunai,,lunas
+1197,"Cut Hasna Firgantoro, S.Ked",cash,tunai,,lunas
+1198,Vanesa Winarsih,cash,tunai,,lunas
+1199,"dr. Vera Damanik, M.Ak",kredit,Seabank,62812346299.0,belum lunas
+1200,Malika Maryati,debit,Gopay,62812346301.0,lunas
+1201,Dr. Prasetyo Kuswoyo,debit,LinkAja,62812346303.0,lunas
+1202,Nurul Sitorus,cash,tunai,,lunas
+1203,"Cakrawala Sudiati, S.E.",kredit,Gopay,62812346305.0,belum lunas
+1204,Hasim Yuniar,debit,Mandiri,2518903364.0,lunas
+1205,Marsito Kusmawati,cash,tunai,,lunas
+1206,Natalia Melani,cash,tunai,,lunas
+1207,Gina Firmansyah,cash,tunai,,lunas
+1208,T. Jaya Sihotang,cash,tunai,,lunas
+1209,Rizki Palastri,cash,tunai,,lunas
+1210,Ikhsan Maryati,cash,tunai,,lunas
+1211,Ir. Raihan Waskita,debit,LinkAja,62812346307.0,lunas
+1212,"Puti Fitriani Padmasari, S.Kom",kredit,Mandiri,3783299245.0,belum lunas
+1213,"Ganep Suryatmi, M.TI.",kredit,Gopay,62812346309.0,belum lunas
+1214,Vera Novitasari,cash,tunai,,lunas
+1215,"dr. Vega Lailasari, S.E.",kredit,Shopepay,62812346311.0,belum lunas
+1216,"Puti Pia Siregar, S.Sos",cash,tunai,,lunas
+1217,R.M. Ibun Napitupulu,debit,Gopay,62812346313.0,lunas
+1218,Mahfud Melani,cash,tunai,,lunas
+1219,dr. Paramita Situmorang,debit,BRI,9154060163.0,lunas
+1220,"Ir. Gandi Oktaviani, S.H.",cash,tunai,,lunas
+1221,"Pranata Hidayanto, S.E.I",kredit,BRI,5549036713.0,belum lunas
+1222,Jasmin Damanik,debit,BRI,8570149741.0,lunas
+1223,dr. Clara Pradana,cash,tunai,,lunas
+1224,Patricia Susanti,kredit,BRI,1894946815.0,belum lunas
+1225,drg. Kezia Riyanti,debit,Mandiri,4484734443.0,lunas
+1226,"Dt. Cawuk Pudjiastuti, M.Kom.",debit,Gopay,62812346315.0,lunas
+1227,Chelsea Wulandari,cash,tunai,,lunas
+1228,Saiful Mandasari,kredit,BTN,3728107394.0,belum lunas
+1229,Keisha Suartini,debit,Flip,6633857971.0,lunas
+1230,Zahra Simbolon,cash,tunai,,lunas
+1231,Puti Pratiwi,cash,tunai,,lunas
+1232,"dr. Ira Wastuti, S.Pd",debit,Seabank,3660070132.0,lunas
+1233,Kenari Sinaga,debit,Shopepay,62812346317.0,lunas
+1234,Cakrawangsa Wastuti,debit,Seabank,3496663894.0,lunas
+1235,Dr. Yunita Ardianto,debit,Mandiri,5521652082.0,lunas
+1236,"Puti Mila Putra, S.T.",debit,Seabank,4448719903.0,lunas
+1237,Sabrina Novitasari,kredit,BNI,9488644439.0,belum lunas
+1238,"R.M. Kasusra Narpati, S.Kom",kredit,BTN,6400114371.0,belum lunas
+1239,"Edison Santoso, S.Kom",cash,tunai,,lunas
+1240,"Paramita Ramadan, S.Pd",cash,tunai,,lunas
+1241,Caket Nugroho,cash,tunai,,lunas
+1242,Cawisono Dongoran,kredit,Gopay,62812346319.0,belum lunas
+1243,Ajeng Prasetya,cash,tunai,,lunas
+1244,Ilsa Napitupulu,kredit,Mandiri,4206507419.0,belum lunas
+1245,"Yono Iswahyudi, S.Gz",kredit,BRI,3176867220.0,belum lunas
+1246,"Drs. Cagak Nasyidah, S.E.I",kredit,Gopay,62812346321.0,belum lunas
+1247,Karma Permadi,kredit,Dana,62812346323.0,belum lunas
+1248,"Maida Mahendra, S.Ked",cash,tunai,,lunas
+1249,"Danang Haryanti, S.E.I",debit,Dana,62812346341.0,lunas
+1250,Hadi Saefullah,debit,OVO,62812346345.0,lunas

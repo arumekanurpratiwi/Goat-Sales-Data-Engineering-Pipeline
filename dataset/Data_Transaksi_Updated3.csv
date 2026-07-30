@@ -1,0 +1,1251 @@
+id,tanggal_pembelian,nama,jenis_kambing,jumlah_kambing,Harga_Jual_Kambi,metode_transaksi
+112,2024-07-27,Diana Habibi,kacang,3,1657051,debit
+400,2024-08-01,Harja Wahyudin,kacang,4,4923741,kredit
+699,2024-07-09,"R.M. Hasim Hutasoit, S.IP",kacang,1,4650783,kredit
+57,2024-06-17,"Jelita Nasyiah, S.Pd",jawa,1,3825518,cash
+874,2024-06-24,Anastasia Siregar,kacang,2,1037409,kredit
+991,2024-07-28,Hartana Hasanah,jawa,4,"3,404,858",kredit
+636,2024-11-09,Gara Thamrin,jawa,1,4303785,kredit
+249,2024-10-16,"Cahyadi Wijayanti, S.Ked",jawa,4,"4,741,510",debit
+782,2024-08-29,Dian Santoso,kacang,3,3603153,cash
+648,2024-07-26,Hj. Anita Permata,kacang,3,4702261,debit
+925,2024-07-19,"Ilsa Mayasari, S.E.",kacang,5,1826698,cash
+978,2024-09-01,Ophelia Simanjuntak,kacang,1,"2,565,488",kredit
+531,2024-12-03,Cut Yuni Pratama,jawa,4,"1,681,304",cash
+244,2024-09-07,"Yono Siregar, M.Kom.",kacang,2,3301233,cash
+1160,2024-09-07,Safina Zulkarnain,jawa,1,"2,799,409",kredit
+441,2024-10-05,"Dt. Enteng Permata, M.Ak",kacang,4,"3,104,187",kredit
+618,2024-09-08,Harsaya Megantara,etawa,1,1966705,kredit
+852,2024-09-16,Eko Marpaung,kacang,4,4285958,kredit
+139,2024-11-07,Asmianto Rajasa,jawa,2,3275612,debit
+732,2024-11-01,dr. Elvina Mahendra,kacang,2,1878571,cash
+871,2024-06-27,Elvina Zulkarnain,jawa,2,2424995,kredit
+451,2024-11-10,"Sutan Marwata Prasetya, M.M.",etawa,3,"2,223,025",debit
+547,2024-08-10,Jasmin Napitupulu,etawa,4,"3,239,958",debit
+15,2024-11-08,Ganep Uwais,jawa,2,4844727,debit
+436,2024-10-09,"Irma Ardianto, M.Ak",kacang,5,1812514,cash
+851,2024-09-30,Hari Pranowo,jawa,1,4411191,debit
+668,2024-08-22,Nadine Santoso,kacang,4,"3,967,947",kredit
+542,2024-09-16,"R.M. Mahesa Jailani, M.Ak",kacang,4,1530795,cash
+256,2024-11-03,Okto Nababan,kacang,4,"4,191,276",kredit
+247,2024-09-30,Martaka Hartati,jawa,3,"2,643,895",debit
+179,2024-11-16,Indah Nashiruddin,jawa,5,"1,517,729",kredit
+1061,2024-07-17,Hasna Hidayanto,etawa,5,"4,044,283",debit
+868,2024-09-28,Jaka Saragih,etawa,2,2964762,cash
+235,2024-10-16,Lukman Putra,kacang,2,"4,470,110",debit
+966,2024-11-17,Ajimin Waskita,kacang,2,"3,655,975",kredit
+380,2024-09-15,"Ir. Cahyadi Siregar, S.Pd",jawa,5,2309377,debit
+529,2024-09-18,Dina Pangestu,etawa,5,"2,354,160",cash
+677,2024-11-20,"Lidya Oktaviani, S.IP",jawa,1,"1,158,117",cash
+776,2024-07-31,Alika Mangunsong,jawa,5,"2,952,744",debit
+1087,2024-11-29,Cakrabirawa Purwanti,etawa,1,2996513,debit
+94,2024-10-16,Ida Hartati,jawa,5,1087154,debit
+965,2024-06-12,"Jane Haryanti, S.I.Kom",jawa,4,1683910,debit
+1247,2024-09-09,Karma Permadi,etawa,5,"4,793,781",kredit
+715,2024-12-03,Warji Palastri,kacang,4,2651068,cash
+415,2024-06-22,Diah Nurdiyanti,etawa,3,2974596,cash
+1034,2024-12-05,"Dr. Gabriella Kusmawati, S.IP",jawa,3,"4,215,678",kredit
+682,2024-07-07,Jamil Laksmiwati,jawa,2,1409762,cash
+181,2024-12-06,Ani Irawan,etawa,1,"3,537,790",debit
+1238,2024-06-17,"R.M. Kasusra Narpati, S.Kom",jawa,2,3193340,kredit
+1185,2024-08-29,"Ir. Fathonah Hidayanto, S.E.",kacang,3,"3,813,196",debit
+472,2024-10-25,"R. Vino Tarihoran, S.Psi",jawa,3,2474281,debit
+155,2024-07-07,"Drs. Juli Prasasta, S.Gz",jawa,1,4769109,kredit
+18,2024-08-01,Elma Suryatmi,etawa,4,2935710,debit
+48,2024-06-23,Ella Rajata,kacang,4,4835203,debit
+1032,2024-06-23,dr. Winda Jailani,etawa,4,2350968,debit
+315,2024-06-13,Shania Mardhiyah,etawa,1,1987115,cash
+545,2024-06-26,Nardi Pranowo,jawa,4,1475379,kredit
+500,2024-08-22,Bakti Andriani,etawa,5,"3,963,537",cash
+321,2024-07-25,Daliono Simbolon,etawa,5,4472244,kredit
+423,2024-08-11,"R.A. Humaira Sirait, S.E.I",etawa,1,3188239,cash
+135,2024-09-13,Gantar Oktaviani,kacang,4,4695503,debit
+444,2024-10-04,Tina Nashiruddin,kacang,1,"4,676,568",kredit
+286,2024-10-29,"Gasti Mangunsong, S.Ked",kacang,1,3102323,cash
+770,2024-09-15,"drg. Ikin Tamba, S.Sos",jawa,5,"2,208,384",debit
+1097,2024-08-17,Upik Melani,etawa,2,"1,156,834",kredit
+566,2024-08-17,Dian Samosir,jawa,3,"3,183,705",cash
+769,2024-07-29,"Aslijan Hariyah, S.Gz",etawa,1,"4,603,349",kredit
+45,2024-10-19,Dian Puspasari,etawa,1,2481597,kredit
+487,2024-12-04,Kemba Najmudin,kacang,3,"2,482,726",debit
+13,2024-09-17,"dr. Wage Santoso, M.TI.",jawa,2,3098866,debit
+1005,2024-11-06,Faizah Januar,kacang,3,2802616,kredit
+81,2024-08-01,Drs. Almira Haryanto,kacang,5,"1,783,719",debit
+889,2024-09-26,"Kezia Aryani, S.Sos",jawa,4,"3,857,858",cash
+510,2024-08-29,Karma Aryani,etawa,2,"1,307,956",debit
+833,2024-08-26,Olga Yolanda,etawa,5,"3,494,191",kredit
+625,2024-10-13,Sutan Martani Simbolon,etawa,3,"1,592,547",cash
+1140,2024-11-20,Nadia Gunarto,jawa,5,2075153,kredit
+708,2024-06-20,drg. Vanya Halimah,kacang,1,4731660,debit
+1163,2024-10-17,"Amalia Astuti, S.Pd",jawa,4,"1,849,509",debit
+904,2024-07-05,"Dr. Elisa Namaga, M.TI.",etawa,5,2841570,kredit
+219,2024-09-10,Hj. Novi Suryatmi,etawa,1,1113579,cash
+848,2024-07-15,Rosman Rahimah,jawa,1,1302620,kredit
+479,2024-07-03,Dt. Naradi Nashiruddin,etawa,5,4305247,kredit
+750,2024-06-12,"H. Bakti Wasita, S.Kom",etawa,2,1619387,debit
+1078,2024-12-06,"Tgk. Bakijan Sinaga, S.I.Kom",etawa,2,1383127,debit
+1046,2024-12-05,"Radit Nababan, S.Pt",jawa,5,"1,713,435",kredit
+719,2024-09-16,Mulyanto Rajata,etawa,5,3794230,kredit
+1058,2024-11-11,Cindy Wijaya,etawa,1,"1,037,153",kredit
+579,2024-11-23,Ajimin Pranowo,jawa,2,"3,658,611",debit
+640,2024-10-04,"T. Nasrullah Mustofa, M.Ak",jawa,2,"3,071,570",debit
+205,2024-11-16,"Sutan Wakiman Anggraini, S.E.I",jawa,2,"1,634,153",debit
+780,2024-09-23,Tri Hassanah,jawa,5,4889836,cash
+755,2024-10-20,Adika Saragih,jawa,2,"2,117,256",cash
+843,2024-08-11,Padmi Prakasa,kacang,1,3810961,kredit
+1050,2024-08-15,Novi Waluyo,jawa,3,"3,910,783",kredit
+809,2024-09-13,Pangeran Padmasari,jawa,4,3562257,debit
+1197,2024-10-28,"Cut Hasna Firgantoro, S.Ked",jawa,5,2058928,cash
+97,2024-10-26,Elvin Permadi,etawa,3,3642247,debit
+260,2024-11-08,"Gandewa Rajasa, M.Kom.",kacang,4,"3,482,232",kredit
+1168,2024-10-15,Pranawa Rajata,jawa,4,1857294,cash
+509,2024-07-14,Citra Laksita,kacang,1,"2,696,147",cash
+1079,2024-06-24,Dr. Nadine Pradipta,jawa,5,"3,236,379",cash
+590,2024-06-16,Titi Susanti,kacang,1,"3,303,935",cash
+433,2024-10-27,"Drs. Purwadi Iswahyudi, S.Gz",jawa,5,1638377,debit
+793,2024-06-15,H. Kamidin Maheswara,kacang,1,2431651,kredit
+811,2024-09-10,R. Yani Utami,kacang,2,3873610,cash
+480,2024-08-28,Yulia Simanjuntak,jawa,4,"4,008,342",debit
+837,2024-07-05,Gaiman Agustina,jawa,1,2066487,cash
+662,2024-10-04,Jasmin Wulandari,jawa,3,2514558,kredit
+918,2024-09-11,"Tgk. Rendy Latupono, S.Ked",etawa,5,1863108,debit
+614,2024-11-15,Hilda Pradana,kacang,2,"3,452,517",kredit
+56,2024-11-28,Nadia Wacana,jawa,2,"2,537,349",cash
+123,2024-06-10,Nrima Suryono,kacang,5,"3,553,535",kredit
+431,2024-10-14,Umaya Maulana,jawa,2,"3,698,558",cash
+652,2024-11-20,"Banara Hidayat, S.H.",jawa,4,2521985,cash
+665,2024-06-12,Makara Pradipta,jawa,5,"4,973,372",debit
+867,2024-06-12,"R. Edison Kuswoyo, S.Pd",etawa,2,"2,709,904",debit
+1053,2024-07-21,Ajimin Pradipta,kacang,2,4913466,debit
+1183,2024-10-01,Martani Manullang,etawa,3,2508827,debit
+398,2024-09-18,"R. Danang Suryatmi, S.Kom",jawa,1,1622406,cash
+435,2024-08-06,Kania Sitorus,jawa,5,"1,403,067",debit
+1094,2024-07-05,"Arta Lailasari, M.M.",jawa,1,4612979,kredit
+1245,2024-07-30,"Yono Iswahyudi, S.Gz",etawa,3,1544639,kredit
+83,2024-11-10,"Cut Cinthia Mahendra, S.I.Kom",jawa,2,4701439,cash
+283,2024-11-17,Maimunah Pertiwi,kacang,5,"2,084,217",debit
+148,2024-07-07,"R. Mahmud Budiman, S.Farm",jawa,3,2819248,kredit
+443,2024-09-06,"Puti Nabila Napitupulu, S.IP",kacang,5,"4,787,314",cash
+540,2024-06-22,Unjani Lestari,jawa,4,3980982,kredit
+409,2024-07-26,Drs. Emong Gunawan,etawa,3,2973535,debit
+438,2024-07-13,Yani Wahyudin,etawa,3,"4,820,227",debit
+534,2024-09-13,drg. Olivia Mayasari,kacang,4,3593993,cash
+447,2024-08-17,Zahra Waskita,kacang,2,1855295,debit
+650,2024-08-28,Oskar Usamah,jawa,2,1271629,debit
+248,2024-06-11,Amelia Andriani,kacang,4,3138994,cash
+411,2024-08-03,Putri Hidayanto,kacang,2,1817946,debit
+1250,2024-07-14,Hadi Saefullah,etawa,2,4567653,debit
+1187,2024-09-22,dr. Makuta Utami,etawa,3,"4,800,833",cash
+211,2024-08-17,Jabal Aryani,kacang,3,"2,364,358",kredit
+1242,2024-08-20,Cawisono Dongoran,kacang,2,3902720,kredit
+1219,2024-08-11,dr. Paramita Situmorang,etawa,2,"3,404,476",debit
+820,2024-09-09,Darsirah Hidayat,jawa,1,2820156,cash
+421,2024-11-01,Ibun Prasetya,kacang,5,4278818,kredit
+234,2024-09-21,Dr. Zelda Uyainah,jawa,4,"2,120,947",cash
+1036,2024-11-22,Ella Hastuti,kacang,4,4180394,kredit
+368,2024-10-22,Emin Haryanti,jawa,1,"1,887,093",kredit
+174,2024-07-30,Olga Hasanah,etawa,5,"2,365,512",kredit
+177,2024-08-07,Dr. Jamalia Firgantoro,jawa,2,2960592,kredit
+1082,2024-06-14,"Karman Kurniawan, S.IP",kacang,5,4566582,kredit
+519,2024-10-22,drg. Rika Habibi,etawa,1,"4,239,306",cash
+1208,2024-11-24,T. Jaya Sihotang,etawa,2,1262362,cash
+1033,2024-07-11,"R. Tirtayasa Manullang, S.Kom",jawa,3,"2,066,517",kredit
+429,2024-08-10,"Drs. Najwa Pranowo, S.H.",kacang,3,2189002,cash
+346,2024-07-11,Iriana Sihombing,etawa,4,"3,190,927",debit
+1189,2024-11-04,"drg. Dalima Mansur, S.Ked",jawa,4,"1,071,224",kredit
+95,2024-10-23,Gandi Hidayat,etawa,1,"4,786,835",cash
+822,2024-08-09,Vicky Pratama,jawa,3,3387485,debit
+1001,2024-07-14,"H. Galar Agustina, S.I.Kom",jawa,5,3753263,kredit
+362,2024-09-16,R.A. Septi Usada,kacang,1,2566188,debit
+1131,2024-07-20,Hj. Queen Habibi,kacang,1,"4,773,103",cash
+1178,2024-07-08,Septi Zulkarnain,etawa,3,3243112,cash
+563,2024-09-28,Danang Sirait,jawa,3,3778025,cash
+1146,2024-11-24,Tgk. Sidiq Widiastuti,kacang,1,"4,540,085",debit
+91,2024-08-19,Panji Zulkarnain,jawa,3,"2,527,089",debit
+325,2024-10-11,Novi Hariyah,etawa,2,"1,187,890",cash
+189,2024-09-30,"Drs. Radit Hariyah, S.Farm",etawa,2,2441434,cash
+788,2024-08-22,"Puti Dina Narpati, S.Pd",kacang,5,"2,297,122",kredit
+253,2024-11-16,Ganda Prayoga,jawa,2,2456982,kredit
+456,2024-08-17,Raden Winarno,kacang,3,"4,496,096",cash
+596,2024-12-04,"Raharja Permata, S.Pd",etawa,5,1733926,debit
+674,2024-06-17,Maria Samosir,kacang,2,"1,211,731",kredit
+80,2024-09-28,Rosman Puspita,etawa,1,2213303,debit
+987,2024-07-17,"R. Lintang Maryati, M.Ak",kacang,2,"4,816,366",debit
+134,2024-08-11,Hartaka Pratiwi,kacang,4,4292269,debit
+733,2024-09-02,Hj. Gawati Hariyah,kacang,1,"1,679,496",kredit
+322,2024-10-04,H. Daryani Irawan,etawa,4,"1,485,620",cash
+612,2024-07-15,"dr. Estiawan Wulandari, S.Pt",kacang,3,4190752,cash
+972,2024-10-25,"Ciaobella Latupono, S.Sos",jawa,2,4555733,cash
+457,2024-07-26,"Rika Najmudin, S.I.Kom",etawa,2,1628766,kredit
+931,2024-06-13,"Ilsa Dongoran, S.Gz",jawa,1,4867384,cash
+1016,2024-11-21,Hartaka Mardhiyah,jawa,4,"3,467,562",kredit
+999,2024-11-18,Yuliana Mansur,etawa,2,1919079,debit
+238,2024-11-07,Irsad Wibisono,jawa,4,"4,349,847",debit
+101,2024-11-19,"Winda Sudiati, S.T.",kacang,3,4302943,kredit
+327,2024-07-03,Yono Budiman,kacang,4,1523165,debit
+1165,2024-11-18,Sari Siregar,jawa,2,3171994,cash
+1212,2024-08-26,"Puti Fitriani Padmasari, S.Kom",kacang,3,3857560,kredit
+171,2024-10-24,Rafi Widodo,kacang,3,"1,487,435",cash
+347,2024-12-01,Jabal Halim,etawa,3,4833718,cash
+830,2024-07-25,"Maimunah Prasetya, M.Farm",kacang,2,4713595,cash
+6,2024-08-20,Dipa Yulianti,jawa,2,"3,110,860",cash
+240,2024-07-21,"Karsana Prasetyo, M.Pd",kacang,4,3638272,kredit
+895,2024-06-17,Janet Maryadi,kacang,2,2417683,cash
+1241,2024-08-15,Caket Nugroho,kacang,3,1758832,cash
+658,2024-06-23,Kariman Najmudin,jawa,5,"1,706,114",kredit
+180,2024-09-13,Ade Pranowo,etawa,2,1426564,kredit
+1051,2024-10-22,Salsabila Latupono,jawa,1,"3,886,086",debit
+804,2024-06-17,"Ajeng Hutapea, M.Ak",etawa,2,"1,186,775",kredit
+1227,2024-07-11,Chelsea Wulandari,etawa,4,3008440,cash
+385,2024-11-09,Queen Hartati,jawa,2,1003776,debit
+582,2024-10-20,"Sarah Pratama, M.Farm",kacang,2,2948026,cash
+105,2024-07-20,Aswani Widodo,kacang,1,"4,302,606",kredit
+703,2024-07-12,Yani Simanjuntak,kacang,5,3086636,kredit
+784,2024-07-08,Ulva Tampubolon,kacang,1,2708380,kredit
+528,2024-10-25,Mustika Manullang,kacang,5,1998694,debit
+252,2024-07-16,"Ir. Anita Kusmawati, S.Sos",etawa,3,2811552,cash
+488,2024-11-19,"Ophelia Zulaika, S.E.I",kacang,3,"2,900,062",kredit
+951,2024-06-29,Rahman Wastuti,kacang,1,4943408,cash
+655,2024-11-02,"T. Danang Rajata, M.TI.",etawa,4,3281492,kredit
+1070,2024-08-22,Jasmin Melani,kacang,4,"1,719,684",kredit
+439,2024-09-13,Cinta Melani,jawa,5,"3,224,955",debit
+32,2024-06-24,R.A. Kiandra Tampubolon,kacang,2,3008868,cash
+1086,2024-08-24,"Karsa Wulandari, S.Pd",etawa,5,"1,391,458",cash
+836,2024-08-21,Hari Prasasta,kacang,2,"1,015,029",cash
+255,2024-09-16,Jaswadi Rahayu,etawa,2,"4,535,027",cash
+886,2024-08-16,Kayla Kuswandari,etawa,3,3189050,kredit
+654,2024-06-29,Ir. Nurul Lazuardi,kacang,5,2890365,debit
+408,2024-09-11,Tgk. Daruna Maryati,etawa,3,3249155,debit
+348,2024-09-03,Drs. Jindra Wijaya,kacang,3,"1,364,671",cash
+1136,2024-09-18,Irsad Saputra,etawa,4,"3,607,817",debit
+642,2024-08-06,"Hasna Maryadi, M.Pd",kacang,1,"3,803,622",kredit
+729,2024-08-01,Drs. Yono Puspasari,jawa,2,"1,636,041",kredit
+988,2024-11-19,Kasiran Pangestu,etawa,1,"1,135,952",debit
+858,2024-07-07,Cut Elvina Astuti,etawa,1,"1,376,957",kredit
+993,2024-08-10,Kurnia Hasanah,etawa,4,2879196,cash
+760,2024-11-07,Lega Kusumo,jawa,5,"2,553,654",cash
+104,2024-06-14,Kacung Dabukke,etawa,4,"2,558,226",debit
+932,2024-08-27,"Ir. Hana Laksita, S.Ked",kacang,1,"1,925,740",cash
+1225,2024-09-20,drg. Kezia Riyanti,jawa,2,4071607,debit
+23,2024-10-17,"Radit Aryani, M.Pd",jawa,2,"3,924,132",debit
+30,2024-08-07,Victoria Suwarno,jawa,1,"3,622,057",debit
+924,2024-07-10,Farah Pudjiastuti,etawa,5,"1,459,990",kredit
+892,2024-09-28,Rizki Prasetya,jawa,1,1971395,cash
+212,2024-10-03,Ellis Prastuti,kacang,5,"1,653,552",debit
+619,2024-09-07,"Puti Silvia Hutasoit, S.IP",jawa,1,4289482,kredit
+140,2024-10-30,R.A. Maimunah Zulkarnain,jawa,4,3822215,cash
+742,2024-07-13,Putri Simanjuntak,etawa,2,1108868,cash
+505,2024-06-21,Aisyah Nababan,jawa,5,1539467,debit
+684,2024-07-20,Titin Sudiati,etawa,1,"1,679,315",cash
+1052,2024-12-05,R.M. Gantar Kurniawan,jawa,5,3804552,debit
+616,2024-09-25,Ratih Halim,etawa,4,2533284,debit
+522,2024-08-23,Umi Rajasa,etawa,5,"2,697,954",cash
+1114,2024-08-08,"Okta Permata, M.M.",etawa,3,2899019,cash
+190,2024-09-18,"Dr. Ratna Mardhiyah, S.E.I",etawa,4,"3,454,355",debit
+1044,2024-09-21,Prakosa Yuliarti,etawa,3,4190626,kredit
+737,2024-07-30,Tirtayasa Setiawan,etawa,5,"3,430,304",cash
+1150,2024-08-01,Cici Jailani,kacang,4,"2,661,050",kredit
+845,2024-08-09,"Tgk. Balamantri Nasyiah, S.Pt",kacang,3,"1,010,493",kredit
+1122,2024-10-14,Asmadi Santoso,jawa,3,"3,870,064",cash
+989,2024-09-11,"Vanya Gunawan, S.I.Kom",jawa,3,"1,607,264",kredit
+1035,2024-10-12,Drs. Ratna Usamah,kacang,4,3327719,debit
+197,2024-09-04,"Nilam Halim, S.IP",kacang,5,"1,104,457",cash
+813,2024-12-04,Bagas Gunawan,kacang,3,"4,492,218",kredit
+627,2024-11-04,drg. Utama Nasyidah,etawa,4,4042904,debit
+44,2024-06-27,"R. Jayeng Hutapea, M.Ak",kacang,4,"3,165,619",cash
+945,2024-10-20,"dr. Damar Namaga, M.Kom.",etawa,4,"1,663,885",cash
+523,2024-11-13,"Alika Hassanah, S.Pd",etawa,5,"4,206,747",debit
+1166,2024-09-08,"Makuta Hutapea, S.Pt",kacang,1,1395758,cash
+209,2024-07-17,Nova Mandala,jawa,5,"2,844,995",kredit
+388,2024-11-06,drg. Edward Kurniawan,etawa,2,"4,998,528",cash
+508,2024-10-17,Daliono Gunarto,kacang,1,1814284,cash
+639,2024-11-22,R. Queen Prabowo,kacang,4,"3,449,954",kredit
+215,2024-10-31,Dr. Liman Hastuti,etawa,4,"1,290,748",cash
+1047,2024-07-18,Gara Hidayanto,jawa,4,"4,639,334",cash
+1006,2024-08-08,Gina Saputra,jawa,5,"4,432,304",cash
+58,2024-12-01,drg. Raisa Sitorus,etawa,3,1560806,kredit
+67,2024-08-02,"Soleh Marbun, S.E.",jawa,1,"4,510,574",debit
+1198,2024-12-05,Vanesa Winarsih,etawa,1,3246586,cash
+200,2024-10-13,"Murti Pradana, S.Farm",kacang,3,"2,690,602",debit
+230,2024-11-24,Wadi Hartati,etawa,1,3429265,debit
+912,2024-08-18,Utama Utama,etawa,5,4130470,cash
+669,2024-06-25,Gambira Latupono,etawa,4,2587006,debit
+354,2024-09-21,"Lembah Mustofa, M.TI.",kacang,5,"3,690,969",cash
+864,2024-08-04,"KH. Usman Pradipta, S.T.",jawa,5,"1,861,198",debit
+5,2024-09-24,Lalita Rajata,jawa,5,"2,159,076",cash
+712,2024-09-03,Daliman Widiastuti,jawa,3,"4,638,082",cash
+319,2024-11-28,Mulyanto Puspasari,etawa,1,"1,822,449",kredit
+1221,2024-10-16,"Pranata Hidayanto, S.E.I",jawa,4,1645561,kredit
+849,2024-06-10,Ani Jailani,jawa,2,4848701,kredit
+70,2024-08-02,Mulyanto Jailani,jawa,5,"1,766,781",kredit
+757,2024-11-01,Prayogo Namaga,kacang,3,2603801,cash
+470,2024-07-13,"Aisyah Hutasoit, S.IP",etawa,3,4656032,debit
+930,2024-08-23,"Hasta Pangestu, S.Sos",jawa,2,"2,426,318",debit
+587,2024-06-18,"T. Laswi Nashiruddin, M.Farm",kacang,4,2902940,debit
+1152,2024-12-06,Indra Lestari,jawa,3,4114012,cash
+973,2024-11-28,"Maimunah Saputra, S.Ked",kacang,3,"4,599,871",cash
+109,2024-06-21,Wakiman Pradana,etawa,5,"1,821,630",kredit
+297,2024-10-02,"Hardi Wasita, M.TI.",jawa,2,"2,266,703",cash
+651,2024-10-05,Safina Nugroho,jawa,4,4950064,kredit
+299,2024-07-01,Irfan Purwanti,kacang,3,"3,920,820",cash
+1113,2024-09-21,Drs. Farhunnisa Dabukke,jawa,3,"1,018,579",kredit
+756,2024-08-05,Arta Usada,kacang,5,1188182,debit
+638,2024-11-17,"Rafi Siregar, S.Ked",etawa,4,1059745,kredit
+1111,2024-09-21,Estiono Salahudin,jawa,5,"1,047,523",kredit
+1083,2024-11-13,"R. Ganjaran Handayani, S.Kom",kacang,4,3861012,debit
+280,2024-08-02,Ophelia Prabowo,jawa,4,"1,621,727",cash
+696,2024-11-09,"dr. Zulfa Wacana, S.T.",kacang,3,"3,411,464",debit
+407,2024-10-03,Ami Melani,etawa,4,3364443,kredit
+1048,2024-12-05,Jamil Pudjiastuti,kacang,3,1604248,debit
+1132,2024-06-20,Elma Pudjiastuti,jawa,2,"4,635,145",kredit
+1071,2024-09-14,Drs. Ami Purwanti,etawa,4,1474728,cash
+723,2024-06-15,Titi Irawan,kacang,2,"2,822,816",cash
+771,2024-08-30,"drg. Timbul Waluyo, S.H.",jawa,4,"3,806,957",kredit
+1180,2024-11-06,"Luwar Dongoran, M.Pd",etawa,1,"1,202,720",cash
+1096,2024-07-06,"Hj. Calista Sihotang, S.I.Kom",kacang,2,"1,433,977",kredit
+254,2024-06-18,Bakianto Mandala,jawa,3,"4,480,240",debit
+1090,2024-09-12,"Dr. Victoria Halim, S.E.",jawa,5,"1,651,001",debit
+78,2024-07-19,Damu Padmasari,kacang,4,"1,969,961",cash
+138,2024-10-19,"Kalim Hardiansyah, S.Pd",jawa,5,"4,345,410",kredit
+745,2024-08-20,Kezia Sihotang,jawa,1,3838650,cash
+1073,2024-07-17,"R.M. Asirwanda Santoso, M.TI.",jawa,5,3065704,cash
+1195,2024-08-19,"Mahmud Kuswoyo, M.Kom.",jawa,1,"2,036,285",cash
+333,2024-11-16,Garang Nababan,kacang,5,2537326,kredit
+150,2024-11-26,"drg. Bella Simbolon, S.E.I",etawa,2,3085411,debit
+1158,2024-08-11,Rendy Sihotang,jawa,3,"2,576,440",debit
+1149,2024-12-01,Kiandra Budiman,etawa,1,"1,334,745",kredit
+498,2024-11-17,Vivi Kurniawan,etawa,1,4749288,cash
+953,2024-10-27,"Sabri Mandala, M.Ak",etawa,2,"1,355,123",debit
+786,2024-10-25,"Hj. Cinthia Saptono, S.E.",kacang,1,"2,776,879",debit
+621,2024-07-18,"dr. Karta Aryani, S.Kom",jawa,1,"4,533,011",cash
+701,2024-06-14,R. Uli Yulianti,kacang,5,"1,583,817",cash
+550,2024-09-03,Kamaria Lailasari,jawa,1,"1,863,651",kredit
+543,2024-09-22,Rahmi Saragih,etawa,3,1897716,debit
+164,2024-10-08,"Ir. Widya Prasasta, S.T.",jawa,5,3697619,cash
+1249,2024-11-18,"Danang Haryanti, S.E.I",jawa,5,"3,244,561",debit
+202,2024-08-01,"T. Martaka Firgantoro, S.IP",jawa,5,"2,619,683",cash
+167,2024-10-03,Marsito Oktaviani,etawa,3,4773466,debit
+1025,2024-07-21,Dalimin Wijaya,kacang,3,4110191,cash
+609,2024-08-19,Elvina Nababan,etawa,1,"4,814,231",cash
+1007,2024-08-12,Yuni Yuniar,etawa,2,3483794,kredit
+337,2024-06-27,Kasiran Puspita,etawa,3,2215307,kredit
+50,2024-09-07,Bahuwirya Sitorus,kacang,2,"1,395,687",kredit
+68,2024-09-23,Ghaliyati Rahimah,kacang,2,"3,635,282",debit
+413,2024-07-31,Nyoman Pudjiastuti,etawa,5,4908598,debit
+1084,2024-07-26,Dalima Handayani,kacang,1,"1,079,733",kredit
+49,2024-06-18,Hasan Hutagalung,kacang,1,"1,570,314",cash
+671,2024-11-08,Anastasia Prasetyo,kacang,3,"3,058,214",cash
+630,2024-09-22,Drs. Yessi Mandasari,kacang,3,"1,466,384",cash
+1239,2024-08-13,"Edison Santoso, S.Kom",kacang,1,"3,703,980",cash
+1169,2024-11-27,"Cut Olivia Napitupulu, S.T.",jawa,3,2210873,kredit
+125,2024-10-29,Aisyah Kuswandari,etawa,2,"1,882,192",debit
+569,2024-07-04,Ajiono Novitasari,kacang,3,4870280,debit
+622,2024-10-13,"R.M. Kariman Halim, S.E.",etawa,4,"1,327,119",kredit
+393,2024-12-06,"Dt. Harto Zulaika, M.TI.",kacang,4,1479002,debit
+941,2024-07-05,Gading Najmudin,jawa,5,"4,900,528",debit
+595,2024-10-24,Jarwi Narpati,etawa,4,"4,051,882",cash
+481,2024-06-11,"Jessica Hidayat, S.Farm",etawa,1,3632125,cash
+1205,2024-11-29,Marsito Kusmawati,etawa,2,"3,377,990",cash
+1100,2024-08-22,Raharja Latupono,jawa,5,"1,472,095",kredit
+118,2024-09-21,Padmi Purwanti,jawa,2,"1,323,661",cash
+887,2024-10-25,Indra Suryono,jawa,3,"2,993,484",debit
+1000,2024-08-24,Jindra Pratiwi,jawa,5,2613507,debit
+173,2024-11-21,dr. Raharja Hardiansyah,kacang,3,"1,885,300",debit
+1127,2024-10-24,Ulva Tarihoran,kacang,5,1425929,cash
+1037,2024-09-14,"Ciaobella Marbun, S.Farm",jawa,5,"4,588,749",kredit
+561,2024-07-31,Ellis Permadi,jawa,3,2081986,kredit
+1031,2024-09-21,"KH. Yosef Hakim, S.I.Kom",etawa,3,"1,508,801",cash
+36,2024-08-03,Setya Narpati,jawa,5,3465349,debit
+606,2024-08-13,"Waluyo Simbolon, S.E.I",etawa,2,"2,711,045",kredit
+241,2024-09-16,Maya Lazuardi,jawa,5,"3,976,164",kredit
+1171,2024-12-05,Yono Anggriawan,etawa,1,3883745,cash
+71,2024-11-02,"Sutan Ganda Habibi, M.Ak",etawa,4,2165433,kredit
+862,2024-11-10,"Dewi Nuraini, M.Kom.",jawa,4,"1,269,346",debit
+1147,2024-10-30,Drs. Banawi Safitri,jawa,1,"3,311,745",kredit
+74,2024-06-23,Sutan Gangsa Mustofa,etawa,3,3268788,kredit
+1128,2024-07-30,Dalima Firgantoro,etawa,3,"2,003,351",kredit
+351,2024-11-11,Gatot Susanti,jawa,5,2700348,debit
+263,2024-11-17,"Maida Dongoran, S.Pt",kacang,2,"4,953,784",kredit
+350,2024-10-14,Jelita Budiman,kacang,5,4288355,kredit
+496,2024-08-15,Banawi Prasetyo,jawa,2,"2,729,464",cash
+483,2024-11-16,Ikhsan Suryatmi,etawa,1,"2,096,894",cash
+461,2024-09-02,Kayla Sitompul,etawa,2,2067963,debit
+468,2024-08-17,Rendy Maulana,jawa,4,1511949,debit
+603,2024-08-31,drg. Ganda Pradipta,kacang,3,3277751,debit
+1042,2024-11-01,"Asmianto Winarsih, S.E.",kacang,4,3452229,cash
+158,2024-09-01,Puji Yulianti,kacang,4,3905306,cash
+1062,2024-09-14,Kezia Mansur,etawa,4,"2,292,315",debit
+144,2024-06-22,"Gaduh Januar, M.Farm",etawa,5,"4,410,342",kredit
+503,2024-07-08,Ani Firmansyah,kacang,4,2130762,debit
+434,2024-10-16,"Nasrullah Firmansyah, S.IP",jawa,5,"2,772,279",kredit
+1098,2024-11-04,Bella Melani,etawa,3,"4,364,478",kredit
+239,2024-11-15,Lala Suryono,kacang,5,"3,142,399",cash
+1081,2024-10-23,"Dalima Widodo, S.Farm",etawa,4,"2,188,710",cash
+765,2024-12-05,Gada Ramadan,etawa,3,1220915,cash
+52,2024-10-17,Aris Handayani,kacang,3,4852642,debit
+373,2024-08-13,"Cut Queen Halim, S.Pt",etawa,4,"3,768,815",debit
+1155,2024-11-10,H. Warta Laksita,etawa,1,"1,850,997",cash
+559,2024-07-07,Dr. Malika Mandala,etawa,5,"2,924,766",cash
+290,2024-10-15,Mustika Maheswara,kacang,5,3226500,kredit
+1123,2024-09-23,Bahuwarna Dongoran,kacang,2,4369202,debit
+141,2024-11-27,drg. Puput Hassanah,etawa,1,1494054,cash
+277,2024-10-15,Puti Paramita Kuswoyo,jawa,2,2727907,debit
+465,2024-09-18,Icha Fujiati,kacang,4,2232106,cash
+875,2024-10-06,Ade Safitri,etawa,1,"1,411,331",kredit
+51,2024-08-01,Ir. Galak Rahimah,kacang,5,2432926,debit
+203,2024-11-28,Widya Haryanti,jawa,3,2986795,cash
+292,2024-10-22,Ilsa Ardianto,jawa,3,2063554,debit
+281,2024-11-19,Wulan Purwanti,jawa,2,"3,949,614",debit
+969,2024-06-19,Kairav Nainggolan,etawa,2,1780482,kredit
+626,2024-08-06,"Novi Nurdiyanti, S.Pd",jawa,5,2884559,debit
+598,2024-10-09,"Drs. Fitriani Riyanti, M.Pd",jawa,4,"2,528,904",debit
+877,2024-07-18,Ega Pradana,etawa,1,4350246,cash
+929,2024-08-14,Alika Wasita,jawa,1,"3,798,754",kredit
+611,2024-10-19,Aurora Dongoran,kacang,1,4815639,cash
+379,2024-09-09,Oskar Thamrin,jawa,3,3626055,cash
+633,2024-10-18,"Puti Kasiyah Situmorang, M.Ak",etawa,3,3405657,debit
+518,2024-09-22,"Dt. Vero Najmudin, S.Kom",jawa,5,"4,783,374",kredit
+863,2024-06-23,dr. Irma Wulandari,jawa,1,"4,828,527",kredit
+343,2024-11-30,"Dartono Nainggolan, S.Ked",kacang,1,2143390,debit
+43,2024-11-23,Ivan Prasetya,etawa,3,1522409,kredit
+777,2024-11-22,Elvin Damanik,kacang,2,"4,942,856",debit
+228,2024-07-31,Ciaobella Mulyani,kacang,1,4337302,cash
+300,2024-11-14,"Drs. Ana Padmasari, S.I.Kom",etawa,1,"3,552,993",cash
+897,2024-09-30,H. Malik Hutasoit,jawa,3,4839207,debit
+902,2024-06-15,"R. Kamidin Haryanto, M.Kom.",etawa,2,2048441,kredit
+574,2024-10-31,Ir. Endah Pradipta,etawa,4,"2,110,898",cash
+1065,2024-09-03,"Yance Prayoga, M.M.",etawa,2,1533056,debit
+754,2024-08-02,Sutan Jail Wibisono,jawa,5,"2,152,867",kredit
+1203,2024-07-08,"Cakrawala Sudiati, S.E.",jawa,2,1973391,kredit
+221,2024-11-04,Ajiman Safitri,kacang,5,3051496,cash
+624,2024-10-28,Lasmono Usamah,etawa,4,2844778,debit
+855,2024-10-14,"Pandu Pudjiastuti, S.Pd",kacang,4,"3,544,992",cash
+486,2024-10-27,"Tgk. Hafshah Hariyah, S.I.Kom",etawa,1,"4,781,904",kredit
+1026,2024-09-06,"Kacung Hutapea, S.I.Kom",kacang,3,"2,346,530",cash
+555,2024-10-27,Harjo Rahimah,jawa,2,4586572,cash
+85,2024-07-20,Gawati Hutasoit,kacang,2,"4,662,623",debit
+1214,2024-12-01,Vera Novitasari,jawa,3,4645628,cash
+265,2024-10-03,Dalima Mulyani,jawa,5,"1,427,473",debit
+1014,2024-07-09,"Kambali Sitorus, S.I.Kom",jawa,1,1083854,cash
+110,2024-11-18,"Ir. Tania Manullang, M.Ak",etawa,3,"3,477,965",debit
+355,2024-11-17,Aris Ramadan,kacang,5,"4,932,741",debit
+971,2024-11-07,"Ir. Yessi Simbolon, M.Farm",kacang,3,"4,194,380",kredit
+583,2024-11-19,Mahmud Purnawati,etawa,3,2559683,cash
+613,2024-08-18,"Balidin Pradana, S.Psi",kacang,1,4580635,debit
+291,2024-10-23,Ifa Hidayanto,kacang,3,2603785,kredit
+857,2024-06-23,"Shakila Waluyo, S.IP",jawa,2,"3,065,172",kredit
+565,2024-10-04,Makara Uyainah,kacang,5,"1,399,754",cash
+417,2024-10-11,"T. Jefri Suryono, M.Kom.",kacang,2,"1,333,867",cash
+641,2024-10-21,Cinthia Pradipta,jawa,3,3596930,cash
+942,2024-12-05,"Dagel Suryatmi, S.IP",jawa,4,"3,474,533",cash
+403,2024-06-14,Puti Zalindra Pranowo,etawa,2,3451639,cash
+405,2024-06-15,Capa Aryani,jawa,1,"3,951,235",debit
+913,2024-09-29,Azalea Wasita,etawa,5,2652407,cash
+762,2024-10-29,Kusuma Mardhiyah,jawa,2,3359423,kredit
+499,2024-11-24,Paramita Pradana,kacang,5,"1,516,750",kredit
+65,2024-06-11,Vanya Tarihoran,etawa,1,1244362,kredit
+694,2024-10-02,"dr. Restu Agustina, S.E.I",jawa,5,"1,070,591",cash
+213,2024-09-15,Salman Saputra,jawa,2,3750277,cash
+473,2024-11-03,Manah Halim,jawa,2,"1,736,488",cash
+1104,2024-07-02,Dr. Yunita Pradipta,kacang,1,1994111,cash
+741,2024-07-11,"Wardaya Oktaviani, S.Sos",etawa,5,4402933,cash
+898,2024-08-31,Baktiono Sihombing,jawa,1,"1,414,168",debit
+331,2024-09-16,Jais Purnawati,kacang,4,1707602,cash
+865,2024-10-02,Diana Palastri,kacang,5,"4,195,410",debit
+1115,2024-11-27,Citra Suwarno,jawa,3,"1,118,354",cash
+279,2024-08-30,"Latika Yuliarti, S.E.I",kacang,1,3112796,cash
+810,2024-11-11,Ridwan Suryatmi,etawa,2,"3,271,734",kredit
+1018,2024-08-31,R.M. Nasab Suryatmi,etawa,3,"2,203,248",debit
+628,2024-08-09,"Cornelia Maulana, S.Sos",jawa,3,"4,566,183",cash
+19,2024-06-11,Sabrina Sinaga,kacang,2,"2,960,644",cash
+462,2024-07-18,Tirta Permadi,kacang,5,"3,892,148",kredit
+132,2024-10-11,Kamila Saragih,etawa,3,1668302,cash
+724,2024-09-12,Banawa Pratama,jawa,2,"4,001,899",kredit
+597,2024-07-06,Daniswara Anggraini,etawa,2,"2,695,756",debit
+1151,2024-10-24,Candrakanta Mangunsong,etawa,1,"2,313,805",kredit
+846,2024-08-29,"T. Marsudi Nainggolan, M.Pd",jawa,1,"3,417,932",cash
+1213,2024-10-02,"Ganep Suryatmi, M.TI.",etawa,3,"4,359,226",kredit
+637,2024-08-04,"Cut Kasiyah Mandasari, M.Ak",jawa,3,4306914,kredit
+77,2024-06-24,R. Harjaya Irawan,etawa,3,4455829,cash
+1056,2024-11-13,Jumadi Widodo,kacang,2,"4,649,245",debit
+476,2024-08-17,Endah Oktaviani,kacang,4,2183915,kredit
+269,2024-11-22,Cut Salsabila Dabukke,kacang,2,1112897,cash
+947,2024-11-10,dr. Darsirah Mayasari,jawa,4,1856573,debit
+977,2024-10-17,Ulya Siregar,etawa,1,1106026,kredit
+169,2024-09-20,Virman Nasyidah,kacang,2,"1,270,875",debit
+548,2024-09-01,Paramita Damanik,etawa,5,"1,592,184",debit
+801,2024-09-12,Bahuraksa Halimah,etawa,1,3482192,debit
+63,2024-09-21,Puti Mutia Susanti,jawa,2,2816041,debit
+1237,2024-09-10,Sabrina Novitasari,kacang,4,"1,237,206",kredit
+844,2024-07-27,Drs. Zelda Ardianto,etawa,5,"3,169,933",cash
+450,2024-08-24,"Dr. Kemba Prayoga, M.TI.",etawa,4,2410276,cash
+220,2024-06-12,"Himawan Aryani, S.Gz",jawa,2,1279942,kredit
+446,2024-06-25,Drs. Kamila Salahudin,etawa,2,2021133,debit
+1054,2024-06-24,Raisa Sihotang,etawa,2,"4,411,122",kredit
+576,2024-07-18,"Tina Setiawan, S.T.",kacang,5,4521898,kredit
+1145,2024-10-02,Putri Pratama,kacang,1,"1,719,571",debit
+304,2024-06-17,Genta Hasanah,jawa,1,"3,134,746",kredit
+53,2024-09-01,"H. Gangsa Yulianti, S.Psi",etawa,4,3544024,debit
+142,2024-07-08,Puti Cindy Widodo,etawa,3,"1,677,338",cash
+464,2024-07-12,Himawan Farida,kacang,4,4273078,debit
+975,2024-06-22,"dr. Widya Maryadi, S.T.",kacang,2,"4,905,050",cash
+656,2024-07-26,"Amalia Kuswoyo, S.Gz",kacang,4,"4,630,287",cash
+554,2024-09-17,"Dr. Reza Januar, M.Ak",jawa,1,2491125,kredit
+923,2024-10-18,Karya Permata,jawa,4,1837023,kredit
+1244,2024-08-15,Ilsa Napitupulu,etawa,3,"3,640,794",kredit
+302,2024-09-26,"Galak Usada, S.T.",etawa,4,3774936,kredit
+908,2024-10-08,"Qori Manullang, M.Kom.",kacang,5,3309500,cash
+950,2024-06-28,Yulia Wulandari,etawa,2,2829110,cash
+475,2024-06-10,Rahayu Widodo,jawa,3,2255450,debit
+76,2024-07-27,Yosef Zulkarnain,etawa,5,4134312,cash
+369,2024-08-05,Ellis Wibowo,kacang,3,"3,261,098",kredit
+232,2024-07-18,"Ir. Farah Tampubolon, S.IP",etawa,3,"1,368,451",kredit
+581,2024-10-09,Chelsea Handayani,etawa,5,3251798,kredit
+136,2024-07-31,drg. Rahayu Dabukke,kacang,1,4665633,kredit
+26,2024-08-06,"Vino Thamrin, S.Gz",etawa,3,1902410,debit
+766,2024-09-20,Rendy Gunawan,kacang,4,1530703,kredit
+1232,2024-09-04,"dr. Ira Wastuti, S.Pd",jawa,2,"1,939,884",debit
+938,2024-08-10,Garda Nasyiah,kacang,2,2020456,cash
+1021,2024-11-10,Ira Wijaya,etawa,2,"3,554,459",kredit
+458,2024-09-11,"Kartika Yuniar, M.Ak",kacang,3,3021763,kredit
+653,2024-11-03,Caket Sudiati,kacang,3,3562573,cash
+1010,2024-06-20,"Devi Iswahyudi, M.Ak",jawa,5,"2,785,677",cash
+600,2024-07-08,Banawa Prabowo,kacang,3,1748096,kredit
+1067,2024-06-19,Karen Mahendra,jawa,1,"4,677,061",cash
+193,2024-09-30,Olivia Prastuti,etawa,4,"4,840,839",kredit
+175,2024-11-28,Dewi Rahmawati,jawa,1,4355469,cash
+1030,2024-07-18,Zaenab Oktaviani,etawa,4,1545967,kredit
+533,2024-07-15,"Dt. Harimurti Farida, S.E.",kacang,3,"1,177,763",debit
+1003,2024-07-19,"Makuta Mandala, S.E.",jawa,3,2227438,kredit
+358,2024-12-02,"Tasnim Permata, M.Ak",kacang,1,2052800,kredit
+647,2024-08-09,Ir. Uchita Siregar,kacang,5,"2,682,881",debit
+129,2024-06-24,"Ilyas Hastuti, S.E.I",kacang,2,3127758,debit
+341,2024-08-15,Dr. Kartika Pradana,kacang,5,"3,349,875",debit
+8,2024-09-20,"Dt. Luhung Putra, S.Farm",jawa,4,"4,103,692",debit
+946,2024-08-18,"Humaira Hutagalung, S.Gz",jawa,2,"2,298,408",debit
+919,2024-09-12,Tgk. Gandewa Thamrin,kacang,2,"3,060,739",debit
+308,2024-07-09,"Drs. Lala Megantara, S.Ked",kacang,3,"2,027,843",cash
+384,2024-07-30,Suci Rahimah,etawa,2,"1,133,795",debit
+1233,2024-08-03,Kenari Sinaga,jawa,5,3867162,debit
+294,2024-10-15,Pangeran Farida,kacang,4,"1,188,768",cash
+692,2024-10-21,Gadang Prakasa,etawa,3,"2,783,908",debit
+178,2024-10-05,Novi Thamrin,kacang,5,"2,989,938",kredit
+427,2024-09-07,Gadang Usamah,kacang,5,2716572,cash
+730,2024-11-21,Putri Budiman,jawa,1,1730334,kredit
+184,2024-07-31,Marsudi Pudjiastuti,etawa,2,3102893,debit
+685,2024-11-11,Hamima Wibowo,etawa,5,1881882,kredit
+808,2024-07-04,Azalea Pratiwi,jawa,2,3711331,debit
+185,2024-06-21,Najam Saefullah,jawa,1,2953598,debit
+835,2024-11-11,Raditya Narpati,jawa,3,"2,967,186",debit
+217,2024-10-11,"Aurora Permata, M.Farm",jawa,4,4700140,kredit
+126,2024-09-20,dr. Gina Hartati,kacang,3,1678670,cash
+560,2024-10-15,"Agus Rajasa, S.Ked",etawa,3,"1,249,011",kredit
+963,2024-09-17,"Ir. Wani Saragih, M.Pd",jawa,3,4855171,cash
+706,2024-11-02,Kariman Mangunsong,etawa,1,3470082,cash
+992,2024-08-17,dr. Aris Waluyo,kacang,4,1049698,cash
+1091,2024-10-02,Jayeng Hutagalung,jawa,3,3238088,debit
+663,2024-08-02,Farhunnisa Dabukke,kacang,4,2614104,debit
+752,2024-07-29,Ian Sirait,kacang,3,"1,397,870",kredit
+161,2024-10-15,"Leo Utami, M.Farm",kacang,1,"2,478,196",debit
+645,2024-11-16,Tiara Prabowo,etawa,3,"3,468,673",cash
+485,2024-11-08,Lintang Nurdiyanti,kacang,3,4632325,debit
+198,2024-10-16,Cut Silvia Permadi,etawa,3,"3,918,415",kredit
+644,2024-11-29,"Ibun Utama, S.Kom",etawa,4,3599857,kredit
+119,2024-07-14,Zamira Hasanah,kacang,1,2985860,kredit
+1,2024-09-20,Pia Ramadan,jawa,3,3124534,debit
+282,2024-11-25,Shakila Mardhiyah,kacang,2,"3,812,010",kredit
+1085,2024-08-16,"Belinda Wahyuni, S.Ked",kacang,5,1000283,kredit
+601,2024-11-21,"Iriana Namaga, S.Sos",kacang,3,3120006,debit
+511,2024-09-07,Prayogo Gunarto,etawa,4,3084922,kredit
+792,2024-07-13,Paiman Purnawati,kacang,1,3280312,debit
+829,2024-09-07,Putri Zulaika,etawa,4,4688315,kredit
+367,2024-08-08,Digdaya Nababan,etawa,5,"3,432,575",cash
+156,2024-09-25,"Cut Zaenab Prabowo, S.Pt",jawa,5,"3,593,371",cash
+556,2024-11-03,"Dr. Makara Nuraini, S.Ked",etawa,2,4836919,kredit
+1074,2024-10-28,Jamalia Agustina,jawa,3,4293172,debit
+720,2024-10-16,Ajeng Mandasari,etawa,1,"1,651,446",cash
+1243,2024-08-02,Ajeng Prasetya,etawa,2,"1,284,645",cash
+204,2024-11-16,"Kamila Prastuti, S.H.",etawa,1,1679014,kredit
+1013,2024-08-08,"Dr. Irma Yuniar, M.Kom.",etawa,1,"4,281,804",debit
+121,2024-12-01,"T. Jumadi Nashiruddin, M.Pd",kacang,2,1488192,cash
+284,2024-08-16,Taufan Pradana,kacang,3,"1,100,951",kredit
+313,2024-07-27,Ayu Haryanti,jawa,2,1711978,kredit
+513,2024-09-10,Ega Maryadi,jawa,4,"2,501,275",debit
+276,2024-11-02,Usman Sudiati,jawa,2,"2,142,368",kredit
+899,2024-07-21,Eka Usamah,kacang,5,2689862,kredit
+783,2024-10-20,Makuta Tampubolon,kacang,1,"3,079,045",kredit
+361,2024-07-05,Hasan Prakasa,jawa,2,"1,409,942",debit
+834,2024-07-24,Luthfi Jailani,kacang,5,1761542,cash
+10,2024-08-23,Natalia Halim,etawa,2,3471595,debit
+1248,2024-06-17,"Maida Mahendra, S.Ked",kacang,1,2650147,cash
+287,2024-06-30,"Tira Hakim, S.Farm",jawa,3,1068063,kredit
+790,2024-09-01,"Viman Sihotang, S.E.I",jawa,1,3915323,kredit
+787,2024-11-01,Genta Kurniawan,jawa,3,4890209,cash
+1011,2024-09-22,drg. Unjani Nababan,kacang,2,4573179,debit
+424,2024-06-28,"Ina Napitupulu, S.Kom",jawa,2,2717893,kredit
+449,2024-09-10,"Simon Rahayu, M.Farm",jawa,3,"2,468,027",cash
+955,2024-06-10,Mursita Riyanti,kacang,3,"4,647,854",cash
+229,2024-11-17,Rafi Salahudin,kacang,4,1056483,cash
+779,2024-07-09,Umay Samosir,jawa,5,"1,882,261",kredit
+66,2024-10-21,"Kasim Tamba, M.Farm",jawa,2,"1,356,174",kredit
+28,2024-09-06,Nabila Agustina,kacang,1,"2,004,848",kredit
+985,2024-10-30,Sakti Hardiansyah,jawa,3,1272448,debit
+802,2024-10-05,"R.M. Raditya Najmudin, S.Farm",kacang,1,"3,084,454",cash
+1210,2024-06-27,Ikhsan Maryati,jawa,2,"1,021,214",cash
+231,2024-10-15,Radit Pertiwi,etawa,3,4788792,cash
+504,2024-10-28,Samiah Hassanah,kacang,5,2371981,cash
+1148,2024-11-05,Leo Padmasari,kacang,3,3171172,kredit
+896,2024-11-24,Keisha Nurdiyanti,kacang,5,"4,054,317",debit
+502,2024-07-23,Lurhur Mayasari,kacang,4,1489532,debit
+1224,2024-08-03,Patricia Susanti,kacang,1,1583540,kredit
+683,2024-09-18,"drg. Hani Manullang, S.Pt",jawa,2,"4,141,744",debit
+1119,2024-10-07,"Cut Queen Santoso, S.Pd",etawa,3,"2,296,171",debit
+375,2024-10-31,Widya Megantara,kacang,3,"3,325,472",debit
+840,2024-08-04,Bakianto Dabukke,etawa,2,"4,379,027",cash
+334,2024-11-17,Sakti Purnawati,kacang,5,3364028,debit
+1202,2024-11-14,Nurul Sitorus,etawa,2,2193490,cash
+298,2024-10-06,"R. Cahya Pratiwi, M.Kom.",jawa,5,2163680,cash
+599,2024-06-14,"Ir. Karman Rajasa, S.Pd",kacang,4,4894366,kredit
+478,2024-06-25,Harimurti Safitri,kacang,5,2912358,cash
+100,2024-11-19,Candrakanta Mayasari,kacang,2,"1,574,307",kredit
+767,2024-11-22,KH. Daryani Firgantoro,etawa,1,3665619,kredit
+791,2024-08-17,"Argono Maulana, S.Pt",jawa,1,2833926,cash
+1200,2024-08-10,Malika Maryati,jawa,4,"1,234,881",debit
+530,2024-11-08,Tgk. Wulan Maheswara,kacang,4,"2,686,634",kredit
+1199,2024-10-10,"dr. Vera Damanik, M.Ak",jawa,4,4575979,kredit
+1172,2024-11-08,"R.A. Maimunah Pangestu, M.Ak",etawa,4,"1,614,583",cash
+246,2024-08-08,Drs. Zulfa Saptono,kacang,2,"4,149,983",kredit
+186,2024-07-18,"Nalar Adriansyah, M.Kom.",etawa,1,4606278,kredit
+371,2024-11-29,Nilam Palastri,jawa,1,4574405,kredit
+879,2024-09-03,"Maya Damanik, S.T.",jawa,4,"3,024,849",kredit
+418,2024-09-23,Jane Budiyanto,jawa,1,"2,799,154",kredit
+853,2024-12-06,Rina Budiyanto,etawa,4,"4,154,229",kredit
+578,2024-07-21,Drs. Arsipatra Zulkarnain,jawa,5,"2,049,313",debit
+512,2024-06-17,Ir. Edi Maulana,etawa,5,4748645,debit
+743,2024-09-09,"Gamanto Ramadan, S.Psi",jawa,4,"2,035,141",cash
+1101,2024-09-21,Saadat Nasyidah,jawa,1,"3,977,219",cash
+420,2024-11-03,Ella Latupono,kacang,5,1101231,debit
+970,2024-06-14,Gandewa Permata,kacang,3,"1,226,434",kredit
+608,2024-11-01,Oni Maryadi,etawa,2,2774812,cash
+828,2024-06-21,dr. Imam Hidayanto,kacang,4,"4,347,111",kredit
+152,2024-08-10,Daru Hidayanto,jawa,2,"4,560,205",debit
+532,2024-09-16,Sadina Maulana,kacang,5,"4,655,753",debit
+795,2024-10-13,Surya Permata,etawa,3,3909551,debit
+1076,2024-07-26,Agnes Pratama,kacang,1,4398090,debit
+812,2024-11-16,"Sutan Anggabaya Pangestu, S.IP",etawa,5,"1,757,622",kredit
+404,2024-09-20,Cecep Saptono,jawa,4,"1,179,889",cash
+24,2024-06-30,Faizah Napitupulu,kacang,5,1552813,debit
+159,2024-07-09,Okto Rahayu,jawa,1,"1,576,650",kredit
+961,2024-10-13,Shania Prastuti,kacang,2,"1,901,090",cash
+916,2024-08-23,Wani Wijaya,jawa,3,1633816,debit
+207,2024-10-10,Vinsen Purwanti,kacang,3,"2,092,728",cash
+93,2024-09-05,Amalia Suryatmi,etawa,1,1196738,cash
+445,2024-10-16,Maria Putra,kacang,1,4792447,kredit
+35,2024-09-25,Cinthia Setiawan,etawa,4,"2,915,261",cash
+643,2024-07-23,Raisa Dongoran,jawa,1,2992537,debit
+1207,2024-10-31,Gina Firmansyah,jawa,5,"1,670,770",cash
+312,2024-08-09,Sadina Mahendra,jawa,2,4894242,cash
+352,2024-10-17,Amelia Mahendra,etawa,2,4494683,debit
+549,2024-09-29,Citra Lestari,etawa,2,1905779,debit
+1092,2024-11-20,"Ihsan Tarihoran, S.Psi",kacang,1,"1,468,586",kredit
+307,2024-06-30,Tomi Suryatmi,jawa,1,"2,064,960",debit
+288,2024-07-27,Candra Sihombing,kacang,2,"4,247,119",debit
+768,2024-07-17,Jessica Suartini,etawa,5,"1,232,863",debit
+631,2024-11-23,Unggul Salahudin,etawa,3,"3,648,865",kredit
+884,2024-06-22,Puti Juli Simbolon,etawa,4,"1,153,283",kredit
+567,2024-09-16,"Salman Zulkarnain, S.Farm",etawa,1,1621342,cash
+920,2024-11-08,Digdaya Susanti,kacang,4,4379408,cash
+695,2024-07-26,Drs. Tami Sihotang,jawa,5,3954424,debit
+1017,2024-06-14,Lala Waskita,kacang,1,2030063,cash
+725,2024-10-20,Eli Sirait,etawa,1,"2,794,260",kredit
+956,2024-09-07,Kambali Hartati,etawa,3,3099928,kredit
+1106,2024-09-07,Siti Handayani,etawa,3,1185231,debit
+87,2024-06-24,Amalia Sirait,kacang,1,2623202,debit
+1117,2024-08-16,Julia Laksita,kacang,3,1814696,debit
+14,2024-09-21,"R.M. Marsito Sudiati, S.E.I",etawa,4,"4,526,508",kredit
+127,2024-07-06,Tgk. Makara Nasyiah,kacang,2,4902597,kredit
+515,2024-09-07,"Dr. Naradi Wastuti, M.Ak",kacang,1,"3,552,805",cash
+410,2024-09-16,Dr. Tari Hutasoit,etawa,2,"3,075,578",debit
+799,2024-11-07,"drg. Luhung Januar, S.E.",jawa,1,"1,129,237",debit
+314,2024-11-03,Tami Namaga,etawa,4,4957728,kredit
+390,2024-08-06,Candra Mulyani,etawa,1,4291228,kredit
+1234,2024-07-11,Cakrawangsa Wastuti,jawa,3,"2,310,391",debit
+679,2024-10-23,Ani Maulana,kacang,2,"3,382,791",cash
+798,2024-09-28,Sari Usamah,etawa,1,"3,467,703",debit
+824,2024-11-05,Jais Laksmiwati,kacang,3,4162004,kredit
+383,2024-09-03,"Dr. Tomi Prabowo, S.E.I",etawa,1,"2,264,083",cash
+1038,2024-07-02,"Uchita Kusmawati, S.IP",etawa,2,2917013,kredit
+111,2024-07-12,Kasiran Nainggolan,etawa,1,"1,188,947",kredit
+680,2024-08-08,Zamira Wahyudin,etawa,3,"2,172,106",debit
+789,2024-06-26,R.M. Pandu Nainggolan,jawa,1,"1,325,787",debit
+1184,2024-07-28,Alambana Prayoga,etawa,2,2783701,kredit
+264,2024-11-08,Estiawan Saragih,kacang,2,"3,289,476",kredit
+370,2024-07-15,Syahrini Nababan,etawa,4,"4,433,923",cash
+882,2024-07-04,"Cut Ani Winarsih, S.Psi",jawa,2,3693265,debit
+416,2024-10-01,"Adikara Narpati, S.Kom",etawa,3,1172563,debit
+870,2024-09-24,Hafshah Dongoran,etawa,4,"4,077,739",cash
+359,2024-07-18,Novi Habibi,jawa,2,2541571,debit
+1138,2024-09-07,Ir. Eja Maulana,jawa,3,3960753,cash
+9,2024-10-09,"Asmianto Rajasa, M.Kom.",etawa,5,2596248,kredit
+967,2024-10-21,R.M. Labuh Nashiruddin,kacang,2,"3,535,296",kredit
+317,2024-07-28,"Hilda Haryanto, S.IP",etawa,3,"4,886,946",debit
+305,2024-07-06,"KH. Sidiq Yuniar, M.M.",jawa,5,1780797,cash
+428,2024-10-04,Paramita Anggraini,jawa,3,2528506,debit
+106,2024-07-07,Aurora Nuraini,etawa,4,3364594,debit
+143,2024-07-15,Ana Agustina,etawa,3,3948059,kredit
+122,2024-10-18,Gilda Budiman,kacang,4,"1,410,835",cash
+764,2024-08-23,Kurnia Nugroho,jawa,4,2626726,kredit
+90,2024-09-06,Lalita Kuswoyo,etawa,5,1244919,cash
+728,2024-07-02,"Cut Ellis Hardiansyah, S.T.",kacang,2,"1,566,369",debit
+194,2024-06-11,Harjasa Pudjiastuti,jawa,1,1319194,cash
+103,2024-10-10,Indah Narpati,kacang,3,3853717,kredit
+1196,2024-06-10,"Raisa Prayoga, M.Kom.",etawa,5,"1,698,343",cash
+116,2024-09-16,Salsabila Damanik,etawa,4,2717004,debit
+881,2024-07-23,dr. Ganep Nugroho,jawa,1,2667551,debit
+225,2024-11-03,Yessi Prakasa,jawa,3,2341267,debit
+2,2024-12-06,Wasis Sirait,kacang,3,1137730,kredit
+847,2024-07-05,Bakianto Tamba,kacang,4,4797877,debit
+673,2024-10-04,Lutfan Wijaya,jawa,5,"2,745,871",debit
+1022,2024-08-10,Sutan Asirwada Prabowo,etawa,1,"4,367,669",kredit
+917,2024-08-10,Oliva Nashiruddin,jawa,4,"1,466,668",debit
+86,2024-11-13,"Tami Wahyudin, M.TI.",jawa,1,1389068,debit
+1019,2024-10-10,Viman Hakim,kacang,4,1450834,cash
+592,2024-10-28,"R.A. Ayu Gunarto, S.Gz",kacang,1,3684762,cash
+1059,2024-11-20,Elvin Handayani,kacang,5,2041172,cash
+994,2024-12-04,Ayu Wibisono,kacang,1,"1,459,054",cash
+876,2024-07-07,Drs. Legawa Halim,kacang,1,"3,161,807",cash
+1179,2024-08-11,Ir. Yoga Setiawan,jawa,3,2204672,cash
+841,2024-09-11,Putri Manullang,jawa,1,3043400,kredit
+553,2024-12-03,R.A. Yessi Napitupulu,kacang,2,"3,753,588",debit
+88,2024-07-24,Genta Wijaya,jawa,5,1963121,debit
+691,2024-07-14,"R. Jail Uwais, M.M.",kacang,2,2135699,debit
+214,2024-10-26,"Zulfa Waluyo, S.Farm",etawa,4,"3,112,778",cash
+392,2024-07-28,Wawan Mangunsong,jawa,2,2208691,kredit
+425,2024-09-09,"Mustofa Irawan, M.Kom.",kacang,2,"4,723,044",kredit
+1126,2024-10-09,Ismail Uwais,kacang,5,"2,290,107",kredit
+1080,2024-11-13,Mala Wibowo,kacang,2,2205679,debit
+1028,2024-07-19,Karsana Prabowo,kacang,3,"3,721,829",kredit
+544,2024-07-09,Diana Laksita,etawa,3,3284073,kredit
+166,2024-10-08,"R. Fitriani Purwanti, S.Psi",jawa,3,4703802,kredit
+607,2024-09-03,Ilsa Santoso,jawa,2,"4,449,777",cash
+495,2024-06-21,Mila Halimah,kacang,5,"1,342,407",debit
+1015,2024-07-14,Kamaria Mahendra,kacang,2,"4,955,299",debit
+338,2024-07-04,KH. Dartono Permata,etawa,2,2376892,kredit
+320,2024-11-14,Dt. Bakiono Uwais,jawa,4,"4,683,483",cash
+274,2024-11-09,"Rafi Hutagalung, M.Pd",jawa,2,4005538,debit
+72,2024-07-23,Zahra Kuswandari,etawa,3,4543390,debit
+1204,2024-07-28,Hasim Yuniar,etawa,4,4577300,debit
+717,2024-09-15,"Pranawa Pranowo, S.Gz",kacang,4,4261662,kredit
+64,2024-10-19,Lukman Siregar,etawa,1,3141332,cash
+954,2024-07-26,Hj. Padma Rahmawati,etawa,2,4682731,cash
+1002,2024-06-10,Sutan Karja Salahudin,jawa,3,1955620,kredit
+344,2024-07-03,"Prima Januar, S.Gz",jawa,1,"2,672,954",cash
+386,2024-08-11,"Yuni Wasita, M.Pd",jawa,4,3312546,cash
+117,2024-11-28,Dt. Gada Irawan,kacang,5,"1,414,835",cash
+501,2024-07-22,Natalia Gunarto,jawa,4,1437773,cash
+726,2024-09-19,Zulfa Lailasari,etawa,4,4815366,cash
+678,2024-09-07,Zalindra Firgantoro,jawa,3,4780679,debit
+959,2024-07-17,Rusman Haryanto,jawa,1,2306711,cash
+740,2024-09-30,Zelaya Zulkarnain,jawa,3,"2,735,859",cash
+236,2024-06-20,Lidya Safitri,kacang,3,1668000,cash
+273,2024-09-16,Saka Iswahyudi,jawa,3,2898160,cash
+860,2024-10-17,Rendy Aryani,kacang,2,2587189,debit
+206,2024-08-16,Ian Novitasari,jawa,2,1385907,cash
+734,2024-08-26,"Hj. Kasiyah Pradipta, S.Gz",jawa,4,"4,435,067",debit
+153,2024-10-21,Laila Halim,kacang,4,"3,362,482",debit
+911,2024-06-30,"R. Natalia Uyainah, S.I.Kom",etawa,3,"1,285,929",cash
+558,2024-06-18,"Sutan Langgeng Marbun, S.Ked",etawa,3,4426784,kredit
+378,2024-10-30,"R.A. Ajeng Riyanti, S.E.",kacang,4,3473026,cash
+536,2024-11-07,"Caraka Nasyiah, M.M.",kacang,1,1462155,debit
+907,2024-09-26,Dimas Nuraini,jawa,1,"1,648,594",cash
+933,2024-10-21,"Kadir Hassanah, M.Ak",jawa,1,4050767,debit
+785,2024-10-19,Kunthara Hariyah,etawa,1,"1,701,127",cash
+199,2024-11-03,Ophelia Sihombing,jawa,5,1073345,debit
+562,2024-08-31,Salimah Iswahyudi,etawa,1,"1,806,987",cash
+686,2024-11-01,Anita Kusumo,jawa,2,3689950,cash
+1181,2024-11-10,"Tgk. Laila Laksita, M.M.",etawa,5,3573479,kredit
+591,2024-11-30,Vanesa Prayoga,etawa,5,"1,689,575",cash
+520,2024-08-06,Eli Haryanto,etawa,5,"2,609,316",cash
+309,2024-09-14,"Zamira Mandala, S.Pt",jawa,5,1400779,cash
+605,2024-09-26,drg. Cengkal Riyanti,kacang,5,2649515,debit
+657,2024-07-28,Fitriani Mayasari,etawa,3,"1,402,671",kredit
+1226,2024-10-18,"Dt. Cawuk Pudjiastuti, M.Kom.",kacang,4,"1,422,543",debit
+60,2024-08-29,Yosef Nurdiyanti,etawa,4,3351274,cash
+1223,2024-11-13,dr. Clara Pradana,etawa,4,"3,740,820",cash
+806,2024-09-21,dr. Edi Nasyidah,kacang,1,1639586,debit
+208,2024-11-01,"Dr. Hani Situmorang, S.I.Kom",kacang,3,"4,718,442",debit
+492,2024-12-05,Paulin Rajata,kacang,4,"1,351,693",kredit
+1029,2024-08-20,Edward Kusumo,kacang,1,"4,812,074",kredit
+842,2024-09-24,"Eva Pratama, S.H.",etawa,3,"1,254,399",cash
+163,2024-10-16,Nrima Prastuti,jawa,3,3519436,cash
+162,2024-09-09,Dr. Alika Kusumo,etawa,4,"4,880,269",debit
+527,2024-11-20,Yessi Habibi,jawa,2,"3,598,446",debit
+818,2024-06-30,"drg. Puti Saefullah, S.I.Kom",etawa,2,2398667,debit
+257,2024-07-27,"Dr. Septi Saptono, S.Farm",kacang,5,"1,767,433",kredit
+507,2024-07-25,Darmanto Aryani,jawa,5,2335834,kredit
+387,2024-10-12,Wirda Zulaika,kacang,5,"1,124,036",cash
+453,2024-12-05,Prasetya Mulyani,kacang,2,"4,941,186",kredit
+659,2024-10-30,Ganjaran Suartini,jawa,2,4747414,kredit
+1004,2024-08-12,Kezia Ramadan,jawa,1,"1,126,582",cash
+803,2024-10-31,Ilsa Saptono,jawa,5,2891896,cash
+303,2024-07-30,Gadang Permadi,jawa,2,"1,719,577",cash
+21,2024-11-14,Iriana Wulandari,jawa,4,2817401,kredit
+604,2024-10-23,Warta Kuswandari,jawa,5,2462112,debit
+440,2024-10-13,Tami Andriani,etawa,2,2127945,cash
+1055,2024-09-28,Bajragin Anggraini,kacang,3,"1,993,033",cash
+382,2024-07-11,"Nyoman Pratiwi, M.TI.",kacang,5,"1,619,923",debit
+1222,2024-06-17,Jasmin Damanik,etawa,2,"2,413,281",debit
+539,2024-09-30,Eka Nasyiah,jawa,4,"1,644,926",kredit
+1162,2024-07-17,"Bella Sudiati, S.E.",jawa,1,"2,674,866",debit
+839,2024-10-08,"Panca Purwanti, S.Pd",jawa,1,"4,802,329",cash
+84,2024-10-11,Reza Winarsih,jawa,3,"1,073,542",debit
+832,2024-12-03,Tgk. Alambana Hariyah,kacang,4,4963240,kredit
+1164,2024-10-22,Silvia Widodo,kacang,1,"2,532,377",debit
+800,2024-08-28,Ayu Rajasa,etawa,1,2044035,kredit
+1190,2024-10-05,Laila Narpati,kacang,2,"3,260,476",cash
+157,2024-07-23,Ira Hutasoit,kacang,5,1022302,debit
+797,2024-10-02,Koko Putra,jawa,2,"2,432,461",cash
+271,2024-09-01,R.M. Ian Usamah,kacang,2,2113038,kredit
+1075,2024-11-15,Kartika Widiastuti,etawa,4,"1,161,167",kredit
+1108,2024-09-24,Tgk. Jefri Najmudin,jawa,5,4855368,debit
+397,2024-08-02,Dr. Hafshah Mardhiyah,jawa,1,2025141,debit
+996,2024-10-04,Drs. Imam Nuraini,etawa,1,"4,878,129",cash
+516,2024-11-18,Panji Tarihoran,etawa,3,2599164,debit
+869,2024-11-07,Pia Dabukke,kacang,4,1663844,debit
+962,2024-10-26,Ratih Nasyiah,etawa,3,2020124,kredit
+430,2024-07-02,Lukita Lazuardi,kacang,5,2699663,cash
+1141,2024-08-05,"Edison Nasyidah, S.H.",jawa,3,"1,195,105",kredit
+538,2024-06-21,Mahesa Maryati,kacang,1,"3,909,316",kredit
+570,2024-12-06,Titi Haryanto,etawa,4,"4,651,393",kredit
+459,2024-10-31,"Daruna Haryanto, S.E.I",jawa,5,"2,736,226",cash
+79,2024-08-30,Rangga Damanik,jawa,4,"4,626,622",kredit
+1176,2024-11-17,Estiono Palastri,kacang,3,3103822,debit
+33,2024-12-01,Danang Rahimah,jawa,4,"3,730,078",kredit
+1060,2024-11-13,Maryanto Widodo,jawa,4,3875090,cash
+900,2024-11-25,"Lili Simbolon, S.Farm",etawa,2,3859112,debit
+460,2024-12-02,Kamaria Wahyuni,etawa,5,"1,646,766",cash
+381,2024-08-14,Respati Haryanti,kacang,5,"2,917,225",cash
+227,2024-09-13,Salwa Rahimah,kacang,3,"1,036,589",kredit
+763,2024-08-14,Emin Permata,kacang,3,"4,183,152",debit
+1156,2024-11-25,Kambali Nugroho,jawa,3,"2,605,763",debit
+716,2024-11-17,Gangsar Simanjuntak,kacang,4,"1,045,379",cash
+285,2024-07-12,"Puti Tari Thamrin, S.Psi",jawa,4,3022380,cash
+687,2024-11-17,"Jelita Thamrin, S.Pd",etawa,1,4965259,debit
+704,2024-10-05,Drs. Nrima Sinaga,kacang,3,3837296,kredit
+270,2024-09-21,Citra Samosir,etawa,5,3011847,kredit
+306,2024-07-06,"Dr. Jessica Hutapea, S.Psi",etawa,2,"3,722,037",kredit
+210,2024-07-03,"Hartana Kuswoyo, S.Sos",kacang,5,1086674,debit
+979,2024-08-13,Wakiman Haryanti,kacang,3,"4,336,361",cash
+474,2024-09-13,Lukman Habibi,etawa,3,"3,088,362",cash
+22,2024-07-17,Balijan Mansur,jawa,3,"4,766,067",kredit
+1039,2024-08-11,"dr. Kani Suartini, M.M.",etawa,5,3097376,kredit
+1103,2024-10-21,Tgk. Viktor Saragih,etawa,4,4631032,cash
+880,2024-10-13,Drs. Tari Handayani,etawa,3,4713595,kredit
+872,2024-07-17,Hendri Firmansyah,kacang,4,3874046,debit
+192,2024-08-29,Wardaya Siregar,jawa,4,"1,914,545",kredit
+1175,2024-09-05,Zizi Anggraini,jawa,1,1451141,kredit
+1043,2024-08-01,"Hadi Rahayu, S.Gz",kacang,5,"3,108,098",debit
+242,2024-06-16,"Betania Saptono, S.H.",jawa,2,4008377,cash
+484,2024-09-01,Kajen Rahimah,etawa,5,4011834,kredit
+196,2024-08-02,drg. Taufan Farida,jawa,2,"4,664,514",cash
+278,2024-09-27,Caraka Saputra,jawa,2,"1,375,352",cash
+943,2024-11-29,Gamani Melani,kacang,4,"1,950,769",debit
+222,2024-11-20,Icha Irawan,jawa,4,3112695,cash
+1099,2024-06-20,Purwadi Utama,kacang,4,3978882,cash
+572,2024-08-01,Kemal Nashiruddin,jawa,1,"2,846,410",debit
+412,2024-11-24,dr. Emin Salahudin,jawa,4,2946103,cash
+831,2024-07-13,"Hj. Gawati Ardianto, S.T.",jawa,5,"2,866,708",debit
+878,2024-06-26,KH. Najib Budiyanto,jawa,2,2398180,kredit
+873,2024-10-02,Drs. Salsabila Padmasari,jawa,3,2532669,kredit
+586,2024-08-24,Samiah Purwanti,jawa,5,2851602,kredit
+1188,2024-12-03,Jasmin Wahyuni,jawa,1,"1,789,095",debit
+1064,2024-07-12,Vicky Yuniar,jawa,3,"3,194,412",kredit
+467,2024-06-19,Maryanto Uwais,jawa,4,3803803,kredit
+326,2024-07-16,Ilyas Budiyanto,jawa,5,"1,147,175",cash
+675,2024-10-09,Samsul Handayani,etawa,2,1070565,debit
+1142,2024-06-10,"Kiandra Kusumo, M.TI.",jawa,1,1689488,debit
+856,2024-08-04,"Tgk. Yuliana Rahmawati, S.Ked",kacang,1,4039664,kredit
+448,2024-07-01,R. Fitriani Maulana,etawa,4,1074925,cash
+948,2024-10-05,"Olivia Sinaga, S.T.",etawa,2,"1,374,910",debit
+927,2024-11-08,"Laras Marpaung, M.Farm",kacang,1,3649220,kredit
+223,2024-11-03,Rachel Lailasari,etawa,3,1317216,kredit
+360,2024-11-26,T. Narji Prasasta,etawa,2,2236309,kredit
+17,2024-11-06,Oman Samosir,kacang,5,"4,368,329",debit
+233,2024-08-30,KH. Vega Marbun,jawa,2,4217249,cash
+113,2024-11-07,"Aswani Handayani, S.T.",etawa,4,3540764,cash
+903,2024-12-06,"Ade Thamrin, S.Farm",jawa,4,2310515,cash
+46,2024-09-06,Rangga Rahmawati,jawa,4,4684535,kredit
+525,2024-11-20,"R. Perkasa Putra, S.Gz",jawa,3,"2,154,344",debit
+1089,2024-11-11,R.M. Prakosa Yolanda,etawa,3,"2,326,659",kredit
+295,2024-07-12,Bakti Halim,kacang,3,"1,074,411",cash
+1124,2024-09-09,"R.A. Nilam Pratama, S.Ked",etawa,1,1910790,debit
+589,2024-11-01,"Sadina Ramadan, M.M.",jawa,2,"2,614,392",debit
+718,2024-09-22,drg. Zahra Irawan,jawa,4,2930773,cash
+258,2024-10-18,Maman Lazuardi,etawa,4,"1,698,596",cash
+1215,2024-09-30,"dr. Vega Lailasari, S.E.",jawa,1,"4,562,533",kredit
+1228,2024-06-19,Saiful Mandasari,etawa,1,2702612,kredit
+551,2024-10-28,Titin Wahyudin,jawa,5,"2,692,227",debit
+670,2024-09-19,"T. Limar Utama, S.IP",etawa,5,"3,349,849",debit
+437,2024-06-10,Baktiono Widodo,jawa,2,"4,379,391",cash
+974,2024-10-17,Hana Nurdiyanti,etawa,3,"4,411,848",debit
+672,2024-11-12,Ulva Utami,kacang,4,4900880,debit
+394,2024-11-26,Rini Pangestu,etawa,3,3869357,kredit
+426,2024-08-06,dr. Limar Pranowo,kacang,1,"1,476,855",cash
+535,2024-11-08,Kunthara Gunawan,jawa,4,"3,095,468",debit
+31,2024-11-26,"Novi Santoso, M.Ak",etawa,3,4910394,debit
+761,2024-09-02,Paulin Hardiansyah,jawa,3,"4,955,744",kredit
+826,2024-06-10,H. Himawan Pudjiastuti,kacang,3,4353969,cash
+909,2024-07-12,"Puspa Megantara, M.TI.",kacang,3,3293074,debit
+747,2024-11-10,Hari Maheswara,jawa,1,2718065,debit
+133,2024-12-05,Zelda Utami,kacang,2,2401511,debit
+1236,2024-10-22,"Puti Mila Putra, S.T.",jawa,1,4632419,debit
+1229,2024-09-27,Keisha Suartini,jawa,3,1525433,debit
+422,2024-10-07,Hj. Malika Laksmiwati,jawa,4,"1,933,686",kredit
+667,2024-06-21,"Hj. Laras Prasetyo, S.Sos",kacang,5,"1,617,295",debit
+191,2024-09-30,Olivia Hutapea,kacang,5,1690016,debit
+356,2024-10-24,Dewi Zulaika,kacang,3,3570713,cash
+960,2024-07-16,"Ir. Nadine Melani, M.Farm",jawa,4,4888383,debit
+1161,2024-08-23,Ika Marpaung,etawa,5,1260933,debit
+345,2024-10-01,Hasan Mayasari,etawa,3,"2,184,375",cash
+557,2024-08-24,"Dr. Jayeng Prasetya, S.E.",etawa,2,2736121,cash
+363,2024-07-29,Puti Mayasari,etawa,5,"4,855,328",debit
+980,2024-08-11,Daliman Yuliarti,jawa,4,3582799,kredit
+681,2024-12-04,Queen Mansur,etawa,2,4904245,debit
+816,2024-07-30,Zaenab Hardiansyah,jawa,3,"2,120,748",kredit
+1230,2024-11-18,Zahra Simbolon,jawa,5,"2,922,832",cash
+1024,2024-09-06,Jabal Permata,kacang,1,"2,642,768",debit
+353,2024-06-26,"Kajen Purnawati, S.T.",jawa,2,2160939,cash
+92,2024-06-18,R.A. Farah Novitasari,etawa,4,"3,151,824",cash
+1174,2024-12-06,Halima Fujiati,kacang,2,3460464,cash
+336,2024-10-15,Halima Januar,jawa,1,4806308,cash
+1231,2024-10-11,Puti Pratiwi,etawa,2,3223984,cash
+984,2024-06-18,Martaka Kusmawati,jawa,4,"2,774,595",cash
+262,2024-10-07,Mitra Permata,jawa,4,1481959,kredit
+289,2024-11-04,"Uda Hardiansyah, S.Sos",jawa,4,2801265,cash
+749,2024-10-05,"Cut Almira Marbun, M.Kom.",jawa,4,"1,650,341",cash
+859,2024-08-26,Hani Winarno,jawa,5,"2,015,325",cash
+928,2024-06-15,R.A. Halima Kusmawati,etawa,4,"3,492,547",kredit
+1125,2024-07-10,Cornelia Usada,kacang,4,"2,153,826",debit
+1009,2024-08-20,Endah Saragih,jawa,5,"1,884,951",kredit
+568,2024-10-27,Ade Prayoga,jawa,1,"4,661,968",debit
+968,2024-12-04,Nardi Mardhiyah,kacang,1,4609482,debit
+698,2024-08-04,Caket Hutapea,kacang,4,"3,639,297",debit
+115,2024-07-16,"R. Jamal Uyainah, S.Psi",jawa,3,"1,161,338",kredit
+349,2024-11-07,Juli Melani,etawa,2,"2,116,998",cash
+1057,2024-07-12,Tina Prasetyo,kacang,5,"1,079,735",kredit
+224,2024-09-07,Edi Budiyanto,etawa,4,2666811,cash
+301,2024-07-17,T. Kariman Hariyah,kacang,1,4832113,kredit
+1120,2024-07-16,Puput Melani,etawa,2,"1,687,936",cash
+114,2024-08-10,Betania Setiawan,kacang,5,3194447,debit
+1211,2024-06-10,Ir. Raihan Waskita,jawa,3,"2,895,145",debit
+796,2024-07-22,Jelita Mahendra,kacang,4,4715721,cash
+1095,2024-07-22,"Dt. Dagel Tarihoran, S.Ked",etawa,4,2420561,kredit
+316,2024-07-14,"H. Asman Widodo, S.T.",etawa,2,"3,349,243",cash
+37,2024-08-12,Ikhsan Wahyudin,kacang,1,"2,467,511",cash
+454,2024-09-03,Karen Najmudin,kacang,3,1902687,debit
+914,2024-06-13,drg. Gilda Situmorang,kacang,4,"1,828,089",kredit
+602,2024-11-22,"Dt. Karsa Suartini, S.I.Kom",jawa,3,1114045,debit
+176,2024-11-08,Syahrini Samosir,kacang,1,"2,248,592",cash
+901,2024-09-18,Irma Mahendra,kacang,3,"2,704,266",debit
+1130,2024-07-19,"Raditya Prayoga, S.Sos",kacang,3,"4,187,493",kredit
+328,2024-09-10,Candra Firgantoro,jawa,1,"4,582,193",cash
+38,2024-10-18,"Cut Michelle Laksita, S.E.",etawa,3,1600701,cash
+124,2024-06-14,Hamima Tamba,jawa,2,2379301,cash
+1012,2024-06-23,Tasnim Riyanti,etawa,1,1806217,debit
+395,2024-08-18,Cinthia Halimah,jawa,3,"3,800,399",debit
+1218,2024-12-05,Mahfud Melani,kacang,1,"3,733,045",cash
+537,2024-07-16,Olga Lailasari,kacang,4,"1,715,756",kredit
+40,2024-10-22,"Rachel Hutagalung, S.T.",jawa,1,1030169,debit
+463,2024-09-17,Ozy Mandala,etawa,5,2039959,debit
+997,2024-10-07,Mujur Hariyah,jawa,5,3273117,cash
+170,2024-11-11,Cawisadi Prayoga,etawa,4,"3,425,321",debit
+332,2024-10-03,Vino Permata,kacang,2,"2,622,675",debit
+738,2024-11-29,"Bagiya Namaga, S.I.Kom",kacang,5,"4,292,245",debit
+1049,2024-10-21,"Kenari Halim, S.Sos",jawa,1,"3,110,884",debit
+195,2024-10-17,"drg. Violet Suwarno, S.E.I",jawa,1,4940513,cash
+649,2024-11-05,Ajeng Hastuti,etawa,3,4172188,kredit
+541,2024-07-02,Caraka Firmansyah,kacang,2,"1,347,623",cash
+635,2024-09-30,Jaga Handayani,etawa,1,"3,003,376",kredit
+323,2024-06-15,Nurul Situmorang,etawa,5,2439073,debit
+952,2024-09-30,Samiah Uwais,etawa,2,"1,876,643",debit
+617,2024-11-23,Suci Suwarno,kacang,4,3011337,kredit
+267,2024-09-30,"Ir. Shakila Sihombing, M.Farm",kacang,4,"1,697,998",kredit
+1173,2024-07-04,"Ir. Mulyanto Zulaika, S.Pt",etawa,4,"2,493,776",kredit
+357,2024-07-22,"Sutan Garda Winarno, S.E.I",jawa,2,"3,258,523",cash
+1240,2024-08-05,"Paramita Ramadan, S.Pd",etawa,5,3401221,cash
+580,2024-10-29,Dr. Carla Dongoran,etawa,1,2108365,debit
+329,2024-07-25,dr. Silvia Nainggolan,jawa,5,"3,853,874",debit
+89,2024-08-13,Taufik Haryanti,jawa,2,1550274,debit
+893,2024-07-13,"R. Tasdik Prakasa, S.Pt",etawa,4,"2,300,742",debit
+120,2024-09-18,"R.M. Eko Ardianto, M.TI.",etawa,4,1063001,cash
+781,2024-07-30,Ismail Sirait,kacang,3,"2,419,179",cash
+1066,2024-08-14,Faizah Purwanti,jawa,3,1261987,debit
+160,2024-08-23,Rahman Mardhiyah,jawa,3,"4,567,442",kredit
+1045,2024-09-21,Mulya Novitasari,jawa,5,"2,753,840",kredit
+1116,2024-09-17,Gangsa Sinaga,etawa,5,2152210,debit
+145,2024-11-16,Drs. Zalindra Mulyani,jawa,4,3272681,kredit
+62,2024-07-29,Kamila Agustina,etawa,4,"3,170,481",cash
+850,2024-06-17,Hani Mulyani,jawa,5,"3,447,426",debit
+690,2024-07-25,"dr. Unjani Nababan, S.Sos",jawa,4,4199060,cash
+419,2024-11-14,"Tgk. Margana Napitupulu, S.T.",kacang,2,"4,110,326",kredit
+490,2024-07-12,Jayeng Mulyani,jawa,3,"3,200,270",kredit
+891,2024-09-28,"Julia Mansur, S.Farm",kacang,1,4214604,kredit
+573,2024-11-07,Imam Kurniawan,jawa,1,"4,268,197",kredit
+1008,2024-09-10,"Drs. Zelda Tarihoran, S.Kom",jawa,5,"4,432,405",debit
+890,2024-11-02,Ir. Nabila Farida,jawa,2,4147228,debit
+20,2024-09-05,Harja Firgantoro,jawa,5,"2,449,085",kredit
+99,2024-10-23,Winda Agustina,kacang,1,"4,392,926",cash
+1201,2024-07-11,Dr. Prasetyo Kuswoyo,kacang,4,"4,625,229",debit
+689,2024-10-28,Saiful Siregar,etawa,4,"3,780,991",cash
+1093,2024-07-15,Hj. Salwa Situmorang,kacang,2,"4,521,150",debit
+1107,2024-07-25,"Ir. Tania Utama, M.M.",kacang,3,4427507,cash
+54,2024-09-09,Faizah Nainggolan,etawa,5,"4,022,206",cash
+773,2024-08-27,Cemeti Yuliarti,etawa,2,1584516,kredit
+517,2024-10-02,Darmanto Firgantoro,jawa,1,"1,403,788",kredit
+774,2024-09-08,"Olivia Mangunsong, M.M.",etawa,3,"4,792,857",kredit
+888,2024-08-15,Sadina Wibisono,kacang,4,3481330,cash
+259,2024-11-04,"Citra Hutapea, S.Pt",etawa,2,"2,316,944",debit
+506,2024-09-12,Cindy Thamrin,etawa,2,2455939,kredit
+753,2024-06-21,"Ir. Humaira Kusmawati, S.IP",etawa,4,"2,869,181",debit
+937,2024-12-05,Limar Wacana,etawa,3,1091305,kredit
+218,2024-08-18,"Dt. Eka Mahendra, S.Kom",kacang,3,"3,440,685",kredit
+825,2024-08-18,Ir. Lala Widodo,etawa,5,2190294,debit
+1027,2024-11-02,Ayu Melani,etawa,2,"2,345,284",debit
+107,2024-10-22,Olivia Sirait,jawa,1,1887038,cash
+1118,2024-10-20,Hana Mayasari,etawa,2,3582853,debit
+366,2024-06-22,"Dr. Zulfa Uyainah, S.Pt",kacang,3,3524114,debit
+1069,2024-10-10,Maimunah Puspasari,etawa,4,"1,732,029",cash
+243,2024-10-31,drg. Zulfa Pradipta,kacang,5,3733602,kredit
+885,2024-07-04,"Nadia Pradipta, M.Pd",kacang,4,4060306,debit
+310,2024-07-07,"Widya Nainggolan, S.I.Kom",etawa,4,"2,948,799",cash
+575,2024-08-05,Bakiono Hutasoit,etawa,2,"2,996,638",cash
+861,2024-09-26,Naradi Hutasoit,jawa,1,3253076,debit
+660,2024-11-15,Lanjar Tarihoran,kacang,5,"4,791,926",kredit
+584,2024-08-23,"Winda Winarsih, M.Kom.",etawa,3,"4,457,045",cash
+571,2024-10-10,Kayla Prayoga,kacang,2,1481635,cash
+772,2024-07-09,Lurhur Hartati,jawa,1,2348176,kredit
+564,2024-10-31,Kajen Pertiwi,kacang,5,"4,018,901",cash
+226,2024-11-04,"Kardi Sudiati, S.E.I",etawa,4,"2,265,074",cash
+1157,2024-07-14,"Ella Halimah, S.Pt",jawa,5,1277105,cash
+1153,2024-08-05,R. Lintang Widiastuti,jawa,4,4224981,debit
+1110,2024-10-28,Suci Padmasari,kacang,2,3374162,cash
+1193,2024-09-21,Puput Firgantoro,etawa,3,"2,452,249",cash
+1134,2024-06-10,Balidin Lailasari,jawa,1,3943955,cash
+1154,2024-10-04,"Dt. Mumpuni Uwais, M.Ak",kacang,4,3317981,kredit
+964,2024-08-25,Jamil Prasasta,kacang,1,"3,759,752",debit
+1121,2024-08-20,"Vanya Nashiruddin, S.H.",jawa,3,4425901,debit
+399,2024-06-17,"Ani Widodo, S.T.",etawa,4,3267434,cash
+585,2024-11-02,"KH. Cakrawala Nababan, S.Kom",kacang,3,1110763,kredit
+949,2024-08-16,Calista Yolanda,jawa,4,"3,001,390",debit
+705,2024-08-13,"Mitra Suartini, M.TI.",jawa,3,"1,524,285",cash
+432,2024-10-24,Martana Suartini,etawa,5,"3,124,602",cash
+293,2024-11-01,Ir. Vanya Permata,jawa,5,"3,776,929",debit
+146,2024-08-19,"drg. Eli Winarno, S.Kom",etawa,4,"2,048,378",cash
+324,2024-09-16,Nadia Nasyiah,jawa,5,"2,844,538",cash
+376,2024-10-29,"Keisha Saputra, M.Ak",jawa,4,2329263,cash
+3,2024-09-10,"Cakrabirawa Thamrin, S.H.",kacang,4,"2,073,643",cash
+577,2024-09-26,Purwanto Novitasari,kacang,3,"1,862,414",kredit
+389,2024-08-06,Ir. Harsana Nurdiyanti,etawa,3,"3,537,352",kredit
+340,2024-08-06,Hari Namaga,etawa,3,4783610,cash
+1072,2024-10-05,Tgk. Julia Setiawan,kacang,2,2812588,cash
+926,2024-07-15,Malika Mandasari,etawa,3,4677637,cash
+266,2024-08-23,Cengkal Siregar,etawa,3,3314552,kredit
+377,2024-10-02,"Dr. Silvia Latupono, S.E.I",jawa,2,"1,889,064",kredit
+272,2024-09-29,"Ade Wastuti, S.Gz",etawa,5,"4,906,182",debit
+697,2024-06-19,Cecep Lailasari,kacang,1,"1,034,129",cash
+748,2024-11-18,Uchita Wijaya,etawa,1,"1,712,129",cash
+245,2024-09-29,Ida Handayani,jawa,4,"1,678,589",kredit
+318,2024-06-26,"KH. Harjaya Iswahyudi, S.Pd",etawa,2,4032438,debit
+477,2024-06-13,Clara Riyanti,jawa,4,"2,051,023",kredit
+1220,2024-10-19,"Ir. Gandi Oktaviani, S.H.",etawa,4,"3,441,045",cash
+1159,2024-07-04,"R.M. Adikara Latupono, S.H.",etawa,2,"3,764,437",kredit
+1246,2024-09-14,"Drs. Cagak Nasyidah, S.E.I",etawa,2,"1,639,802",kredit
+759,2024-07-26,Umar Aryani,jawa,4,"3,930,232",kredit
+251,2024-10-27,"Tgk. Anastasia Halimah, S.Pt",etawa,3,3067949,debit
+414,2024-10-31,Jumari Prayoga,kacang,2,2155263,debit
+546,2024-09-30,"R. Garan Setiawan, M.Pd",etawa,1,"3,611,803",cash
+739,2024-06-13,Endah Prakasa,kacang,1,3638047,cash
+311,2024-09-28,Bala Zulkarnain,kacang,4,"2,215,685",debit
+894,2024-09-28,Harsaya Kuswandari,jawa,4,"1,767,100",debit
+493,2024-11-27,Ade Melani,jawa,4,1215289,debit
+16,2024-10-18,Karna Sitompul,kacang,2,1685400,kredit
+722,2024-08-03,Ir. Dono Manullang,kacang,5,"4,413,301",kredit
+921,2024-08-03,Prayitna Najmudin,jawa,2,"3,675,036",cash
+982,2024-08-21,"Catur Maulana, S.E.I",etawa,2,"1,385,867",cash
+497,2024-08-13,Farah Mandala,jawa,4,"3,339,591",kredit
+39,2024-07-30,Eka Mandala,jawa,1,"1,575,368",debit
+364,2024-11-09,Padma Siregar,etawa,1,4568782,debit
+983,2024-06-26,Irma Gunarto,kacang,1,1522626,debit
+183,2024-08-10,"Qori Mulyani, S.H.",jawa,5,"1,668,184",debit
+986,2024-11-08,Lukita Gunarto,jawa,1,2678541,cash
+936,2024-09-11,Novi Mandala,kacang,4,"4,864,502",kredit
+1191,2024-09-03,"KH. Latif Nainggolan, S.Farm",kacang,3,"3,075,210",kredit
+1129,2024-07-08,Siska Winarno,etawa,2,"4,716,213",cash
+188,2024-10-18,Nadine Pudjiastuti,kacang,1,"1,570,124",debit
+620,2024-06-28,Sidiq Pudjiastuti,kacang,5,3296322,kredit
+1088,2024-10-17,Diana Maheswara,jawa,4,"1,814,130",cash
+615,2024-06-28,"Dr. Sabri Widiastuti, S.Pd",kacang,3,"1,820,688",cash
+402,2024-09-25,"R.A. Alika Thamrin, M.Ak",kacang,1,"1,758,282",cash
+995,2024-08-26,Lintang Zulkarnain,kacang,1,1101543,cash
+935,2024-09-30,KH. Soleh Waluyo,jawa,3,3497997,debit
+372,2024-06-29,Kamaria Nuraini,jawa,5,1523210,debit
+990,2024-09-12,"Tgk. Zelda Yulianti, S.E.I",jawa,5,"1,715,979",kredit
+594,2024-11-26,Gasti Anggriawan,kacang,5,2220402,debit
+727,2024-06-12,drg. Halima Palastri,kacang,1,1379979,kredit
+827,2024-10-20,Hari Handayani,kacang,3,"2,246,549",kredit
+688,2024-11-13,R.M. Luhung Winarsih,jawa,1,1363394,cash
+883,2024-11-01,Rachel Mulyani,etawa,3,1747967,debit
+137,2024-09-13,"Zahra Mayasari, S.Psi",jawa,5,"2,371,741",cash
+629,2024-10-14,Hafshah Saputra,jawa,1,"3,879,752",debit
+335,2024-08-15,Galuh Adriansyah,etawa,1,3717619,cash
+391,2024-09-03,Melinda Sirait,kacang,4,"2,451,148",cash
+250,2024-07-27,Keisha Ardianto,etawa,1,"4,957,194",cash
+1167,2024-06-26,"Citra Gunawan, S.E.I",kacang,4,1053957,cash
+401,2024-08-08,Sarah Mandala,jawa,5,4929733,cash
+711,2024-08-11,"R.M. Eka Suwarno, S.Farm",kacang,2,2572519,kredit
+1040,2024-10-30,Embuh Hutagalung,jawa,4,"4,347,780",cash
+778,2024-08-27,R.M. Salman Haryanti,etawa,2,3426803,kredit
+47,2024-08-08,Rendy Haryanti,jawa,5,"1,225,395",debit
+489,2024-10-11,"Ir. Agus Oktaviani, S.E.",kacang,2,"2,900,229",debit
+466,2024-07-02,Galih Latupono,etawa,3,"1,325,187",cash
+710,2024-07-05,"R.A. Kiandra Winarno, M.Kom.",jawa,5,1397526,debit
+976,2024-11-24,Warsa Gunarto,jawa,5,4750203,kredit
+374,2024-06-17,"Rika Winarsih, M.Kom.",etawa,3,1816381,debit
+1105,2024-07-26,Yunita Hidayat,etawa,5,"3,354,239",debit
+661,2024-06-10,Febi Pratiwi,etawa,3,2375990,cash
+339,2024-08-02,"Daniswara Prastuti, S.Psi",jawa,5,"2,033,582",kredit
+216,2024-09-14,H. Jarwa Wijayanti,kacang,5,2191151,kredit
+12,2024-10-04,"Puti Fathonah Zulaika, S.H.",etawa,3,2756086,debit
+1235,2024-12-04,Dr. Yunita Ardianto,jawa,4,4562699,debit
+1135,2024-07-25,Michelle Sirait,jawa,4,4347632,debit
+957,2024-10-29,"Ir. Melinda Manullang, S.Farm",jawa,4,"1,754,130",debit
+817,2024-11-03,"Cut Laila Mustofa, M.Pd",kacang,4,4706760,cash
+1068,2024-06-14,Mitra Firmansyah,etawa,3,1453600,kredit
+275,2024-09-10,Elvin Firgantoro,etawa,2,3214789,debit
+524,2024-10-07,Olivia Budiyanto,jawa,5,1669020,debit
+866,2024-06-16,Faizah Thamrin,kacang,2,2951174,debit
+102,2024-07-12,Banara Sihombing,jawa,2,1482087,debit
+172,2024-08-10,"Bajragin Natsir, S.Kom",etawa,2,2460797,kredit
+108,2024-08-20,Ajiono Mandasari,jawa,4,"4,709,852",debit
+131,2024-07-21,Oman Hutagalung,etawa,5,"4,399,586",kredit
+1063,2024-11-11,Patricia Iswahyudi,etawa,4,"1,661,761",debit
+25,2024-11-17,drg. Zaenab Puspita,etawa,3,"2,686,973",cash
+1186,2024-09-01,"Lukman Sinaga, M.M.",kacang,4,"4,985,639",debit
+939,2024-08-27,Anastasia Usada,etawa,4,"4,433,790",kredit
+61,2024-11-20,Elma Maulana,kacang,2,"1,854,600",cash
+1209,2024-06-28,Rizki Palastri,jawa,5,"4,582,192",cash
+296,2024-12-02,"Ibrani Sihotang, S.Ked",etawa,3,"1,459,856",debit
+713,2024-08-07,R.A. Zelda Thamrin,jawa,3,"4,441,564",kredit
+73,2024-11-18,"Tgk. Rini Wasita, S.E.",etawa,1,"2,926,131",debit
+154,2024-07-07,Dinda Sihombing,kacang,2,"1,459,749",kredit
+201,2024-10-17,drg. Dian Utami,jawa,1,2441962,debit
+482,2024-10-15,Puput Kurniawan,jawa,1,4564377,kredit
+365,2024-11-08,Ganep Wacana,jawa,3,3286278,cash
+958,2024-08-12,Viman Permata,etawa,4,4338276,cash
+751,2024-10-10,Karimah Sihotang,jawa,2,"3,738,320",kredit
+69,2024-06-13,Paiman Tarihoran,jawa,5,1628046,cash
+406,2024-09-26,Ida Sihotang,etawa,1,4682109,kredit
+758,2024-09-29,Hari Sirait,jawa,5,1546327,cash
+664,2024-10-05,Tgk. Lidya Novitasari,etawa,3,"4,230,169",cash
+623,2024-11-29,Karman Kuswandari,etawa,1,"1,015,891",debit
+55,2024-09-28,"Drs. Galih Napitupulu, S.Farm",jawa,1,1645382,cash
+98,2024-08-29,Lembah Kuswandari,etawa,5,"2,722,698",kredit
+744,2024-09-12,Yessi Nurdiyanti,kacang,4,"2,189,684",kredit
+807,2024-10-19,Asmadi Suryatmi,kacang,5,"3,439,768",debit
+187,2024-10-17,"Cornelia Wibowo, S.E.",kacang,3,3337234,cash
+1137,2024-11-05,"Karja Pudjiastuti, M.Ak",kacang,4,"4,634,355",kredit
+676,2024-09-09,"dr. Puspa Rahayu, S.Psi",etawa,1,1976231,kredit
+11,2024-09-05,Darsirah Sudiati,jawa,3,"4,299,359",kredit
+149,2024-08-14,Padmi Haryanto,etawa,2,"4,510,250",kredit
+1194,2024-07-28,Lalita Rahmawati,jawa,3,1836263,cash
+794,2024-08-01,"Tgk. Rahmi Hartati, M.Kom.",kacang,3,1884511,debit
+693,2024-08-30,dr. Citra Hariyah,etawa,2,2544323,kredit
+819,2024-06-14,"Drs. Cornelia Waluyo, S.Ked",jawa,1,3575185,cash
+1020,2024-08-26,Tugiman Dabukke,kacang,3,"2,785,243",kredit
+130,2024-09-07,Yunita Yuniar,kacang,5,1180918,debit
+634,2024-09-09,Dt. Kuncara Kusmawati,jawa,1,"3,299,988",kredit
+702,2024-10-06,Hafshah Wastuti,kacang,2,1663545,cash
+981,2024-09-18,"Karen Lazuardi, S.E.",kacang,5,4498711,cash
+922,2024-10-24,"T. Cengkal Sudiati, S.Pd",etawa,1,1498232,kredit
+906,2024-08-07,Indra Saputra,jawa,4,"1,434,159",debit
+455,2024-07-08,T. Raditya Firmansyah,etawa,4,3903197,cash
+821,2024-11-26,Ratih Mangunsong,kacang,2,"2,476,076",cash
+268,2024-11-20,"R.A. Putri Nugroho, S.Kom",jawa,2,"3,676,988",cash
+1192,2024-08-11,"Drs. Hani Halim, M.M.",kacang,1,"4,976,176",kredit
+168,2024-06-12,Rika Halimah,etawa,1,4555265,cash
+731,2024-08-31,"Drs. Bambang Gunawan, S.H.",kacang,1,"4,973,115",kredit
+646,2024-11-29,R. Aisyah Sirait,kacang,5,1362157,cash
+27,2024-07-01,Fitriani Sitompul,etawa,4,4592082,kredit
+342,2024-09-21,Hamima Wahyudin,kacang,5,4014812,kredit
+588,2024-08-22,Prakosa Usamah,kacang,1,3518242,cash
+998,2024-10-24,"Jati Rajata, M.Ak",jawa,3,4583184,kredit
+1177,2024-12-03,Anita Maulana,jawa,3,"1,415,875",cash
+1041,2024-11-09,"Laila Palastri, S.Ked",kacang,1,2220733,debit
+34,2024-07-30,Dalimin Sitorus,etawa,4,2268693,cash
+1216,2024-10-01,"Puti Pia Siregar, S.Sos",jawa,3,2690586,cash
+41,2024-06-30,"Ina Uwais, M.Ak",kacang,1,"1,444,003",debit
+42,2024-08-21,Ida Mayasari,kacang,5,"1,806,564",debit
+1206,2024-07-09,Natalia Melani,kacang,4,"1,315,063",cash
+1170,2024-09-25,Sakti Ramadan,kacang,1,"1,372,767",debit
+838,2024-07-26,"Puti Tari Pradana, S.Gz",kacang,3,"4,983,286",cash
+75,2024-09-12,Arsipatra Manullang,kacang,4,1462684,debit
+1217,2024-11-22,R.M. Ibun Napitupulu,kacang,2,"2,280,797",debit
+610,2024-07-24,Asmuni Puspasari,etawa,5,"2,108,678",kredit
+1133,2024-11-07,Cager Widodo,jawa,2,1416887,debit
+29,2024-07-28,Zaenab Sinaga,kacang,1,4067710,debit
+442,2024-07-27,"Bahuwarna Laksmiwati, S.Kom",etawa,4,2837068,kredit
+666,2024-10-31,"R. Pia Suartini, S.H.",kacang,5,"2,171,578",debit
+4,2024-06-24,Karimah Farida,jawa,4,1980186,cash
+494,2024-09-18,"Prima Wibowo, M.Farm",kacang,5,"3,285,710",debit
+237,2024-12-04,"Erik Hutasoit, S.I.Kom",jawa,3,"1,026,133",debit
+552,2024-06-28,"Dr. Hani Mandasari, S.E.",jawa,4,3008128,kredit
+521,2024-10-01,Talia Pratiwi,etawa,2,1505680,cash
+526,2024-06-30,Balamantri Kusumo,jawa,2,1915868,cash
+1139,2024-09-27,Hendri Anggraini,jawa,1,"2,752,322",debit
+721,2024-11-05,"Najwa Astuti, M.Kom.",jawa,3,"4,257,735",debit
+736,2024-06-10,Heru Novitasari,etawa,5,1026635,kredit
+128,2024-10-24,Limar Hardiansyah,etawa,5,3294589,debit
+59,2024-07-14,Dt. Taufik Firgantoro,jawa,4,"4,524,065",debit
+632,2024-06-10,Salsabila Firmansyah,kacang,2,"1,012,656",kredit
+1182,2024-11-12,Vinsen Hartati,jawa,5,2901521,debit
+714,2024-07-06,Wulan Hidayat,jawa,3,2769574,debit
+593,2024-11-24,Shania Simbolon,etawa,5,4144467,cash
+854,2024-07-26,Ian Zulaika,jawa,4,"4,320,143",debit
+940,2024-10-23,Luis Lazuardi,jawa,3,"2,146,723",cash
+1077,2024-09-26,"Ir. Cinta Suryono, S.T.",etawa,5,"1,123,027",debit
+905,2024-08-12,"Vinsen Utami, S.T.",kacang,5,1861771,kredit
+934,2024-10-05,"Raina Nasyiah, S.IP",etawa,4,1648670,kredit
+805,2024-10-19,Reksa Yuliarti,kacang,1,"1,433,226",debit
+261,2024-08-02,R.A. Tantri Habibi,jawa,3,2320601,debit
+396,2024-06-24,Ayu Hutagalung,kacang,1,1786153,kredit
+1143,2024-08-11,"Drs. Jane Nainggolan, M.Kom.",etawa,5,"3,024,719",cash
+471,2024-12-06,Alambana Farida,etawa,4,"2,910,009",debit
+707,2024-12-03,Naradi Riyanti,kacang,3,3045299,debit
+1023,2024-10-19,"Bala Pradipta, S.E.I",jawa,3,"1,790,089",debit
+746,2024-07-18,Maida Yolanda,etawa,3,3332819,debit
+709,2024-09-02,Prayoga Safitri,jawa,1,1833809,kredit
+815,2024-10-09,Olivia Prasasta,jawa,5,2152177,debit
+514,2024-11-10,Bagiya Prabowo,kacang,4,"2,971,915",debit
+82,2024-07-03,R. Calista Narpati,kacang,5,"3,769,084",debit
+700,2024-09-26,"Drs. Agnes Yolanda, M.Kom.",kacang,4,"2,873,656",kredit
+915,2024-09-11,Kenari Yuniar,etawa,2,"2,002,597",kredit
+147,2024-09-03,"Puti Ella Lazuardi, S.Pd",kacang,5,"2,934,807",kredit
+1109,2024-10-27,H. Cemani Prastuti,kacang,3,1367689,cash
+151,2024-07-24,Legawa Saefullah,jawa,5,"3,662,641",cash
+775,2024-12-05,dr. Asmadi Damanik,kacang,4,"4,835,546",kredit
+330,2024-09-12,Laila Utami,jawa,3,4036268,cash
+7,2024-06-30,Kasiyah Najmudin,kacang,2,"1,494,576",kredit
+944,2024-07-23,Hj. Nova Hakim,kacang,5,"3,850,749",kredit
+823,2024-07-01,Mitra Palastri,kacang,2,"4,580,478",kredit
+735,2024-09-27,"Kawaca Rajasa, S.E.",kacang,3,"4,304,770",cash
+910,2024-11-06,Yosef Wasita,etawa,1,4824779,kredit
+469,2024-09-17,Hardi Dongoran,etawa,4,1388782,kredit
+182,2024-09-30,Harto Saefullah,jawa,1,1681958,kredit
+165,2024-07-06,"H. Pangeran Kurniawan, S.Sos",etawa,2,1050363,kredit
+452,2024-10-31,Dr. Galuh Saefullah,jawa,5,2785793,cash
+491,2024-11-17,KH. Ganep Marbun,jawa,5,"4,884,016",kredit
+814,2024-08-09,"Dt. Asirwada Sudiati, S.IP",etawa,2,"4,941,991",cash
+1144,2024-08-03,"Cager Farida, S.Pt",etawa,3,"1,444,219",debit
+1102,2024-07-17,Cindy Andriani,kacang,5,3888088,kredit
+1112,2024-09-28,"Ir. Cahyanto Samosir, S.E.I",jawa,4,"4,343,560",kredit
+96,2024-08-11,"Luis Gunawan, S.Sos",etawa,4,"4,630,524",kredit
